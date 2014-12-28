@@ -75,6 +75,12 @@
 - [ONE PAGE LOVE](https://onepagelove.com/) - The ultimate showcase of One Page websites
 - [Httpster](https://httpster.net/2018/oct/) - Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
 - [uisdc](https://www.uisdc.com/)
+- [It's Nice That](https://www.itsnicethat.com/)
+- [Mindsparkle](https://mindsparklemag.com/)
+- [Logo Design Love](https://www.logodesignlove.com/)
+- [Brandnew](https://www.underconsideration.com/brandnew/)
+- [Yatzer](https://www.yatzer.com/)
+- [TOPYS](https://www.topys.cn/)
 
 ## Picture
 
