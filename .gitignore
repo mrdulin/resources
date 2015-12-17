@@ -4,3 +4,4 @@ Thumbs.db
 public/
 .idea/
 .deploy_git/
+node_modules/
