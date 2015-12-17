@@ -3,16 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: novaline的博客
-subtitle: 无语中...
-description: 
-author: lin.du
+title: novaline
+subtitle: web developer
+description: developer tools, program, IT, life and interesting things
+author: du lin
 language:
+email: novaline@qq.com
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://novaline.space/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -64,6 +65,9 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: landscape
+plugins:
+- hexo-generator-sitemap
+
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -71,3 +75,6 @@ deploy:
   type: git
   repository: https://gitcafe.com/novaline/novaline.git
   branch: gitcafe-pages
+
+# Disqus
+disqus_shortname: novaline
