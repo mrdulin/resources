@@ -12,14 +12,14 @@ fancybox: true
 sidebar: right
 widgets:
 - category
+- tagcloud
 #- tag
-#- tagcloud
-#- archive
+- archive
 - recent_posts
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon: /favicon.jpg
 twitter:
 google_plus:
 fb_admins:

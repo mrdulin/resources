@@ -67,6 +67,8 @@ pagination_dir: page
 theme: landscape
 plugins:
 - hexo-generator-sitemap
+- hexo-generator-feed
+
 
 
 # Deployment
