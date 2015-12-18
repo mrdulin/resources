@@ -80,3 +80,7 @@ deploy:
 
 # Disqus
 disqus_shortname: novaline
+#duoshuo_shortname: dulin
+
+# pv
+firebase_pv: false

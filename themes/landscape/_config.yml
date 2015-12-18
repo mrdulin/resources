@@ -18,8 +18,9 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics:
-favicon: /favicon.jpg
+google_analytics: false
+baidu_analytics: true
+favicon: ./favicon.ico
 twitter:
 google_plus:
 fb_admins:

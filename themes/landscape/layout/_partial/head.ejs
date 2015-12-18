@@ -3,6 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="google-site-verification" content="4ENA1gL-qch-kZnWH4WJqbvw2OJRoDJ1hbhjz4-BLLQ" />
+
+  <!-- 生成当前页面title -->
   <%
   var title = page.title;
 
@@ -20,27 +22,36 @@
     title = 'Tag: ' + page.tag;
   }
   %>
+
   <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
+
+
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
   <%- open_graph({twitter_id: theme.twitter, google_plus: theme.google_plus, fb_admins: theme.fb_admins, fb_app_id: theme.fb_app_id}) %>
+
+  <!-- rss 订阅 -->
   <% if (theme.rss){ %>
     <link rel="alternative" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">
   <% } %>
+
+  <!-- favicon.ico -->
   <% if (theme.favicon){ %>
     <link rel="icon" href="<%- theme.favicon %>">
   <% } %>
+
+
   <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+
+
   <%- css('css/style') %>
+
+
+
+  <!-- google 分析统计 -->
   <%- partial('google-analytics') %>
+  <!-- baidu 分析统计 -->
+  <%- partial('baidu-analytics') %>
 
-
-  <script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "//hm.baidu.com/hm.js?fc11e17a1b4064a1b555467fb2e716ee";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
 </head>
