@@ -12,6 +12,8 @@ categories:
 
 微云地址：
 
+<!-- more -->
+
 [AngularJS权威教程](http://share.weiyun.com/b2c5f87dcc4a0ffb2495844654a7f4f0)
 
 

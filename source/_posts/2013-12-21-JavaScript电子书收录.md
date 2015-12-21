@@ -9,6 +9,10 @@ categories:
 
 ---
 
+微云地址：
+
+<!-- more -->
+
 [JavaScript权威指南(第6版)](http://share.weiyun.com/faf146874279845523150851923ed630)
 
 [JavaScript高级程序设计(第3版)](http://share.weiyun.com/9cb222ce9ea080223cac9a0f4ed00056)
