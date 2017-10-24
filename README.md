@@ -1,10 +1,6 @@
 ## Contents
 
-<<<<<<< HEAD
-- [Programming](#programming)
-=======
 - [Programming](#Programming)
->>>>>>> 8ae9aa0e34fddeaf18d1501135fd996262d4632d
 - [Design](#Design)
 - [Picture](#Picture)
 - [Video](#Video)
