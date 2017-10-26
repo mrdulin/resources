@@ -4,6 +4,9 @@
 - [Design](#Design)
 - [Picture](#Picture)
 - [Video](#Video)
+- [Software&Tools](#Software&Tools)
+- [Blog](#Blog)
+- [VPN](#VPN)
 
 ## Programming
 
@@ -33,6 +36,7 @@
   - [earthquake.usgs.gov](https://earthquake.usgs.gov/fdsnws/event/1/)
   - [Premium weather API for Developers](https://www.worldweatheronline.com/developer/)
   - [Dribbble API](http://developer.dribbble.com/) - Build and integrate tools and applications to help members publish their design work on Dribbble.
+  - [TinyJPG Developer API](https://tinyjpg.com/developers) - Hook up your server to optimize all your JPEG and PNG images on the fly.
 
 - CDN
 
@@ -54,6 +58,7 @@
 - [resourcecards](https://resourcecards.com/)
 - [ONE PAGE LOVE](https://onepagelove.com/) - The ultimate showcase of One Page websites
 - [Httpster](https://httpster.net/2018/oct/) - Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
+- [uisdc](https://www.uisdc.com/)
 
 ## Picture
 
@@ -76,3 +81,35 @@
 
 - [Pexels Videos](https://videos.pexels.com/) - Completely free stock videos.
 - [DISTILL BETA](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use.
+
+## Software&Tools
+
+- [xclient](http://xclient.info)
+- [Google+ featuredphotos](https://plus.google.com/featuredphotos) - 精选照片屏幕保护程序
+- [online-downloader](https://www.online-downloader.com/) - Free Online YouTube Convert and Download
+- [TinyJPG](https://tinyjpg.com/)
+- [RIOT](http://luci.criosweb.ro/riot/) - A free program designed to efficiently optimize images for the Web
+- [ImageAlpha](https://pngmini.com/)
+- [Feed43](http://feed43.com/) - Convert web pages into professionally looking RSS feeds.
+- [Let’s Encrypt](https://letsencrypt.org/) - Let’s Encrypt is a free, automated, and open Certificate Authority.
+- [PhpStorm Themes](http://www.phpstorm-themes.com/)
+- [天眼查](https://www.tianyancha.com/) - 都在用的商业安全工具
+- [citrix](https://www.citrix.com/)
+- [Privoxy](http://www.privoxy.org/)
+- [IPSW Downloads](https://ipsw.me/#) - Download current and previous versions of Apple's iOS Firmware and receive notifications when new firmwares are released.
+- [Uptodown](https://cn.uptodown.com/windows) - DownloadDiscoverShare
+- [producthunt](https://www.producthunt.com/)
+- [JWT.IO](https://jwt.io/) - JWT.IO allows you to decode, verify and generate JWT.
+- [SendGrid](https://sendgrid.com/) - Send Email Newsletters Password Resets Promotional Emails Shipping Notifications With Confidence
+- [Clip Converter](https://www.clipconverter.cc/) - YouTube to MP4 & MP3 Converter!
+- [vscodethemes](https://vscodethemes.com/) -
+
+## Blog
+
+- [program-think](https://program-think.blogspot.com/)
+- [John Papa](https://johnpapa.net/)
+- [nodejs blog](https://nodejs.org/en/blog/)
+
+## VPN
+
+- [VPN Gate](https://www.vpngate.net/cn/) - VPN Gate Academic Experiment Project is an online service as an academic research at Graduate School of University of Tsukuba, Japan. The purpose of this research is to expand the knowledge of "Global Distributed Public VPN Relay Servers" .
