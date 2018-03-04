@@ -38,12 +38,27 @@
   - [Premium weather API for Developers](https://www.worldweatheronline.com/developer/)
   - [Dribbble API](http://developer.dribbble.com/) - Build and integrate tools and applications to help members publish their design work on Dribbble.
   - [TinyJPG Developer API](https://tinyjpg.com/developers) - Hook up your server to optimize all your JPEG and PNG images on the fly.
+  - [Codewars API](https://dev.codewars.com/)
 
 - CDN
 
   - [Bootstrap 中文网开源项目免费 CDN 服务](https://www.bootcdn.cn/)
   - [Staticfile CDN](https://staticfile.org/)
   - [cdnjs](https://cdnjs.com/)
+
+- GAME
+
+  - [codingame](https://www.codingame.com/start)
+  - [codewars](www.codewars.com/r/w8cvNQ)
+
+- ONLINE CODING
+
+  - [Try Redis](http://try.redis.io/)
+  - [es6console](https://es6console.com/)
+  - [stackblitz](https://stackblitz.com/) - The online IDE for web applications. Powered by Visual Studio Code.
+  - [Flexbox Froggy](http://flexboxfroggy.com/)
+  - [leetcode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+  - [freecodecamp](https://freecodecamp.cn/home)
 
 ## Design
 
@@ -86,6 +101,7 @@
 ## Cheatsheets
 
 - [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Category:Cheatsheets) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific web application security topics.
+- [OverAPI](http://overapi.com/) - Collecting all the cheat sheets
 
 ## Software&Tools
 
@@ -114,6 +130,7 @@
 - [program-think](https://program-think.blogspot.com/)
 - [John Papa](https://johnpapa.net/)
 - [nodejs blog](https://nodejs.org/en/blog/)
+- [Todd Motto](https://toddmotto.com/) - JavaScript and Angular articles
 
 ## VPN
 
