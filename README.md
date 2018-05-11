@@ -65,26 +65,26 @@
   - [Flexbox Froggy](http://flexboxfroggy.com/)
   - [leetcode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
   - [freecodecamp](https://freecodecamp.cn/home)
-  
+
 - DATABASE
 
   - [Planet PostgreSQL](https://planet.postgresql.org/)
   - [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
   - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
   - [PostgreSQL 9.6.0 手册](http://www.postgres.cn/docs/9.6/)
-  
+
 - Machine Learning
 
   - [AWS Training and Certification - Machine Learning](https://amazonaws-china.com/cn/training/learning-paths/machine-learning/)
-  
+
 - SCA
 
   - [Codacy](https://www.codacy.com/) - Automated code reviews & code analytics
-  
+
 - 方法论
-  
+
   - [12-Factor](https://www.12factor.net/zh_cn/)
-  
+
 ## Design
 
 - [facebook.design](https://facebook.design/) - Collection of articles, videos, and resources made by designers at Facebook.
@@ -137,7 +137,7 @@
 
 - [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Category:Cheatsheets) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific web application security topics.
 - [OverAPI](http://overapi.com/) - Collecting all the cheat sheets
-- [devhints](https://devhints.io/) 
+- [devhints](https://devhints.io/)
 
 ## Software&Tools
 
@@ -161,7 +161,7 @@
 - [Clip Converter](https://www.clipconverter.cc/) - YouTube to MP4 & MP3 Converter!
 - [vscodethemes](https://vscodethemes.com/)
 - [Firefox Send](https://send.firefox.com/) - 简单、私密的文件分享服务
-- [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - easily download chrome extensions 
+- [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - easily download chrome extensions
 - [MikuTools](https://miku.tools/) - 一个轻量的工具集合
 - [crontab.guru](https://crontab.guru/) - the cron schedule expression editor
 - [Flag Counter](http://s11.flagcounter.com/index.html) - Flag Counter Management
@@ -171,6 +171,72 @@
 - [What is my IPv6 Address?](http://ipv4.whatismyv6.com/)
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client
 - [Insomnia](https://insomnia.rest/) - Insomnia REST Client
+- [cmder](http://cmder.net/)
+- [Git Bash](https://git-scm.com/downloads) Git GUI Client 自带
+- [iTerm2 - Mac OS Terminal Replacement](https://www.iterm2.com/)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [LibreOffice](https://www.libreoffice.org/)
+- [Apache OpenOffice](https://www.openoffice.org/zh-cn/) 开放免费的文字处理软件
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
+- [Foxmail](http://www.foxmail.com/)
+
+- [Rufus](https://rufus.akeo.ie/?locale=zh_CN) 轻松创建 USB 启动盘
+- [TumblOne](http://www.tumblone.com/) free Tumblr image downloader
+- [Lingoes Translator 灵格斯词霸](http://www.lingoes.cn/) 免费的词典与文本翻译软件
+- [f.lux](https://justgetflux.com/) 护眼工具
+- [AutoHotkey](https://www.autohotkey.com/)
+- [LICEcap](http://www.cockos.com/licecap/) GIF 录制工具
+- [Clover 3](http://cn.ejie.me/)
+- [AppCleaner](http://freemacsoft.net/appcleaner/) mac osx 卸载软件及其相关文件
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet/) 按`command`快速查看当前软件的快捷键
+
+- [Sublime Text](https://www.sublimetext.com/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [Brackets](http://brackets.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+- [Atom](https://atom.io/)
+- [gedit](https://wiki.gnome.org/Apps/Gedit)
+- [vscode](https://code.visualstudio.com/)
+
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)
+- [Foxit PDF Reader](https://www.foxitsoftware.com/)
+- [Adobe Acrobar Reader DC](https://acrobat.adobe.com/us/en/products/pdf-reader.html)
+- [PDF-XChange Viewer](http://www.tracker-software.com/product/pdf-xchange-viewer)
+
+- [SoftEther](https://www.softether.org/)
+- [Shadowsocks](https://shadowsocks.org/en/index.html)
+- [Lantern](https://getlantern.org/)
+- [Psiphon](https://psiphon.ca/)
+
+- [7-Zip](http://www.7-zip.org/)
+- [WinRAR](http://www.winrar.com/)
+- [Bandizip](https://www.bandisoft.com/bandizip/cn/) 轻巧、快速、免费的压缩软件
+- [KeePass](http://keepass.info/)
+- Chrome Inspect (审查元素时，经常 crash，需翻墙)
+- [GapDebug](https://www.genuitec.com/products/gapdebug/)（需翻墙）
+
+- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN&gl=US)
+- [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
+- [FireShot](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=zh-CN&gl=US)
+- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=zh-CN&gl=US)
+- [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN&gl=US)
+- [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp?hl=zh-CN&gl=US)
+- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN&gl=US)
+- [WEB 前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN&gl=US)
+- [Flash Video Downloader](https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc?hl=zh-CN&gl=US)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi)
+- [Emmet Re:view](https://chrome.google.com/webstore/detail/epejoicbhllgiimigokgjdoijnpaphdp)
+
+- [Sourcetree](https://www.sourcetreeapp.com/)
+- [Git Extensions](https://gitextensions.github.io/)
+- [PuTTY](http://www.putty.org/) SSH and telnet client
+- [FileZilla](https://filezilla-project.org/) The free FTP solution
+- [Charles](https://www.charlesproxy.com/) Web Debugging Proxy Application for Windows, Mac OS and Linux
+- [Fiddler](http://www.telerik.com/fiddler) free web debugging proxy
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [VMware Workstation](http://www.vmware.com/cn)
+- [Parallels Desktop](http://www.parallelsdesktop.cn/)
 
 ## Blog
 
@@ -188,17 +254,17 @@
 
 ## Game
 
-- [电玩巴士](http://www.tgbus.com/) - 中国游戏第一门户_电玩巴士_电视游戏_电子游戏_网络游戏_手机游戏_网页游戏
+- [电玩巴士](http://www.tgbus.com/) - 中国游戏第一门户*电玩巴士*电视游戏*电子游戏*网络游戏*手机游戏*网页游戏
 - [游民星空](http://www.gamersky.com/) - 大型单机游戏媒体 提供最具特色单机游戏资讯、下载
 - [方块游戏](http://www.cubejoy.com/)
-- [Inso link](http://inso.link/) - 简洁快速的osu!下载云
+- [Inso link](http://inso.link/) - 简洁快速的 osu!下载云
 - [Humble Bundle](https://www.humblebundle.com/)
 - [GOG](https://www.gog.com/#)
 - [fanatical](https://www.fanatical.com/zh-hans/)
 - [stepmaniaonline](http://stepmaniaonline.net/)
 - [Malody](https://m.mugzone.net/) - Cross-platform music game community
 - [epicgames](https://www.epicgames.com/site/zh-CN/home)
-- [sonkwo](https://www.sonkwo.com/) - 中国最大的单机游戏数字商城_海量低价_正版下载 | 杉果游戏
+- [sonkwo](https://www.sonkwo.com/) - 中国最大的单机游戏数字商城*海量低价*正版下载 | 杉果游戏
 - [Steam Card Exchange](https://www.steamcardexchange.net/index.php)
 - [Steam Sales - Recommended](https://www.steamgifts.com/)
 - [AStats](http://astats.astats.nl/astats/index.php) - AStats Steam User Games Overview
