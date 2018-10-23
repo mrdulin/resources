@@ -27,3 +27,10 @@
   - [API - 深蓝阅读 | BlueReader](http://api.bluereader.org/) - 通过调用深蓝阅读提供的接口，可以将深蓝阅读的热门内容、自己的订阅等展现在自己的网站或博客上，丰富网站的内容。
   - [API 2.0 - Gate.io](https://www.gate.io/api2) - The Gate of Blockchain Assets Exchange
   - [earthquake.usgs.gov](https://earthquake.usgs.gov/fdsnws/event/1/)
+  - [Premium weather API for Developers](https://www.worldweatheronline.com/developer/)
+
+- CDN
+  - [Bootstrap中文网开源项目免费 CDN 服务](https://www.bootcdn.cn/)
+  - [Staticfile CDN](https://staticfile.org/)
+  - [cdnjs](https://cdnjs.com/)
+  
