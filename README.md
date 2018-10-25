@@ -1,10 +1,11 @@
 ## Contents
 
-- [programming](#programming)
+- [Programming](#programming)
 - [Design](#Design)
 - [Picture](#Picture)
+- [Video](#Video)
 
-## programming
+## Programming
 
 - OPEN API & WEB SERVICE
 
@@ -31,6 +32,7 @@
   - [API 2.0 - Gate.io](https://www.gate.io/api2) - The Gate of Blockchain Assets Exchange
   - [earthquake.usgs.gov](https://earthquake.usgs.gov/fdsnws/event/1/)
   - [Premium weather API for Developers](https://www.worldweatheronline.com/developer/)
+  - [Dribbble API](http://developer.dribbble.com/) - Build and integrate tools and applications to help members publish their design work on Dribbble.
 
 - CDN
 
@@ -46,6 +48,12 @@
 - [The Best Designs](https://www.thebestdesigns.com/) - Web Design Inspiration
 - [Web Design Museum](https://www.webdesignmuseum.org/) - The museum exhibits over 900 carefully selected and sorted web sites that show web design trends between the years 1995 and 2005.
 - [straightline](http://bm.straightline.jp/) - web design bookmarking
+- [graphberry](https://www.graphberry.com/) - Free pixel perfect resources, made with love
+- [iconfont](http://www.iconfont.cn/) - 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
+- [icons8](https://icons8.com/) - 84,900 Free Flat Icons
+- [resourcecards](https://resourcecards.com/)
+- [ONE PAGE LOVE](https://onepagelove.com/) - The ultimate showcase of One Page websites
+- [Httpster](https://httpster.net/2018/oct/) - Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
 
 ## Picture
 
@@ -59,3 +67,12 @@
 - [pexels](https://www.pexels.com/) - Best free stock photos in one place.
 - [free-paper-texture](http://free-paper-texture.com/) - 商用利用可能な高画質の紙のテクスチャー素材を無料でダウンロードできるサイト
 - [photo-ac](https://zh-tw.photo-ac.com/) - 免費高質量的圖像，您可以用於您的個人和商業項目。
+- [freerangestock](https://freerangestock.com/) - Great photos. Totally free.
+- [placekitten](http://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
+- [Placeholder.com](https://placeholder.com/) - Placeholder.com is a free image placeholder service for web designers, serving 1+ billion images per month.
+- [StockSnap.io](https://stocksnap.io/) - Beautiful free stock photos
+
+## Video
+
+- [Pexels Videos](https://videos.pexels.com/) - Completely free stock videos.
+- [DISTILL BETA](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use.
