@@ -109,6 +109,7 @@
 
 - [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Category:Cheatsheets) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific web application security topics.
 - [OverAPI](http://overapi.com/) - Collecting all the cheat sheets
+- [devhints](https://devhints.io/) 
 
 ## Software&Tools
 
