@@ -4,10 +4,14 @@
 - [Design](#Design)
 - [Picture](#Picture)
 - [Video](#Video)
+- [Music](#Music)
 - [Cheatsheets](#Cheatsheets)
 - [Software&Tools](#Software&Tools)
 - [Blog](#Blog)
 - [VPN](#VPN)
+- [Game](#Game)
+- [Entertainment](#Entertainment)
+- [Forum](#Forum)
 
 ## Programming
 
@@ -59,6 +63,13 @@
   - [Flexbox Froggy](http://flexboxfroggy.com/)
   - [leetcode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
   - [freecodecamp](https://freecodecamp.cn/home)
+  
+- DATABASE
+
+  - [Planet PostgreSQL](https://planet.postgresql.org/)
+  - [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
+  - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+  - [PostgreSQL 9.6.0 手册](http://www.postgres.cn/docs/9.6/)
 
 ## Design
 
@@ -143,3 +154,35 @@
 ## VPN
 
 - [VPN Gate](https://www.vpngate.net/cn/) - VPN Gate Academic Experiment Project is an online service as an academic research at Graduate School of University of Tsukuba, Japan. The purpose of this research is to expand the knowledge of "Global Distributed Public VPN Relay Servers" .
+
+## Game
+
+- [电玩巴士](http://www.tgbus.com/) - 中国游戏第一门户_电玩巴士_电视游戏_电子游戏_网络游戏_手机游戏_网页游戏
+- [游民星空](http://www.gamersky.com/) - 大型单机游戏媒体 提供最具特色单机游戏资讯、下载
+- [方块游戏](http://www.cubejoy.com/)
+- [Inso link](http://inso.link/) - 简洁快速的osu!下载云
+- [Humble Bundle](https://www.humblebundle.com/)
+- [GOG](https://www.gog.com/#)
+- [fanatical](https://www.fanatical.com/zh-hans/)
+- [stepmaniaonline](http://stepmaniaonline.net/)
+- [Malody](https://m.mugzone.net/) - Cross-platform music game community
+- [epicgames](https://www.epicgames.com/site/zh-CN/home)
+- [sonkwo](https://www.sonkwo.com/) - 中国最大的单机游戏数字商城_海量低价_正版下载 | 杉果游戏
+- [Steam Card Exchange](https://www.steamcardexchange.net/index.php)
+- [Steam Sales - Recommended](https://www.steamgifts.com/)
+- [AStats](http://astats.astats.nl/astats/index.php) - AStats Steam User Games Overview
+- [Steam Database](https://steamdb.info/)
+- [steam.tools](https://steam.tools/)
+- [STEAM SIGNATURE GENERATOR](https://steamsignature.com/) - Steam Signature allows you to generate a dynamic signature which shows your Steam status, Steam avatar, current level, XP completion and more using your SteamID
+
+## Entertainment
+
+- [fandom](http://fandom.wikia.com/)
+
+## Forum
+
+- [steamcn](https://steamcn.com/forum.php)
+
+## Music
+
+- [上海アリス幻樂団](http://www16.big.or.jp/~zun/)
