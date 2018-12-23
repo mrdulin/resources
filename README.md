@@ -74,6 +74,10 @@
 - Machine Learning
 
   - [AWS Training and Certification - Machine Learning](https://amazonaws-china.com/cn/training/learning-paths/machine-learning/)
+  
+- SCA
+
+  - [Codacy](https://www.codacy.com/) - Automated code reviews & code analytics
 
 ## Design
 
@@ -146,7 +150,7 @@
 - [JWT.IO](https://jwt.io/) - JWT.IO allows you to decode, verify and generate JWT.
 - [SendGrid](https://sendgrid.com/) - Send Email Newsletters Password Resets Promotional Emails Shipping Notifications With Confidence
 - [Clip Converter](https://www.clipconverter.cc/) - YouTube to MP4 & MP3 Converter!
-- [vscodethemes](https://vscodethemes.com/) -
+- [vscodethemes](https://vscodethemes.com/)
 
 ## Blog
 
