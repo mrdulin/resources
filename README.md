@@ -70,6 +70,10 @@
   - [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
   - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
   - [PostgreSQL 9.6.0 手册](http://www.postgres.cn/docs/9.6/)
+  
+- Machine Learning
+
+  - [AWS Training and Certification - Machine Learning](https://amazonaws-china.com/cn/training/learning-paths/machine-learning/)
 
 ## Design
 
