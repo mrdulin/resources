@@ -158,6 +158,7 @@
 - [John Papa](https://johnpapa.net/)
 - [nodejs blog](https://nodejs.org/en/blog/)
 - [Todd Motto](https://toddmotto.com/) - JavaScript and Angular articles
+- [The GitHub Blog](https://blog.github.com/)
 
 ## VPN
 
