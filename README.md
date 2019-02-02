@@ -183,6 +183,7 @@
 - [Steam Database](https://steamdb.info/)
 - [steam.tools](https://steam.tools/)
 - [STEAM SIGNATURE GENERATOR](https://steamsignature.com/) - Steam Signature allows you to generate a dynamic signature which shows your Steam status, Steam avatar, current level, XP completion and more using your SteamID
+- [育碧](https://store.ubi.com/cn/home)
 
 ## Entertainment
 
