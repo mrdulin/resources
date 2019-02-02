@@ -78,6 +78,10 @@
 - SCA
 
   - [Codacy](https://www.codacy.com/) - Automated code reviews & code analytics
+  
+- 方法论
+  
+  - [12-Factor](https://www.12factor.net/zh_cn/)
 
 ## Design
 
