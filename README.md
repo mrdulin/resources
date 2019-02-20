@@ -43,6 +43,7 @@
   - [Dribbble API](http://developer.dribbble.com/) - Build and integrate tools and applications to help members publish their design work on Dribbble.
   - [TinyJPG Developer API](https://tinyjpg.com/developers) - Hook up your server to optimize all your JPEG and PNG images on the fly.
   - [Codewars API](https://dev.codewars.com/)
+  - [IT Bookstore API (version 1.0)](https://api.itbook.store/)
 
 - CDN
 
