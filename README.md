@@ -157,6 +157,16 @@
 - [SendGrid](https://sendgrid.com/) - Send Email Newsletters Password Resets Promotional Emails Shipping Notifications With Confidence
 - [Clip Converter](https://www.clipconverter.cc/) - YouTube to MP4 & MP3 Converter!
 - [vscodethemes](https://vscodethemes.com/)
+- [Firefox Send](https://send.firefox.com/) - 简单、私密的文件分享服务
+- [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - easily download chrome extensions 
+- [MikuTools](https://miku.tools/) - 一个轻量的工具集合
+- [crontab.guru](https://crontab.guru/) - the cron schedule expression editor
+- [Flag Counter](http://s11.flagcounter.com/index.html) - Flag Counter Management
+- [Firefox Monitor](https://monitor.firefox.com/) - 看看您是否出现在数据外泄事件中
+- [奶牛快传 | CowTransfer](https://fuli.cowtransfer.com/) - 文件传输服务
+- [Squoosh](https://squoosh.app/)
+- [What is my IPv6 Address?](http://ipv4.whatismyv6.com/)
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client
 
 ## Blog
 
