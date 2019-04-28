@@ -176,6 +176,7 @@
 - [Todd Motto](https://toddmotto.com/) - JavaScript and Angular articles
 - [The GitHub Blog](https://blog.github.com/)
 - [Facebook Code](https://code.fb.com/feed/) - Facebook Engineering Blog
+- [Martin Fowler](https://martinfowler.com/)
 
 ## VPN
 
