@@ -44,6 +44,7 @@
   - [TinyJPG Developer API](https://tinyjpg.com/developers) - Hook up your server to optimize all your JPEG and PNG images on the fly.
   - [Codewars API](https://dev.codewars.com/)
   - [IT Bookstore API (version 1.0)](https://api.itbook.store/)
+  - [Gitter API](https://developer.gitter.im/docs/welcome)
 
 - CDN
 
