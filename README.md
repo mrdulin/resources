@@ -108,6 +108,8 @@
 - [TOPYS](https://www.topys.cn/)
 - [DrawKit](https://www.drawkit.io/) - DrawKit is a collection of beautiful, customisable MIT licensed illustrations, both free and paid, in two styles, to use on your next website, app, or project.
 - [Vector Logo Zone](https://www.vectorlogo.zone/) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
+- [Figma](https://www.figma.com/) - Figma: the collaborative interface design tool.
+- [Font Flipper](https://fontflipper.com/) - Find Free Fonts
 
 ## Picture
 
@@ -168,6 +170,7 @@
 - [Squoosh](https://squoosh.app/)
 - [What is my IPv6 Address?](http://ipv4.whatismyv6.com/)
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client
+- [Insomnia](https://insomnia.rest/) - Insomnia REST Client
 
 ## Blog
 
