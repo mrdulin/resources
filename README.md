@@ -127,11 +127,16 @@
 - [placekitten](http://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
 - [Placeholder.com](https://placeholder.com/) - Placeholder.com is a free image placeholder service for web designers, serving 1+ billion images per month.
 - [StockSnap.io](https://stocksnap.io/) - Beautiful free stock photos
+- [picjumbo](https://picjumbo.com/) - Download free stock photos, backgrounds and free high-resolution images for personal and commercial use
+- [foodiesfeed](https://www.foodiesfeed.com/) - 是一个以「美食」为主题的免费图库网站。它收集了来自世界各地的美食摄影师的食物照片作品，并在 CC0 许可下免费共享给任何人使用。
+- [pakutaso](https://www.pakutaso.com/) - 高解像度の画像を何枚でもダウンロードできる国内最大規模の写真素材サイトです
+- [isorepublic](https://isorepublic.com/) - Thousands of Free High-Resolution CC0 Photos and Videos
 
 ## Video
 
 - [Pexels Videos](https://videos.pexels.com/) - Completely free stock videos.
 - [DISTILL BETA](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use.
+- [mixkit](https://mixkit.co/) - Extraordinary HD videos. For you to use, completely free of charge. 免费可商用！Mixkit 优质高清视频素材 MP4 + 卡通艺术插画设计图片下载网站
 
 ## Cheatsheets
 
