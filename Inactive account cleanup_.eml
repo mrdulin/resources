@@ -1,0 +1,118 @@
+Received: from 198.2.187.24 (unknown [198.2.187.24])
+	by newmx34.qq.com (NewMx) with SMTP id 
+	for <novaline@qq.com>; Tue, 16 Jul 2019 12:41:28 +0800
+X-QQ-SPAM: true
+X-QQ-FEAT: F2ARtry9UawlSnmSaRymbzsXuT1kLBlHidrUFiIN2szcVP7a0jUEcw9f043e1
+	XpMZ+Q6Ef7yPoI=
+X-QQ-MAILINFO: ORcn7px8coVBb4xoh4bJxYbmqo7Sx490DwVxq6+6g0y6S64bKaUHo0aT6
+	/r6SrxdwcZAB69r+x/yS3y6tobWU1dNeJ7PIuED/4l2Y72mEijZpd0UUdBb+YtNdPmAz5Rr
+	BAYXeJxmyElB54Seu1M3a8IwqqdKJ0q2CWnhGlT4kwSNapdUED5HHSzrEI+7J2I6v0bYFD/
+	3PV06E8Rt7h2G3yO2SQAzTSc+XLdISk/5PWI3QV7taxdfvrA=
+X-QQ-mid: mx34t1563252088t0ehorzum
+X-QQ-CSender: mandrillapp.com#inactive-accounts@pushbullet.com
+X-QQ-ORGSender: bounce-md_15708455.5d2d5575.v1-c3afc231740c4f0199f8cd4021f180e2@mandrillapp.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=mandrill; d=pushbullet.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=inactive-accounts@pushbullet.com;
+ bh=k7I0JcQTAYeAjPQcgHnzNd77bOQrNfkYFO3qQey2Rlg=;
+ b=exwqJe/x+ktgb/U+Wu+c/JBhc8hKIuIRbPW27L7M3JT6MvtEUPnA9ghaEPRbpDNVwvPCer/aVuu+
+   /xYpTlpTrNRJrVyyrIfSTflvHHa3XiEQg5Z2rJJNhTiz2diu+O18M9LpyHWZLGtPmBK2xmEh3SNZ
+   UqXodqsTaE0ce8QG/hs=
+Received: from pmta01.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail187-24.suw11.mandrillapp.com id h5lang174i4o for <novaline@qq.com>; Tue, 16 Jul 2019 04:41:26 +0000 (envelope-from <bounce-md_15708455.5d2d5575.v1-c3afc231740c4f0199f8cd4021f180e2@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1563252085; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=k7I0JcQTAYeAjPQcgHnzNd77bOQrNfkYFO3qQey2Rlg=; 
+ b=CZU99Kv7Y9sLhe6FUpySrV+GPNYTi7JSqCdl6r+tMlV8InYYI7dsDayqi9g7bhQOdYsMhD
+ BqiB5P8rw6Z3cmbhvN4Zbn5GyJ0DWFIRKbsRMeU9+RsKqf2vaGo1TBE/Zi2SDINHbkFyAdXN
+ Sm1Hyv6XOanksgNf1vEFzHQvMjr/w=
+From: Pushbullet <inactive-accounts@pushbullet.com>
+Subject: Inactive account cleanup
+Return-Path: <bounce-md_15708455.5d2d5575.v1-c3afc231740c4f0199f8cd4021f180e2@mandrillapp.com>
+Received: from [172.220.73.127] by mandrillapp.com id c3afc231740c4f0199f8cd4021f180e2; Tue, 16 Jul 2019 04:41:25 +0000
+To: novaline <novaline@qq.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=15708455.c3afc231740c4f0199f8cd4021f180e2
+X-Mandrill-User: md_15708455
+Message-Id: <15708455.20190716044125.5d2d5575e60d18.63734995@mail187-24.suw11.mandrillapp.com>
+Date: Tue, 16 Jul 2019 04:41:25 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-kaAIFn4EhAhoNZPsE-5whQ"
+
+--_av-kaAIFn4EhAhoNZPsE-5whQ
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+         
+  Hi! It looks like your Pushbullet account for this email address hasn't
+been active for a while. We delete inactive accounts as an additional layer
+of protection for your privacy. This account is scheduled to be deleted in
+60 days. 
+  Don't want your account deleted? No problem at all. Sign in to your
+account on pushbullet.com <https://www.pushbullet.com> or any of our apps
+and your account will be off the cleanup list. 
+ 
+  Did you receive this email even though you've been using Pushbullet
+lately? We may be cleaning up a second Pushbullet account you're not using
+anymore. If that doesn't sound right, simply reply to this email and we'll
+take a look. 
+   =E2=99=A5 
+  Pushbullet is made by a small band of superheroes in San Francisco, CA.
+
+--_av-kaAIFn4EhAhoNZPsE-5whQ
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=3D"utf-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D=
+1">
+    </head>
+    <body style=3D"margin:0;padding:0;color:#333;font-size:18px;">
+        <div style=3D"background-color:#6ec07c;padding:15px 20px;">
+            <img src=3D"https://s3.amazonaws.com/pushbullet-site/logo3.png"=
+ width=3D"220" border=3D"0" alt=3D"Pushbullet">
+        </div>
+        <div style=3D"margin:20px;">
+            Hi! It looks like your Pushbullet account for this email addres=
+s hasn't been active for a while. We delete inactive accounts as an additio=
+nal layer of protection for your privacy. This account is scheduled to be d=
+eleted in 60 days.
+        </div>
+        <div style=3D"margin:20px;">
+            Don't want your account deleted? No problem at all. Sign in to =
+your account on <a href=3D"https://mandrillapp.com/track/click/15708455/www=
+.pushbullet.com?p=3DeyJzIjoianVhVF9MdTFzRWFWOWk2QXZMV0QzaFVkT244IiwidiI6MSw=
+icCI6IntcInVcIjoxNTcwODQ1NSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy=
+5wdXNoYnVsbGV0LmNvbVwiLFwiaWRcIjpcImMzYWZjMjMxNzQwYzRmMDE5OWY4Y2Q0MDIxZjE4M=
+GUyXCIsXCJ1cmxfaWRzXCI6W1wiYzdiODkzMDgwODQ2YTg5NmYwYzM4YzM0ZjM3MzRlZDQzZTll=
+NjZmOVwiXX0ifQ">pushbullet.com</a> or any of our apps and your account will=
+ be off the cleanup list.
+        </div>
+        <div style=3D"border-top:1px solid #ecf0f0"></div>
+        <div style=3D"margin:20px;">
+           =09Did you receive this email even though you've been using Push=
+bullet lately? We may be cleaning up a second Pushbullet account you're not=
+ using anymore. If that doesn't sound right, simply reply to this email and=
+ we'll take a look.
+        </div>
+=09=09
+        <div style=3D"background-color:#ecf0f0;overflow:hidden;padding:20px=
+ 0;text-align:center;margin-top:40px;font-size:14px;">
+            <div style=3D"font-size:20px;">
+                =E2=99=A5
+            </div>
+            <div style=3D"margin:0 20px;">
+                Pushbullet is made by a small band of superheroes in San Fr=
+ancisco, CA.
+            </div>
+        </div>
+    <img src=3D"https://mandrillapp.com/track/open.php?u=3D15708455&id=3Dc3=
+afc231740c4f0199f8cd4021f180e2" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-kaAIFn4EhAhoNZPsE-5whQ--
+
+
