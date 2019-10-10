@@ -242,6 +242,8 @@
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [VMware Workstation](http://www.vmware.com/cn)
 - [Parallels Desktop](http://www.parallelsdesktop.cn/)
+- [i2p](https://geti2p.net/zh-cn/)
+  
 
 ## Blog
 
