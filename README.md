@@ -46,6 +46,7 @@
   - [IT Bookstore API (version 1.0)](https://api.itbook.store/)
   - [Gitter API](https://developer.gitter.im/docs/welcome)
   - [verystream API](https://verystream.com/api)
+  - [Pastebin.com developers API](https://pastebin.com/api) 
 
 - CDN
 
