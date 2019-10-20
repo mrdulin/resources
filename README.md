@@ -178,6 +178,7 @@
 - [What is my IPv6 Address?](http://ipv4.whatismyv6.com/)
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client
 - [Insomnia](https://insomnia.rest/) - Insomnia REST Client
+- [ExtendsClass](https://extendsclass.com/) - Online developer tools: REST/SOAP Clients, SQLite browser, Regex/XPath/JSONPath Testers, code checkers, encoders and converters.
 - [cmder](http://cmder.net/)
 - [Git Bash](https://git-scm.com/downloads) Git GUI Client 自带
 - [iTerm2 - Mac OS Terminal Replacement](https://www.iterm2.com/)
