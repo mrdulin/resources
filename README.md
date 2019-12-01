@@ -51,6 +51,7 @@
   - [Slack API](https://api.slack.com/)
   - [Workday API](https://community.workday.com/api)
   - [新浪微博JSSDK](http://jssdk.sinaapp.com/)
+  - [射手(伪) API文档](https://assrt.net/api/doc)
   
 
 - CDN
@@ -58,6 +59,7 @@
   - [Bootstrap 中文网开源项目免费 CDN 服务](https://www.bootcdn.cn/)
   - [Staticfile CDN](https://staticfile.org/)
   - [cdnjs](https://cdnjs.com/)
+  - [UNPKG](https://unpkg.com/#/) - unpkg is a fast, global content delivery network for everything on npm.
 
 - GAME
 
@@ -243,8 +245,28 @@
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [VMware Workstation](http://www.vmware.com/cn)
 - [Parallels Desktop](http://www.parallelsdesktop.cn/)
-- [i2p](https://geti2p.net/zh-cn/)
-  
+- [I2P Anonymous Network](https://geti2p.net/zh-cn/)
+- [DevDocs API Documentation](http://devdocs.io/)
+- [W3cubDocs API Documentation](http://docs.w3cub.com/)
+- [Imgur: The magic of the Internet](https://imgur.com/)
+- [v2ray](https://www.v2ray.com/)
+- [neatdownloadmanager](https://www.neatdownloadmanager.com/index.php/en/)
+- [draw.io](https://www.draw.io/) - draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+- [Pastebin](https://pastebin.com/) - Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time.
+- [osu!next Signature Generator](https://osusig.lolico.moe/)
+- [射手网(伪) - assrt.net](https://assrt.net/)
+- [免费在线 YouTube 下载器：下载 YouTube 视频、Facebook 等等！](https://zh.savefrom.net/)
+- [CC Search](https://search.creativecommons.org/) - Search for free content in the public domain and under Creative Commons licenses.
+- [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
+- [WebPagetest](http://www.webpagetest.org/) - Website Performance and Optimization Test
+- [WebTorrent](https://webtorrent.io/) - Streaming browser torrent client
+- [Smallpdf](https://smallpdf.com/) - A Free Solution to all your PDF Problems
+- [Convertio](https://convertio.co/) -  File Converter
+- [Cloudflare SSL Test](https://www.cloudflare.com/lp/ssl-test/) - Test your site for common SSL Errors
+- [Fast](https://fast.com/) - Internet Speed Test
+- [imgbox](https://imgbox.com/) - fast, simple image host
+- [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
+- [Local Guides](https://maps.google.com/localguides/home) - Local Guides is a global community of explorers who write reviews, share photos, answer questions, add or edit places, and check facts on Google Maps. Millions of people rely on contributions like yours to decide where to go and what to do.
 
 ## Blog
 
@@ -255,6 +277,8 @@
 - [The GitHub Blog](https://blog.github.com/)
 - [Facebook Code](https://code.fb.com/feed/) - Facebook Engineering Blog
 - [Martin Fowler](https://martinfowler.com/)
+- [StrongLoop Blog](https://strongloop.com/strongblog/)
+- [鳥哥的 Linux 私房菜](http://linux.vbird.org/new_linux.php) - 學習 Linux 新手的建議
 
 ## VPN
 
@@ -280,6 +304,7 @@
 - [steam.tools](https://steam.tools/)
 - [STEAM SIGNATURE GENERATOR](https://steamsignature.com/) - Steam Signature allows you to generate a dynamic signature which shows your Steam status, Steam avatar, current level, XP completion and more using your SteamID
 - [育碧](https://store.ubi.com/cn/home)
+- [鈊象電子](https://www.igs.com.tw/)
 
 ## Entertainment
 
@@ -287,7 +312,8 @@
 
 ## Forum
 
-- [steamcn](https://steamcn.com/forum.php)
+- [keylol](https://keylol.com/)
+- [小众软件官方论坛](https://meta.appinn.net/)
 
 ## Music
 
