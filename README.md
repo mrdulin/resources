@@ -48,6 +48,10 @@
   - [verystream API](https://verystream.com/api)
   - [Pastebin.com developers API](https://pastebin.com/api)
   - [Discord Developer](https://discordapp.com/developers/docs/intro) 
+  - [Slack API](https://api.slack.com/)
+  - [Workday API](https://community.workday.com/api)
+  - [新浪微博JSSDK](http://jssdk.sinaapp.com/)
+  
 
 - CDN
 
