@@ -15,7 +15,7 @@
 
 ## Programming
 
-- OPEN API & WEB SERVICE
+- OPEN WEB API & WEB SERVICE
 
   - [环境云](http://www.envicloud.cn/pages/index.html) - 环境大数据免费开放平台
   - [聚合数据个人中心](https://www.juhe.cn/)
