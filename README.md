@@ -167,6 +167,7 @@
 
 ## Software&Tools
 
+- [pgAdmin](https://www.pgadmin.org/) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [马克鳗](http://www.getmarkman.com/) - 高效的设计稿标注、测量工具
 - [Forticlient](https://www.forticlient.com/) - Next Generation Endpoint Protection
 - [typora](https://www.typora.io/) - 
