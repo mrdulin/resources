@@ -167,6 +167,9 @@
 
 ## Software&Tools
 
+- [马克鳗](http://www.getmarkman.com/) - 高效的设计稿标注、测量工具
+- [Forticlient](https://www.forticlient.com/) - Next Generation Endpoint Protection
+- [typora](https://www.typora.io/) - 
 - [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
 - [OldApps](http://www.oldapps.com/) - Download odd apps
 - [Cloudcraft](https://cloudcraft.co/) - Draw AWS diagrams
