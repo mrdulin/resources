@@ -52,7 +52,7 @@
   - [Workday API](https://community.workday.com/api)
   - [新浪微博JSSDK](http://jssdk.sinaapp.com/)
   - [射手(伪) API文档](https://assrt.net/api/doc)
-  
+  - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers
 
 - CDN
 
@@ -60,6 +60,18 @@
   - [Staticfile CDN](https://staticfile.org/)
   - [cdnjs](https://cdnjs.com/)
   - [UNPKG](https://unpkg.com/#/) - unpkg is a fast, global content delivery network for everything on npm.
+  
+- DNS
+
+  - [阿里DNS](http://www.alidns.com/) - 阿里公共DNS是阿里巴巴集团推出的DNS递归解析系统，目标是成为国内互联网基础设施的组成部分，面向互联网用户提供“快速”、“稳定”、“智能”的免费DNS递归解析服务.
+  - [1.1.1.1 ](https://1.1.1.1/zh-Hans/dns/) - the Internet’s Fastest, Privacy-First DNS Resolver
+  - [Public DNS+](https://www.dnspod.cn/Products/Public.DNS) - DNSPod推出的域名递归解析服务
+  
+  
+- Mirrors:
+  
+  - [腾讯软件源站](https://mirrors.cloud.tencent.com/) - 腾讯云软件源由腾讯云提供支持。搭建此开源镜像的目的在于宣传自由软件的价值，提高自由软件社区文化氛围, 推广自由软件在国内应用。
+  
 
 - GAME
 
@@ -155,6 +167,9 @@
 
 ## Software&Tools
 
+- [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
+- [OldApps](http://www.oldapps.com/) - Download odd apps
+- [Cloudcraft](https://cloudcraft.co/) - Draw AWS diagrams
 - [xclient](http://xclient.info)
 - [Google+ featuredphotos](https://plus.google.com/featuredphotos) - 精选照片屏幕保护程序
 - [online-downloader](https://www.online-downloader.com/) - Free Online YouTube Convert and Download
