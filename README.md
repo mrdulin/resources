@@ -71,6 +71,8 @@
 - Mirrors:
   
   - [腾讯软件源站](https://mirrors.cloud.tencent.com/) - 腾讯云软件源由腾讯云提供支持。搭建此开源镜像的目的在于宣传自由软件的价值，提高自由软件社区文化氛围, 推广自由软件在国内应用。
+  - [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/)
+  - [阿里巴巴开源镜像站](https://developer.aliyun.com/mirror)
   
 
 - GAME
