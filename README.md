@@ -160,6 +160,13 @@
 - [Pexels Videos](https://videos.pexels.com/) - Completely free stock videos.
 - [DISTILL BETA](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use.
 - [mixkit](https://mixkit.co/) - Extraordinary HD videos. For you to use, completely free of charge. 免费可商用！Mixkit 优质高清视频素材 MP4 + 卡通艺术插画设计图片下载网站
+- [徐晓冬北京格斗狂人](https://www.youtube.com/channel/UCIXOIjR2mp8tHz78DE0vj2A)
+- [陈秋实](https://www.youtube.com/channel/UCv361SF6FKznoGPKEFG9Yhw)
+- [BBC News 中文](https://www.youtube.com/channel/UCb3TZ4SD_Ys3j4z0-8o6auA)
+- [1818黄金眼](https://www.youtube.com/channel/UCDePf302Ax0fNRRTyNMJaHw)
+- [李永乐老师](https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw)
+- [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w)
+- [敖厂长](https://www.youtube.com/channel/UCCkMW93Am1pLfk2nZFKAmbQ)
 
 ## Cheatsheets
 
