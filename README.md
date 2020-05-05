@@ -53,6 +53,7 @@
   - [新浪微博JSSDK](http://jssdk.sinaapp.com/)
   - [射手(伪) API文档](https://assrt.net/api/doc)
   - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers
+  - [Remotive Jobs API](https://remotive.io/api-documentation) - World's largest API feed of remote jobs
 
 - CDN
 
