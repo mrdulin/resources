@@ -340,6 +340,8 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 ## Entertainment
 
 - [fandom](http://fandom.wikia.com/)
+- [ao3](https://archiveofourown.org/)
+- [ao3 mirror](https://archiveofourown.me/)
 
 ## Forum
 
