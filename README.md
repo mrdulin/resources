@@ -340,7 +340,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 ## Entertainment
 
 - [fandom](http://fandom.wikia.com/)
-- [ao3](https://archiveofourown.org/)
+- [ao3](https://archiveofourown.org/) - A fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic
 - [ao3 mirror](https://archiveofourown.me/)
 
 ## Forum
