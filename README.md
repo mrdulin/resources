@@ -89,6 +89,7 @@
   - [Flexbox Froggy](http://flexboxfroggy.com/)
   - [leetcode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
   - [freecodecamp](https://freecodecamp.cn/home)
+  - [visualgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
 
 - DATABASE
 
