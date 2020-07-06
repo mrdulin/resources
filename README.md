@@ -8,7 +8,7 @@
 - [Cheatsheets](#Cheatsheets)
 - [Software&Tools](#Software&Tools)
 - [Blog](#Blog)
-- [VPN](#VPN)
+- [VPN/Proxy](#VPN)
 - [Game](#Game)
 - [Entertainment](#Entertainment)
 - [Forum](#Forum)
@@ -312,9 +312,10 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [StrongLoop Blog](https://strongloop.com/strongblog/)
 - [鳥哥的 Linux 私房菜](http://linux.vbird.org/new_linux.php) - 學習 Linux 新手的建議
 
-## VPN
+## VPN&Proxy
 
 - [VPN Gate](https://www.vpngate.net/cn/) - VPN Gate Academic Experiment Project is an online service as an academic research at Graduate School of University of Tsukuba, Japan. The purpose of this research is to expand the knowledge of "Global Distributed Public VPN Relay Servers" .
+- [Goflyway免费账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 ## Game
 
