@@ -30,3 +30,4 @@
 - https://stackoverflow.com/users/8344860/anshita-singh
 - https://stackoverflow.com/users/4596143/yasemin-%c3%a7idem
 - https://stackoverflow.com/users/8920314/shelah-serapio
+- https://stackoverflow.com/users/5543626/wedmich
