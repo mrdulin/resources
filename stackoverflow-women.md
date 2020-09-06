@@ -1,4 +1,4 @@
-# StackOverflow Girl
+# StackOverflow Women
 
 - https://stackoverflow.com/users/10226205/seemcat
 - https://stackoverflow.com/users/11503310/karen
@@ -29,3 +29,4 @@
 - https://stackoverflow.com/users/13883041/zahra-talebi
 - https://stackoverflow.com/users/8344860/anshita-singh
 - https://stackoverflow.com/users/4596143/yasemin-%c3%a7idem
+- https://stackoverflow.com/users/8920314/shelah-serapio
