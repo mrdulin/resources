@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/10195265/kritika-vohra
 - https://stackoverflow.com/users/12145038/jordan1993
 - https://stackoverflow.com/users/10876098/farzanmanafi
 - https://stackoverflow.com/users/10226205/seemcat
