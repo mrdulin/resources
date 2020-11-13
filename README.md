@@ -345,6 +345,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [fandom](http://fandom.wikia.com/)
 - [ao3](https://archiveofourown.org/) - A fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic
 - [ao3 mirror](https://archiveofourown.me/)
+- [AI Gahaku](https://ai-art.tokyo/en/) - The AI artist named “AI Gahaku” generates a masterpiece from your photo.
 
 ## Forum
 
