@@ -346,6 +346,8 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [ao3](https://archiveofourown.org/) - A fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic
 - [ao3 mirror](https://archiveofourown.me/)
 - [AI Gahaku](https://ai-art.tokyo/en/) - The AI artist named “AI Gahaku” generates a masterpiece from your photo.
+- [CS-ONLINE.CLUB](https://cs-online.club/zh/servers) - 游戏CS 1.6免费在线玩Сounter-Strike - CS-ONLINE.CLUB
+
 
 ## Forum
 
