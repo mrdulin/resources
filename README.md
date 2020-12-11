@@ -307,6 +307,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 - [program-think](https://program-think.blogspot.com/)
 - [John Papa](https://johnpapa.net/)
+- [Tobias Nickel](http://tnickel.de/)
 - [nodejs blog](https://nodejs.org/en/blog/)
 - [Todd Motto](https://toddmotto.com/) - JavaScript and Angular articles
 - [The GitHub Blog](https://blog.github.com/)
