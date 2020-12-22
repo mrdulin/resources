@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/10758573/melody-rose
 - https://stackoverflow.com/users/8035613/daria-domaga%c5%82a
 - https://stackoverflow.com/users/10135898/elena
 - https://stackoverflow.com/users/13224113/%d0%9e%d0%ba%d1%81%d0%b0%d0%bd%d0%b0-%d0%a8%d1%83%d1%85
