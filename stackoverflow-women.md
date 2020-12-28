@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/9958323/angela-hayrapetian
 - https://stackoverflow.com/users/10527090/jesse-w
 - https://stackoverflow.com/users/10758573/melody-rose
 - https://stackoverflow.com/users/8035613/daria-domaga%c5%82a
