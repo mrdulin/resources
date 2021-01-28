@@ -181,6 +181,7 @@
 
 ## Software&Tools
 
+- [Firefox Relay](https://relay.firefox.com/) - Firefox Relay makes it easy to create aliases, randomly generated email addresses that forward to your real inbox. Use it to protect your online accounts - and your identity - from hackers. Sign in with your Firefox account to get started.
 - [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/) - Neat Download Manager is a free Internet Download Manager for
 macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [pgAdmin](https://www.pgadmin.org/) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
