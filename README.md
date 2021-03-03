@@ -188,14 +188,14 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [pgAdmin](https://www.pgadmin.org/) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [马克鳗](http://www.getmarkman.com/) - 高效的设计稿标注、测量工具
 - [Forticlient](https://www.forticlient.com/) - Next Generation Endpoint Protection
-- [typora](https://www.typora.io/) - 
+- [typora](https://www.typora.io/) - a markdown editor, markdown reader.
 - [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
 - [OldApps](http://www.oldapps.com/) - Download odd apps
 - [Cloudcraft](https://cloudcraft.co/) - Draw AWS diagrams
 - [xclient](http://xclient.info)
 - [Google+ featuredphotos](https://plus.google.com/featuredphotos) - 精选照片屏幕保护程序
 - [online-downloader](https://www.online-downloader.com/) - Free Online YouTube Convert and Download
-- [TinyJPG](https://tinyjpg.com/)
+- [TinyJPG](https://tinyjpg.com/) - Smart JPEG and PNG compression
 - [RIOT](http://luci.criosweb.ro/riot/) - A free program designed to efficiently optimize images for the Web
 - [ImageAlpha](https://pngmini.com/)
 - [Feed43](http://feed43.com/) - Convert web pages into professionally looking RSS feeds.
