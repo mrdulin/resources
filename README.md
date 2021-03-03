@@ -16,7 +16,7 @@
 ## Programming
 
 - OPEN WEB API & WEB SERVICE
-  
+  - [TinyPNG - Developer API](https://tinypng.com/developers)
   - [Pocket](https://getpocket.com/developer/)
   - [Inoreader](https://www.inoreader.com/developers/) 
   - [环境云](http://www.envicloud.cn/pages/index.html) - 环境大数据免费开放平台
@@ -181,6 +181,7 @@
 
 ## Software&Tools
 
+- [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG compression
 - [Firefox Relay](https://relay.firefox.com/) - Firefox Relay makes it easy to create aliases, randomly generated email addresses that forward to your real inbox. Use it to protect your online accounts - and your identity - from hackers. Sign in with your Firefox account to get started.
 - [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/) - Neat Download Manager is a free Internet Download Manager for
 macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
