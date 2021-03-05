@@ -326,7 +326,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Goflyway免费账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 ## Game
-
+- [EZ2ON](https://arrowgene.net/ez2on/setup)
 - [电玩巴士](http://www.tgbus.com/) - 中国游戏第一门户*电玩巴士*电视游戏*电子游戏*网络游戏*手机游戏*网页游戏
 - [游民星空](http://www.gamersky.com/) - 大型单机游戏媒体 提供最具特色单机游戏资讯、下载
 - [方块游戏](http://www.cubejoy.com/)
