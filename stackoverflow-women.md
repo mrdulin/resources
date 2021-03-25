@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/12018972/chirstiana-eriksten
 - https://stackoverflow.com/users/13020918/gisele-m
 - https://stackoverflow.com/users/10352407/larisa
 - https://stackoverflow.com/users/8644669/ozge-cokyasar
