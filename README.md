@@ -349,6 +349,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 ## Entertainment
 
+- [Louvre site des collections](https://collections.louvre.fr/en/) - The Collections database consists of entries for more than 480,000 works in the Musée du Louvre and Musée National Eugène-Delacroix. Updated on a daily basis, it is the result of the continuous research and documentation efforts carried out by teams of experts from both museums.
 - [fandom](http://fandom.wikia.com/)
 - [ao3](https://archiveofourown.org/) - A fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic
 - [ao3 mirror](https://archiveofourown.me/)
