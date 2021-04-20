@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/4288447/laura
 - https://stackoverflow.com/users/5025680/julissa-dc
 - https://stackoverflow.com/users/6457518/linh-le-kim
 - https://stackoverflow.com/users/12018972/chirstiana-eriksten
