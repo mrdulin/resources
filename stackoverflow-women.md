@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/12724833/sveta-d
 - https://stackoverflow.com/users/8178840/shahrzad-jahanbaz
 - https://stackoverflow.com/users/6514448/marzzy
 - https://stackoverflow.com/users/1488200/arian-popalyar
