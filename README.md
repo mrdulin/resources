@@ -16,6 +16,7 @@
 ## Programming
 
 - OPEN WEB API & WEB SERVICE
+  - [RapidAPI](https://rapidapi.com/) - Popular APIs on the RapidAPI Marketplace
   - [disease.sh](https://disease.sh/) - Open Disease Data API
   - [ImageOptim API](https://imageoptim.com/api) - ImageOptim API makes pages load faster
   - [TinyPNG - Developer API](https://tinypng.com/developers)
