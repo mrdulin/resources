@@ -175,6 +175,7 @@
 - [李永乐老师](https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw)
 - [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w)
 - [敖厂长](https://www.youtube.com/channel/UCCkMW93Am1pLfk2nZFKAmbQ)
+- [老梁](https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ)
 
 ## Cheatsheets
 
@@ -363,7 +364,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 ## Forum
 
 - [keylol](https://keylol.com/)
-- [小众软件官方论坛](https://meta.appinn.net/)
 
 ## Music
 
