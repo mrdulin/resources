@@ -369,6 +369,8 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 - [上海アリス幻樂団](http://www16.big.or.jp/~zun/)
 - [spotify](https://www.spotify.com/)
+- [DI.FM](https://www.di.fm/) - addictive electronic music
+- [soundcloud](https://soundcloud.com/) - Discover the top streamed music and songs online on Soundcloud
 
 ---
 
