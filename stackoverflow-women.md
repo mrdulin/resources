@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/16110345/rosalyna-daichan
 - https://stackoverflow.com/users/8094842/hanna-holasava
 - https://stackoverflow.com/users/14509344/taliamycota
 - https://stackoverflow.com/users/9614810/fahime-zivdar
