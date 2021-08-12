@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/7508998/jessie-zhu
 - https://stackoverflow.com/users/2107509/trajchevska
 - https://stackoverflow.com/users/9893154/taco-%e3%82%bf%e3%82%b3%e3%82%b9
 - https://stackoverflow.com/users/15148200/raha-moosavi
