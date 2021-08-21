@@ -11,7 +11,6 @@
 - [VPN/Proxy](#VPN)
 - [Game](#Game)
 - [Entertainment](#Entertainment)
-- [Forum](#Forum)
 
 ## Programming
 
@@ -162,6 +161,7 @@
 - [foodiesfeed](https://www.foodiesfeed.com/) - 是一个以「美食」为主题的免费图库网站。它收集了来自世界各地的美食摄影师的食物照片作品，并在 CC0 许可下免费共享给任何人使用。
 - [pakutaso](https://www.pakutaso.com/) - 高解像度の画像を何枚でもダウンロードできる国内最大規模の写真素材サイトです
 - [isorepublic](https://isorepublic.com/) - Thousands of Free High-Resolution CC0 Photos and Videos
+- [The Met Collection](https://www.metmuseum.org/art/collection/) - The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 
 ## Video
 
@@ -360,10 +360,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [AI Gahaku](https://ai-art.tokyo/en/) - The AI artist named “AI Gahaku” generates a masterpiece from your photo.
 - [CS-ONLINE.CLUB](https://cs-online.club/zh/servers) - 游戏CS 1.6免费在线玩Сounter-Strike - CS-ONLINE.CLUB
 
-
-## Forum
-
-- [keylol](https://keylol.com/)
 
 ## Music
 
