@@ -114,6 +114,10 @@
 - 方法论
 
   - [12-Factor](https://www.12factor.net/zh_cn/)
+ 
+- Books
+  
+  - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
 
 ## Design
 
