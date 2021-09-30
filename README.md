@@ -189,6 +189,7 @@
 
 ## Software&Tools
 
+- [DB Fiddle](https://www.db-fiddle.com/) - An online SQL database playground for testing, debugging and sharing SQL snippets.
 - [SQL Fiddle](http://www.sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
 - [overapi.com](https://overapi.com/) - Collecting All Cheat Sheets
 - [ImageOptim](https://imageoptim.com/mac) - ImageOptim makes images load faster
