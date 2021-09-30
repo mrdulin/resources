@@ -119,6 +119,10 @@
   
   - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
 
+- Courses 
+  
+  - [Learn TypeScript](https://learntypescript.dev/) - FREE TypeScript course for JavaScript developers
+
 ## Design
 
 - [facebook.design](https://facebook.design/) - Collection of articles, videos, and resources made by designers at Facebook.
