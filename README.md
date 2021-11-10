@@ -121,6 +121,7 @@
 - Books
   
   - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+  - [Building Software Together](https://buildtogether.tech/)
 
 - Courses 
   
