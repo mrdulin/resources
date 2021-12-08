@@ -197,6 +197,7 @@
 
 ## Software&Tools
 
+- [Google Public DNS](https://dns.google/) - Google Public DNS
 - [Google Fonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
 - [DB Fiddle](https://www.db-fiddle.com/) - An online SQL database playground for testing, debugging and sharing SQL snippets.
 - [SQL Fiddle](http://www.sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
