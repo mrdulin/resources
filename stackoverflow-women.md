@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/4859672/maga
 - https://stackoverflow.com/users/9660718/littlesvensson
 - https://stackoverflow.com/users/5859745/emily-yeh
 - https://stackoverflow.com/users/16600639/xin-ying
