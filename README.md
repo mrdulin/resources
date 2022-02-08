@@ -198,6 +198,7 @@
 
 ## Software&Tools
 
+- [grep.app](https://grep.app/) - Search across a half million git repos
 - [roadmap.sh](https://roadmap.sh/) - This website provides roadmaps, guidelines, and other educational content to assist developers in choosing a path and directing their learning
 - [Google Public DNS](https://dns.google/) - Google Public DNS
 - [Google Fonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
