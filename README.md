@@ -351,6 +351,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 ## Game
 
+- [openra](https://www.openra.net/) - Red Alert, Command & Conquer, Dune 2000, Rebuilt for the Modern Era.
 - [minesweeper online](https://minesweeper.online/) - Playing minesweeper is our passion. That's why we strive to make it the greatest game in the world!
 - [EZ2ON](https://arrowgene.net/ez2on/setup)
 - [电玩巴士](http://www.tgbus.com/) - 中国游戏第一门户*电玩巴士*电视游戏*电子游戏*网络游戏*手机游戏*网页游戏
