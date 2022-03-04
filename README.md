@@ -17,6 +17,9 @@
 ## Programming
 
 - OPEN WEB API & WEB SERVICE
+  - [RANDOM USER GENERATOR](https://randomuser.me/) - A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
+  - [Fake Store API](https://fakestoreapi.com/) - Fake store rest API for your e-commerce or shopping website prototype
+  - [They Said So Quotes API](https://quotes.rest/) - They Said So Quotes API offers a complete feature rich REST API access to its quotes platform.
   - [ray.so](https://ray.so/) - This website allows you to take beautiful screenshots of codes
   - [RapidAPI](https://rapidapi.com/) - Popular APIs on the RapidAPI Marketplace
   - [disease.sh](https://disease.sh/) - Open Disease Data API
