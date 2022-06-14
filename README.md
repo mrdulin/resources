@@ -202,6 +202,8 @@
 
 ## Software&Tools
 
+- [sumatrapdfreader](https://www.sumatrapdfreader.org/free-pdf-reader) - PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows.
+Small, fast, customizable, free.
 - [grep.app](https://grep.app/) - Search across a half million git repos
 - [roadmap.sh](https://roadmap.sh/) - This website provides roadmaps, guidelines, and other educational content to assist developers in choosing a path and directing their learning
 - [Google Public DNS](https://dns.google/) - Google Public DNS
