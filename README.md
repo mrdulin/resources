@@ -109,6 +109,7 @@
   - [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
   - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
   - [PostgreSQL 9.6.0 手册](http://www.postgres.cn/docs/9.6/)
+  - [db<>fiddle](https://dbfiddle.uk/)
 
 - Machine Learning
 
