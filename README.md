@@ -379,6 +379,9 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [STEAM SIGNATURE GENERATOR](https://steamsignature.com/) - Steam Signature allows you to generate a dynamic signature which shows your Steam status, Steam avatar, current level, XP completion and more using your SteamID
 - [育碧](https://store.ubi.com/cn/home)
 - [鈊象電子](https://www.igs.com.tw/)
+- [Clicker Heroes Ancients Calculator](https://hsoptimizer.github.io/ancient/)
+- [Clicker Heroes 1.0 HS Optimizer](https://superbob.github.io/clicker-heroes-1.0-hsoptimizer/#!/)
+- [A calculator for Clicker Heroes](https://kepow.org/clickerheroes/)
 
 ## Entertainment
 
