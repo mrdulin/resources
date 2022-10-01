@@ -102,6 +102,7 @@
   - [leetcode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
   - [freecodecamp](https://freecodecamp.cn/home)
   - [visualgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
+  - [Better Go Playground](https://goplay.tools/) - Better Go Playground with syntax highlight support
 
 - DATABASE
 
