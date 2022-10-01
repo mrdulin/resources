@@ -382,6 +382,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Clicker Heroes Ancients Calculator](https://hsoptimizer.github.io/ancient/)
 - [Clicker Heroes 1.0 HS Optimizer](https://superbob.github.io/clicker-heroes-1.0-hsoptimizer/#!/)
 - [A calculator for Clicker Heroes](https://kepow.org/clickerheroes/)
+- [ANCIENT CALCULATOR(Clicker Heroes v1.0e10)](https://graceoflives.github.io/fluffy-garbanzo/)
 
 ## Entertainment
 
