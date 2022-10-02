@@ -135,6 +135,7 @@
   - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
   - [Building Software Together](https://buildtogether.tech/)
   - [Go语言101](https://gfw.go101.org/article/101.html) - Go语言在线书籍和工具等
+  - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 
 - Courses 
   
