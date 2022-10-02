@@ -123,6 +123,7 @@
   - [Unicode Table](http://www.tamasoft.co.jp/en/general-info/unicode.html)
   - [regex101: build, test, and debug regex](https://regex101.com/)
   - [PRISM Break](https://prism-break.org/zh-CN/) - 粉碎棱镜——保护你自己的安全、隐私和自由！让我们逃离所有类似于棱镜计划、XKeyscore 和时代计划的全球信息监控项目。
+  - [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming.
 
 - 方法论
 
