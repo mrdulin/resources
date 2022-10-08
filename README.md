@@ -132,6 +132,7 @@
  
 - Books
   
+  - [Patterns](https://www.patterns.dev/posts/) - Stay up to date on the latest design and performance patterns.
   - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
   - [Building Software Together](https://buildtogether.tech/)
   - [Go语言101](https://gfw.go101.org/article/101.html) - Go语言在线书籍和工具等
