@@ -1,5 +1,6 @@
 # StackOverflow Women
 
+- https://stackoverflow.com/users/12413190/katharina-schreiber
 - https://stackoverflow.com/users/11973720/neha-chaudhary
 - https://stackoverflow.com/users/4859672/maga
 - https://stackoverflow.com/users/9660718/littlesvensson
