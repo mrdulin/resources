@@ -92,6 +92,7 @@
 
   - [codingame](https://www.codingame.com/start)
   - [codewars](www.codewars.com/r/w8cvNQ)
+  - [codingfantasy](https://codingfantasy.com/) - Learn Code By Playing Games
 
 - ONLINE CODING
 
@@ -366,6 +367,8 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Goflyway免费账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 ## Game
+
+- [MrAntiFun](https://mrantifun.net/) - MrAntiFun, PC Video Game Trainers, Cheats and mods
 - [Cкачать игры на ПК [последние версии 2022] через торрент бесплатно](https://byrut.org/) - Последние (полные) версии ПК игр со всеми обновлениями и дополнениями, с ежедневной публикацией новинок игр
 - [openra](https://www.openra.net/) - Red Alert, Command & Conquer, Dune 2000, Rebuilt for the Modern Era.
 - [minesweeper online](https://minesweeper.online/) - Playing minesweeper is our passion. That's why we strive to make it the greatest game in the world!
