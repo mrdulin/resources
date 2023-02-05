@@ -368,6 +368,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 ## Game
 
+- [Microsoft](https://www.msn.cn/zh-cn/play) - 微软官方的一些小游戏，杀时间利器
 - [MrAntiFun](https://mrantifun.net/) - MrAntiFun, PC Video Game Trainers, Cheats and mods
 - [Cкачать игры на ПК [последние версии 2022] через торрент бесплатно](https://byrut.org/) - Последние (полные) версии ПК игр со всеми обновлениями и дополнениями, с ежедневной публикацией новинок игр
 - [openra](https://www.openra.net/) - Red Alert, Command & Conquer, Dune 2000, Rebuilt for the Modern Era.
