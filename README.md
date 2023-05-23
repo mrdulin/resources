@@ -1,4 +1,4 @@
-## 福利分享 👉 [Discussions](https://github.com/mrdulin/resources/discussions)
+## Awesome Resources - Welcome PR
 
 ## Contents
 
