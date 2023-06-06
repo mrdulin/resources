@@ -17,6 +17,7 @@
 
 ## AI
 
+- [ChatGPT](https://chat.openai.com/) - A conversational AI system that listens, learns, and challenges
 - [Codeium](https://codeium.com/) - A Free AI-Powered Toolkit for Developers
 - [OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc) - OpenAI-Translator is a Chrome extension that uses the ChatGPT API for translation.
 - [Easy-Peasy.AI](https://easy-peasy.ai/) - Best AI Writer, Content Generator & Copywriting Assistant
