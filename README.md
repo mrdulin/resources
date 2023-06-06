@@ -23,7 +23,11 @@
 - [AI Copywriter & Chatbot - Copymatic](https://copymatic.ai/) - Use our AI-powered platform to write engaging, conversion-optimized and human-quality copy or content: from social media ads to full landing pages or blog posts in seconds.
 - [Gamma](https://gamma.app/) - A new medium for presenting ideas, powered by AI. Beautiful, engaging content with none of the formatting and design work.
 - [Voice Control for ChatGPT](https://voicecontrol.chat/) - Enhance Your ChatGPT Experience with Voice Input and Read Aloud Capabilities
-
+- [Midjourney](https://www.midjourney.com/app/)
+- [PromptPerfect](https://promptperfect.jinaai.cn/) - A cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs) and LMOps.
+- [Prompthero](https://prompthero.com/) - The #1 website for prompt engineering. Search millions of AI art images by models like Stable Diffusion, Midjourney...
+- [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
+- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
 
 ## Programming
 
