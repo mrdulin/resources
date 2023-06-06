@@ -17,6 +17,7 @@
 
 ## AI
 
+- [Codeium](https://codeium.com/) - A Free AI-Powered Toolkit for Developers
 - [OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc) - OpenAI-Translator is a Chrome extension that uses the ChatGPT API for translation.
 - [Easy-Peasy.AI](https://easy-peasy.ai/) - Best AI Writer, Content Generator & Copywriting Assistant
 - [DALL·E](https://labs.openai.com/) - Experiment with DALL·E, an AI system by OpenAI
@@ -29,6 +30,7 @@
 - [Prompthero](https://prompthero.com/) - The #1 website for prompt engineering. Search millions of AI art images by models like Stable Diffusion, Midjourney...
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
+- [Tome](https://tome.app/) - Meet Tome, your new AI storytelling partner. Use video narration, live data, and endlessly flexible pages to build polished presentations in minutes.
 
 ## Programming
 
