@@ -17,6 +17,7 @@
 
 ## AI
 
+- [OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc) - OpenAI-Translator is a Chrome extension that uses the ChatGPT API for translation.
 - [Easy-Peasy.AI](https://easy-peasy.ai/) - Best AI Writer, Content Generator & Copywriting Assistant
 - [DALL·E](https://labs.openai.com/) - Experiment with DALL·E, an AI system by OpenAI
 - [Stable Diffusion Online](https://stablediffusionweb.com/) - Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.
