@@ -35,6 +35,13 @@
 
 ## Programming
 
+- Algorithms
+  - [Online Judge](https://onlinejudge.org/)
+  - [Sphere Online Judge (SPOJ)](http://www.spoj.com/) - SPOJ (Sphere Online Judge) is an online judge system with over 315,000 registered users and over 20000 problems. The solution to problems can be submitted in over 60 languages including C, C++, Java, Python, C#, Go, Haskell, Ocaml, and F#. SPOJ has a rapidly growing problem set/tasks available for practice 24 hours/day, including many original tasks prepared by the community of expert problem setters associated with the project.
+  - [Coderbyte | Technical Assessments & Interviews](https://coderbyte.com/) - Evaluate candidates quickly, affordably, and accurately for assessments, interviews, and take-home projects. Prepare for interviews on the #1 platform for 1M+ developers that want to level up their careers.
+  - [CodeChef: Practical coding for everyone](http://www.codechef.com/) - Learn to code for free using our beginner friendly and interactive learning courses. Get all the practical skills required to excel at computer science. Start learning with CodeChef today and unlock your potential as a developer!
+  - [Top Website Designers, Developers, Freelancers for Your Next Project | Topcoder](http://www.topcoder.com/) - 
+
 - OPEN WEB API & WEB SERVICE
   - [Stack Exchange API](https://api.stackexchange.com/)
   - [RANDOM USER GENERATOR](https://randomuser.me/) - A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
