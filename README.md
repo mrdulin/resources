@@ -32,7 +32,8 @@
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
 - [Tome](https://tome.app/) - Meet Tome, your new AI storytelling partner. Use video narration, live data, and endlessly flexible pages to build polished presentations in minutes.
-
+- [ZZZ Code AI](https://zzzcode.ai/) - Free AI-powered website to get any programming question answered or code generated.
+  
 ## Programming
 
 - Algorithms
