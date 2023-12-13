@@ -243,6 +243,8 @@
 
 ## Software&Tools
 
+- [carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
+Start typing or drop a file into the text area to get started.
 - [GitHub Contribution Chart Generator](https://github-contributions.vercel.app/) - Generates an image of all your GitHub contributions since you have signed up, so you can use it in social media.
 - [GeoGebra ](https://www.geogebra.org/) - GeoGebra 是一款适用于各级教育的动态数学软件, 它将几何, 代数, 表格, 绘图, 统计和微积分整合到一个引擎中. 
 - [sumatrapdfreader](https://www.sumatrapdfreader.org/free-pdf-reader) - PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows.
