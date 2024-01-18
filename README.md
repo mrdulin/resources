@@ -17,6 +17,7 @@
 
 ## AI
 
+- [Imagine with Meta AI](https://imagine.meta.com/) - Use Imagine with Meta AI to quickly create high-resolution, AI-generated images for free. Just describe an image and Meta AI will generate it with technology from Emu, our image foundation model.
 - [bard](https://bard.google.com/) - Bard 是为你提供创意启发和实用信息的好帮手。无论是激发想象力、提升工作效率，还是实现创意构想，Bard 都可助你一臂之力。
 - [ChatGPT](https://chat.openai.com/) - A conversational AI system that listens, learns, and challenges
 - [Codeium](https://codeium.com/) - A Free AI-Powered Toolkit for Developers
