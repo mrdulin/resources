@@ -148,6 +148,7 @@
 
 - SaaS&Tools
 
+  - [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
   - [Codacy](https://www.codacy.com/) - Automated code reviews & code analytics
   - [codingfont](https://www.codingfont.com/) - Find Your True Love of Coding Fonts
   - [Unicode Table](http://www.tamasoft.co.jp/en/general-info/unicode.html)
