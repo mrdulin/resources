@@ -148,6 +148,7 @@
 
 - SaaS&Tools
 
+  - [CertificateTools.com](https://certificatetools.com/) - Online x509 Certificate Generator. Create self-signed certificates, certificate signing requests (CSR), or a root certificate authority. Featuring support for multiple subject alternative names, multiple common names, x509 v3 extensions, RSA and elliptic curve cryptography. OpenSSL commands are shown so they can be run securely offline.
   - [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
   - [Codacy](https://www.codacy.com/) - Automated code reviews & code analytics
   - [codingfont](https://www.codingfont.com/) - Find Your True Love of Coding Fonts
