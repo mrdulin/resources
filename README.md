@@ -54,9 +54,9 @@
   - [RapidAPI](https://rapidapi.com/) - Popular APIs on the RapidAPI Marketplace
   - [disease.sh](https://disease.sh/) - Open Disease Data API
   - [ImageOptim API](https://imageoptim.com/api) - ImageOptim API makes pages load faster
-  - [TinyPNG - Developer API](https://tinypng.com/developers)
-  - [Pocket](https://getpocket.com/developer/)
-  - [Inoreader](https://www.inoreader.com/developers/) 
+  - [TinyPNG - Developer API](https://tinypng.com/developers) - Automate your WebP, JPEG and PNG compression workflow
+  - [Pocket](https://getpocket.com/developer/) - When you find something you want to view later, put it in Pocket.
+  - [Inoreader](https://www.inoreader.com/developers/) - Build powerful applications and distribute content with Inoreader's API for developers. Access millions of articles and enhance user experience.
   - [环境云](http://www.envicloud.cn/pages/index.html) - 环境大数据免费开放平台
   - [聚合数据个人中心](https://www.juhe.cn/)
   - [CNode](http://cnodejs.org/api) - Node.js 专业中文社区
@@ -72,25 +72,23 @@
   - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API)
   - [和风天气](https://www.heweather.com/) - 全球天气 API 服务
   - [AC Developer API](https://zh-tw.photo-ac.com/api) - Create with the largest collection of high-quality photo and vector. For free.
-  - [osu!api](https://github.com/ppy/osu-api/wiki)
+  - [osu!api](https://github.com/ppy/osu-api/wiki) - Public API for accessing osu! related data. Contribute to ppy/osu-api development by creating an account on GitHub.
   - [Battle.net Developer Portal](https://dev.battle.net/io-docs) - Blizzard Developer Portal
-  - [reddit API](https://www.reddit.com/dev/api/)
+  - [reddit API](https://www.reddit.com/dev/api/) - Reddit gives you the best of the internet in one place. Get a constantly updating feed of breaking news, fun stories, pics, memes, and videos just for you. Passionate about something niche? Reddit has thousands of vibrant communities with people that share your interests. Alternatively, find out what’s trending across all of Reddit on r/popular. Reddit is also anonymous so you can be yourself, with your Reddit profile and persona disconnected from your real-world identity.
   - [Developers / API | Open Library](https://openlibrary.org/developers/api)
   - [API - 深蓝阅读 | BlueReader](http://api.bluereader.org/) - 通过调用深蓝阅读提供的接口，可以将深蓝阅读的热门内容、自己的订阅等展现在自己的网站或博客上，丰富网站的内容。
   - [API 2.0 - Gate.io](https://www.gate.io/api2) - The Gate of Blockchain Assets Exchange
   - [earthquake.usgs.gov](https://earthquake.usgs.gov/fdsnws/event/1/)
-  - [Premium weather API for Developers](https://www.worldweatheronline.com/developer/)
+  - [Premium weather API for Developers](https://www.worldweatheronline.com/developer/) - Weather API - Current, Forecast and Historical Weather
   - [Dribbble API](http://developer.dribbble.com/) - Build and integrate tools and applications to help members publish their design work on Dribbble.
   - [TinyJPG Developer API](https://tinyjpg.com/developers) - Hook up your server to optimize all your JPEG and PNG images on the fly.
   - [Codewars API](https://dev.codewars.com/)
-  - [IT Bookstore API (version 1.0)](https://api.itbook.store/)
+  - [IT Bookstore API (version 1.0)](https://api.itbook.store/) - IT Bookstore API (version 1.0) - api.itbook.store
   - [Gitter API](https://developer.gitter.im/docs/welcome)
   - [verystream API](https://verystream.com/api)
-  - [Pastebin.com developers API](https://pastebin.com/api)
   - [Discord Developer](https://discordapp.com/developers/docs/intro) 
   - [Slack API](https://api.slack.com/)
   - [Workday API](https://community.workday.com/api)
-  - [新浪微博JSSDK](http://jssdk.sinaapp.com/)
   - [射手(伪) API文档](https://assrt.net/api/doc)
   - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers
   - [Remotive Jobs API](https://remotive.io/api-documentation) - World's largest API feed of remote jobs
