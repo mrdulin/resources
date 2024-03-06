@@ -104,18 +104,14 @@
   
 - DNS
 
-  - [阿里DNS](http://www.alidns.com/) - 阿里公共DNS是阿里巴巴集团推出的DNS递归解析系统，目标是成为国内互联网基础设施的组成部分，面向互联网用户提供“快速”、“稳定”、“智能”的免费DNS递归解析服务.
   - [1.1.1.1 ](https://1.1.1.1/zh-Hans/dns/) - the Internet’s Fastest, Privacy-First DNS Resolver
   - [Public DNS+](https://www.dnspod.cn/Products/Public.DNS) - DNSPod推出的域名递归解析服务
   
   
 - Mirrors:
   
-  - [腾讯软件源站](https://mirrors.cloud.tencent.com/) - 腾讯云软件源由腾讯云提供支持。搭建此开源镜像的目的在于宣传自由软件的价值，提高自由软件社区文化氛围, 推广自由软件在国内应用。
   - [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/)
-  - [阿里巴巴开源镜像站](https://developer.aliyun.com/mirror)
   
-
 - GAME
 
   - [codingame](https://www.codingame.com/start)
@@ -174,6 +170,10 @@
 - Courses 
   
   - [Learn TypeScript](https://learntypescript.dev/) - FREE TypeScript course for JavaScript developers
+ 
+- Guidance
+
+  - [web.dev](https://web.dev/) - Guidance to build modern web experiences that work on any browser.
 
 ## Design
 
