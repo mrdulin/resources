@@ -142,7 +142,7 @@
   - [AWS Training and Certification - Machine Learning](https://amazonaws-china.com/cn/training/learning-paths/machine-learning/)
 
 - SaaS&Tools
-
+- 
   - [monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
   - [ACL4SSR 在线订阅转换](https://acl4ssr-sub.github.io/) - ACL4SSR,ACL4SSR在线订阅转换,Clash在线订阅转换,在线订阅转换
   - [CertificateTools.com](https://certificatetools.com/) - Online x509 Certificate Generator. Create self-signed certificates, certificate signing requests (CSR), or a root certificate authority. Featuring support for multiple subject alternative names, multiple common names, x509 v3 extensions, RSA and elliptic curve cryptography. OpenSSL commands are shown so they can be run securely offline.
@@ -406,6 +406,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 ## Game
 
+- [eShop-Prices.com](https://eshop-prices.com/) - Compare Nintendo Switch game prices ▪︎ More than 8000 Games ▪︎ Find the best deal for any Nintendo Switch games ▪︎ Supports Chinese Renminbi Yuan
 - [Microsoft](https://www.msn.cn/zh-cn/play) - 微软官方的一些小游戏，杀时间利器
 - [MrAntiFun](https://mrantifun.net/) - MrAntiFun, PC Video Game Trainers, Cheats and mods
 - [Cкачать игры на ПК [последние версии 2022] через торрент бесплатно](https://byrut.org/) - Последние (полные) версии ПК игр со всеми обновлениями и дополнениями, с ежедневной публикацией новинок игр
