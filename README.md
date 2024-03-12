@@ -249,6 +249,7 @@
 
 ## Software&Tools
 
+- [All Online Tools in One Box | 10015 Tools](https://10015.io/) - All online tools you need in one box for free. Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
 - [carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 Start typing or drop a file into the text area to get started.
 - [GitHub Contribution Chart Generator](https://github-contributions.vercel.app/) - Generates an image of all your GitHub contributions since you have signed up, so you can use it in social media.
