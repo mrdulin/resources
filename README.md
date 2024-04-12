@@ -17,6 +17,7 @@
 
 ## AI
 
+- [Faraday.dev](https://faraday.dev/) - Chat with AI Characters. Works offline. Zero configuration.
 - [Suno AI](https://www.suno.ai/) - We are building a future where anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [HuggingChat](https://huggingface.co/chat/) - The first open source alternative to ChatGPT. 💪
 - [Imagine with Meta AI](https://imagine.meta.com/) - Use Imagine with Meta AI to quickly create high-resolution, AI-generated images for free. Just describe an image and Meta AI will generate it with technology from Emu, our image foundation model.
