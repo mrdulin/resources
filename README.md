@@ -98,6 +98,7 @@
   - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers
   - [Remotive Jobs API](https://remotive.io/api-documentation) - World's largest API feed of remote jobs
   - [pipedream](https://pipedream.com/) - Pipedream is a serverless integration and compute platform that makes it easy to connect apps and develop event-driven workflows.
+  - [Mockae](https://mockae.com/) - Fake rest API powered by Lua
 
 - CDN
 
