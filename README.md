@@ -167,9 +167,8 @@
 - Books
   
   - [Exploring ES6: Upgrade to the next version of JavaScript](https://exploringjs.com/es6.html)
-  - [Patterns](https://www.patterns.dev/posts/) - Stay up to date on the latest design and performance patterns.
+  - [Patterns](https://www.patterns.dev/) - Stay up to date on the latest design and performance patterns.
   - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
-  - [Building Software Together](https://buildtogether.tech/)
   - [Go语言101](https://gfw.go101.org/article/101.html) - Go语言在线书籍和工具等
   - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 
@@ -341,7 +340,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Adobe Acrobar Reader DC](https://acrobat.adobe.com/us/en/products/pdf-reader.html)
 - [PDF-XChange Viewer](http://www.tracker-software.com/product/pdf-xchange-viewer)
 - [SoftEther](https://www.softether.org/)
-- [Shadowsocks](https://shadowsocks.org/en/index.html)
+- [Shadowsocks](https://shadowsocks.org)
 - [Lantern](https://getlantern.org/)
 - [Psiphon](https://psiphon.ca/)
 - [7-Zip](http://www.7-zip.org/)
@@ -358,7 +357,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp?hl=zh-CN&gl=US)
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN&gl=US)
 - [WEB 前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN&gl=US)
-- [Flash Video Downloader](https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc?hl=zh-CN&gl=US)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi)
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/epejoicbhllgiimigokgjdoijnpaphdp)
 - [Sourcetree](https://www.sourcetreeapp.com/)
@@ -404,7 +402,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Facebook Code](https://code.fb.com/feed/) - Facebook Engineering Blog
 - [Martin Fowler](https://martinfowler.com/)
 - [StrongLoop Blog](https://strongloop.com/strongblog/)
-- [鳥哥的 Linux 私房菜](http://linux.vbird.org/new_linux.php) - 學習 Linux 新手的建議
+- [鳥哥的 Linux 私房菜](http://linux.vbird.org) - 學習 Linux 新手的建議
 
 ## VPN&Proxy
 
