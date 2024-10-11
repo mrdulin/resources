@@ -148,6 +148,7 @@
 
 - SaaS&Tools
 
+  - [LocalSend](https://localsend.org/) - Share files to nearby devices. Free, open-source, cross-platform.
   - [Layoffs.fyi](https://layoffs.fyi/) - Tech Layoff Tracker and Startup Layoff Lists
   - [monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
   - [ACL4SSR 在线订阅转换](https://acl4ssr-sub.github.io/) - ACL4SSR,ACL4SSR在线订阅转换,Clash在线订阅转换,在线订阅转换
