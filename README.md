@@ -148,6 +148,7 @@
 
 - SaaS&Tools
 
+  - [ScreenToGif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor
   - [LocalSend](https://localsend.org/) - Share files to nearby devices. Free, open-source, cross-platform.
   - [Layoffs.fyi](https://layoffs.fyi/) - Tech Layoff Tracker and Startup Layoff Lists
   - [monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
