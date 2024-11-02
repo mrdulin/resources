@@ -269,6 +269,7 @@ Small, fast, customizable, free.
 - [Google Fonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography
 - [DB Fiddle](https://www.db-fiddle.com/) - An online SQL database playground for testing, debugging and sharing SQL snippets.
 - [SQL Fiddle](http://www.sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solutions.
+- [SQLable](https://sqlable.com) - A suite of database tools, including an SQL formatter and validator, an SQL regex tester, a fake data generator, and interactive database playgrounds.
 - [overapi.com](https://overapi.com/) - Collecting All Cheat Sheets
 - [ImageOptim](https://imageoptim.com/mac) - ImageOptim makes images load faster
 - [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG compression
