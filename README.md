@@ -148,6 +148,7 @@
 
 - SaaS&Tools
 
+  - [HTML5test](https://html5test.co/) - The HTML5 test score is an indication of how well your browser supports the upcoming HTML5 standard and related specifications. How well does your browser support HTML5?
   - [ScreenToGif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor
   - [LocalSend](https://localsend.org/) - Share files to nearby devices. Free, open-source, cross-platform.
   - [Layoffs.fyi](https://layoffs.fyi/) - Tech Layoff Tracker and Startup Layoff Lists
@@ -253,6 +254,7 @@
 - [OWASP Cheat Sheet Series - 2](https://cheatsheetseries.owasp.org/index.html) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
 - [OverAPI](http://overapi.com/) - Collecting all the cheat sheets
 - [devhints](https://devhints.io/)
+- [Node.js ES2015/ES6, ES2016 and ES2017 support](https://node.green/)
 
 ## Software&Tools
 
