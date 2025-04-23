@@ -148,6 +148,7 @@
 
 - SaaS&Tools
 
+  - [IT Tools](https://it-tools.tech/) - IT Tools - Handy online tools for developers
   - [HTML5test](https://html5test.co/) - The HTML5 test score is an indication of how well your browser supports the upcoming HTML5 standard and related specifications. How well does your browser support HTML5?
   - [ScreenToGif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor
   - [LocalSend](https://localsend.org/) - Share files to nearby devices. Free, open-source, cross-platform.
