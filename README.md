@@ -125,6 +125,7 @@
 
 - ONLINE CODING
 
+  - [SQL Playground](https://sqlplayground.app/) - Explore, learn, and share SQL queries in our free online SQL playground. Support for MySQL and PostgreSQL, perfect for testing and enhancing your SQL skills.
   - [Try Redis](http://try.redis.io/)
   - [es6console](https://es6console.com/)
   - [stackblitz](https://stackblitz.com/) - The online IDE for web applications. Powered by Visual Studio Code.
