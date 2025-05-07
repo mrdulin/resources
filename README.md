@@ -21,6 +21,7 @@
 
 ## AI
 
+- [Cherry Studio AI](https://www.cherry-ai.com/) - Cherry Studio AI 是一款强大的多模型 AI 助手，支持 iOS、macOS 和 Windows 平台。快速切换多个先进的 LLM 模型，提升工作学习效率。
 - [Faraday.dev](https://faraday.dev/) - Chat with AI Characters. Works offline. Zero configuration.
 - [Suno AI](https://www.suno.ai/) - We are building a future where anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [HuggingChat](https://huggingface.co/chat/) - The first open source alternative to ChatGPT. 💪
