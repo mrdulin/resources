@@ -15,7 +15,9 @@
 - [Blog](#Blog)
 - [VPN/Proxy](#VPN)
 - [Game](#Game)
+- [Job](#Job)
 - [Entertainment](#Entertainment)
+
 
 ## AI
 
@@ -451,6 +453,11 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Clicker Heroes 1.0 HS Optimizer](https://superbob.github.io/clicker-heroes-1.0-hsoptimizer/#!/)
 - [A calculator for Clicker Heroes](https://kepow.org/clickerheroes/)
 - [ANCIENT CALCULATOR(Clicker Heroes v1.0e10)](https://graceoflives.github.io/fluffy-garbanzo/)
+
+## Job
+
+- [Japan Dev](https://japan-dev.com/) - Software Developer Jobs in Japan
+- [中华人民共和国香港特别行政区政府,劳工处](https://www.labour.gov.hk/chs/service/content.htm)
 
 ## Entertainment
 
