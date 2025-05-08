@@ -424,6 +424,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 ## Game
 
+- [CheapShark - PC Game Deals](https://www.cheapshark.com/) - Find all the best PC game deals. We show prices from Steam, GreenManGaming, GOG, Humble Bundle, and many others.
 - [eShop-Prices.com](https://eshop-prices.com/) - Compare Nintendo Switch game prices ▪︎ More than 8000 Games ▪︎ Find the best deal for any Nintendo Switch games ▪︎ Supports Chinese Renminbi Yuan
 - [Microsoft](https://www.msn.cn/zh-cn/play) - 微软官方的一些小游戏，杀时间利器
 - [MrAntiFun](https://mrantifun.net/) - MrAntiFun, PC Video Game Trainers, Cheats and mods
