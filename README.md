@@ -460,6 +460,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 - [Japan Dev](https://japan-dev.com/) - Software Developer Jobs in Japan
 - [中华人民共和国香港特别行政区政府,劳工处](https://www.labour.gov.hk/chs/service/content.htm)
+- [电鸭社区](https://eleduck.com/) - 电鸭社区是具有8年历史的远程工作招聘社区，也是远程办公互联网工作者们的聚集地。在社区，我们进行有价值的话题讨论，也分享远程、外包、零活、兼职、驻场等非主流工作机会。「只工作，不上班」是我们倡导的工作态度。
 
 ## Entertainment
 
