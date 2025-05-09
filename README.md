@@ -458,6 +458,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 ## Job
 
+- [牛马.ICU](https://www.work2icu.org/zh-CN/results) - 这是由 「$Li 社区」与「李老师不是你老师」发起的公益项目，我们希望调查曝光中国国内存在的一切剥削打工人的恶劣行为！拒绝996！拒绝无休止加班！拒绝剥削！拒绝压榨！拒绝压迫！拒绝一切不平等的待遇！
 - [Japan Dev](https://japan-dev.com/) - Software Developer Jobs in Japan
 - [中华人民共和国香港特别行政区政府,劳工处](https://www.labour.gov.hk/chs/service/content.htm)
 - [电鸭社区](https://eleduck.com/) - 电鸭社区是具有8年历史的远程工作招聘社区，也是远程办公互联网工作者们的聚集地。在社区，我们进行有价值的话题讨论，也分享远程、外包、零活、兼职、驻场等非主流工作机会。「只工作，不上班」是我们倡导的工作态度。
