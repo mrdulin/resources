@@ -419,10 +419,11 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [StrongLoop Blog](https://strongloop.com/strongblog/)
 - [鳥哥的 Linux 私房菜](http://linux.vbird.org) - 學習 Linux 新手的建議
 
-## VPN&Proxy
+## VPN
 
 - [VPN Gate](https://www.vpngate.net/cn/) - VPN Gate Academic Experiment Project is an online service as an academic research at Graduate School of University of Tsukuba, Japan. The purpose of this research is to expand the knowledge of "Global Distributed Public VPN Relay Servers" .
 - [Goflyway免费账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+- [GLaDOS](https://glados.network/) - GLaDOS provides most fast, stable, and secure endpoints for users to access high speed inter-national Internet, Netflix and Privacy with confidence.
 
 ## Game
 
