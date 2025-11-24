@@ -488,6 +488,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 ## Forum
 
 - [美卡论坛](https://www.uscardforum.com/) - 美卡论坛 - 在美漂泊的中国人的家园
+- [reddit shell](https://redditshell.com/) - reddit shell is a web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line
 ---
 
 <a href="https://info.flagcounter.com/ab0j"><img src="https://s11.flagcounter.com/count2/ab0j/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_30/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
