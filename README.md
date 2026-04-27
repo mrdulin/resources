@@ -240,6 +240,7 @@
 - [pakutaso](https://www.pakutaso.com/) - 高解像度の画像を何枚でもダウンロードできる国内最大規模の写真素材サイトです
 - [isorepublic](https://isorepublic.com/) - Thousands of Free High-Resolution CC0 Photos and Videos
 - [The Met Collection](https://www.metmuseum.org/art/collection/) - The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
+- [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, watermark 1,000+ images at once. No upload, no account, works offline.
 
 ## Video
 
