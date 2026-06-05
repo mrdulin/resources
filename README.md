@@ -34,6 +34,7 @@
 - [Easy-Peasy.AI](https://easy-peasy.ai/) - Best AI Writer, Content Generator & Copywriting Assistant
 - [DALL·E](https://labs.openai.com/) - Experiment with DALL·E, an AI system by OpenAI
 - [Stable Diffusion Online](https://stablediffusionweb.com/) - Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.
+- [igly.ai](https://igly.ai) - Browser-based AI image editor for background removal, inpainting, upscaling, and generative fill.
 - [AI Copywriter & Chatbot - Copymatic](https://copymatic.ai/) - Use our AI-powered platform to write engaging, conversion-optimized and human-quality copy or content: from social media ads to full landing pages or blog posts in seconds.
 - [Gamma](https://gamma.app/) - A new medium for presenting ideas, powered by AI. Beautiful, engaging content with none of the formatting and design work.
 - [Voice Control for ChatGPT](https://voicecontrol.chat/) - Enhance Your ChatGPT Experience with Voice Input and Read Aloud Capabilities
