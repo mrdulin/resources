@@ -266,6 +266,7 @@
 
 ## Software&Tools
 
+- [Agent QA](https://github.com/vostride/agent-qa) - A source-available QA agent for creating and running natural-language web and mobile tests, retaining execution memory, and adapting flows when interfaces change. Licensed under FSL-1.1-ALv2, with each release converting to Apache-2.0 after two years; model, browser, or device providers configured by users may charge separately.
 - [Bypass-分流抢票](https://www.bypass.cn/) - 软件完全免费,全程自动抢票,自动抢候补,自动识别验证码,多线程秒单、稳定捡漏,支持多天、多车次、多席别、多乘客等功能，更多功能敬请期待。
 - [koreader](https://koreader.rocks/) - KOReader is a document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It’s available for Kindle, Kobo, PocketBook, Android and desktop Linux.
 - [All Online Tools in One Box | 10015 Tools](https://10015.io/) - All online tools you need in one box for free. Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
