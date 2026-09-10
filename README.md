@@ -183,6 +183,7 @@
   - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
   - [Go语言101](https://gfw.go101.org/article/101.html) - Go语言在线书籍和工具等
   - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+  - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book for JavaScript developers.
 
 - Courses 
   
