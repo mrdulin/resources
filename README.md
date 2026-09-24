@@ -2,6 +2,13 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
+## 收录标准 / Submission Criteria
+
+- 免费 / Free: 有可用免费层即可 — freemium is acceptable
+- 非商业化 / Non-commercial: 不以付费转化为主要目的，纯导流/广告站不收 — no paywall-funnel or ad sites
+- 简短 / One-liner: 每条描述一句话 — one sentence per entry
+- 渐进清理 / Gradual cleanup: 标准对新增条目生效，存量违规顺手移除 — applies to new entries; legacy cleaned up opportunistically
+
 ## Contents
 
 - [AI](#AI)
