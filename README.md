@@ -160,6 +160,7 @@
   - [ScreenToGif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor
   - [LocalSend](https://localsend.org/) - Share files to nearby devices. Free, open-source, cross-platform.
   - [Layoffs.fyi](https://layoffs.fyi/) - Tech Layoff Tracker and Startup Layoff Lists
+  - [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident updates; a personal timer stays in the browser. Free.
   - [monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
   - [ACL4SSR 在线订阅转换](https://acl4ssr-sub.github.io/) - ACL4SSR,ACL4SSR在线订阅转换,Clash在线订阅转换,在线订阅转换
   - [CertificateTools.com](https://certificatetools.com/) - Online x509 Certificate Generator. Create self-signed certificates, certificate signing requests (CSR), or a root certificate authority. Featuring support for multiple subject alternative names, multiple common names, x509 v3 extensions, RSA and elliptic curve cryptography. OpenSSL commands are shown so they can be run securely offline.
