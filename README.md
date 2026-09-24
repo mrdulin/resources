@@ -74,9 +74,9 @@
   - [Pocket](https://getpocket.com/developer/) - When you find something you want to view later, put it in Pocket.
   - [Inoreader](https://www.inoreader.com/developers/) - Build powerful applications and distribute content with Inoreader's API for developers. Access millions of articles and enhance user experience.
   - [环境云](http://www.envicloud.cn/pages/index.html) - 环境大数据免费开放平台
-  - [聚合数据个人中心](https://www.juhe.cn/)
+  - [聚合数据个人中心](https://www.juhe.cn/) - 聚合数据为天聚地合(股票代码: 2479.HK )旗下品牌,是国内领先的综合数据服务平台,以严选安全数据源为核心优势,为互联网企业提供短信服务,身份核验,银行卡核验,企业信息核验等热门API数据接口
   - [CNode](http://cnodejs.org/api) - Node.js 专业中文社区
-  - [Weather API](http://openweathermap.org/api)
+  - [Weather API](http://openweathermap.org/api) - Explore OpenWeather's vast range of weather APIs including the versatile One Call API 4.0
   - [Dark Sky API](https://darksky.net/dev) - The easiest, most advanced, weather API on the web.
   - [有道翻译 API](http://fanyi.youdao.com/openapi) - 有道翻译 API，为广大开发者提供开放接口。您的应用或网站可通过有道翻译 API，构建丰富多样的功能或应用，为用户带来即时，准确，方便的查词或翻译体验，从而降低语言理解与应用门槛。
   - [网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
@@ -91,10 +91,10 @@
   - [osu!api](https://github.com/ppy/osu-api/wiki) - Public API for accessing osu! related data. Contribute to ppy/osu-api development by creating an account on GitHub.
   - [Battle.net Developer Portal](https://dev.battle.net/io-docs) - Blizzard Developer Portal
   - [reddit API](https://www.reddit.com/dev/api/) - Reddit gives you the best of the internet in one place. Get a constantly updating feed of breaking news, fun stories, pics, memes, and videos just for you. Passionate about something niche? Reddit has thousands of vibrant communities with people that share your interests. Alternatively, find out what’s trending across all of Reddit on r/popular. Reddit is also anonymous so you can be yourself, with your Reddit profile and persona disconnected from your real-world identity.
-  - [Developers / API | Open Library](https://openlibrary.org/developers/api)
+  - [Developers / API | Open Library](https://openlibrary.org/developers/api) - Open Library is an open, editable library catalog, building towards a web page for every book ever published
   - [API - 深蓝阅读 | BlueReader](http://api.bluereader.org/) - 通过调用深蓝阅读提供的接口，可以将深蓝阅读的热门内容、自己的订阅等展现在自己的网站或博客上，丰富网站的内容。
   - [API 2.0 - Gate.io](https://www.gate.io/api2) - The Gate of Blockchain Assets Exchange
-  - [earthquake.usgs.gov](https://earthquake.usgs.gov/fdsnws/event/1/)
+  - [earthquake.usgs.gov](https://earthquake.usgs.gov/fdsnws/event/1/) - USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards
   - [Premium weather API for Developers](https://www.worldweatheronline.com/developer/) - Weather API - Current, Forecast and Historical Weather
   - [Dribbble API](http://developer.dribbble.com/) - Build and integrate tools and applications to help members publish their design work on Dribbble.
   - [TinyJPG Developer API](https://tinyjpg.com/developers) - Hook up your server to optimize all your JPEG and PNG images on the fly.
@@ -102,10 +102,10 @@
   - [IT Bookstore API (version 1.0)](https://api.itbook.store/) - IT Bookstore API (version 1.0) - api.itbook.store
   - [Gitter API](https://developer.gitter.im/docs/welcome)
   - [verystream API](https://verystream.com/api)
-  - [Discord Developer](https://discordapp.com/developers/docs/intro) 
-  - [Slack API](https://api.slack.com/)
+  - [Discord Developer](https://discordapp.com/developers/docs/intro) - Build bots and integrations on Discord, or connect your game with rich presence, voice chat, and more
+  - [Slack API](https://api.slack.com/) - Welcome to the Slack API docs, the place where ideas turn into interactive apps, workflows get automated, and Slack becomes the platform that powers y…
   - [Workday API](https://community.workday.com/api)
-  - [射手(伪) API文档](https://assrt.net/api/doc)
+  - [射手(伪) API文档](https://assrt.net/api/doc) - 与别人分享，别人与你分享
   - [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers
   - [Remotive Jobs API](https://remotive.io/api-documentation) - World's largest API feed of remote jobs
   - [pipedream](https://pipedream.com/) - Pipedream is a serverless integration and compute platform that makes it easy to connect apps and develop event-driven workflows.
@@ -113,9 +113,9 @@
 
 - CDN
 
-  - [Bootstrap 中文网开源项目免费 CDN 服务](https://www.bootcdn.cn/)
-  - [Staticfile CDN](https://staticfile.org/)
-  - [cdnjs](https://cdnjs.com/)
+  - [Bootstrap 中文网开源项目免费 CDN 服务](https://www.bootcdn.cn/) - Bootstrap 中文网开源项目免费 CDN 加速服务 - 我们致力于为 Bootstrap、jQuery、Angular、Vue.js 一样优秀的开源项目提供稳定、快速、免费的 CDN 加速服务
+  - [Staticfile CDN](https://staticfile.org/) - 我们的目标是提供这样一个仓库，让它尽可能面收录尤秀的开源库，并免费为之提供CDN 加速服务，时之有更好的访速度和稳定的环境
+  - [cdnjs](https://cdnjs.com/) - cdnjs is the free, open-source CDN for the web's most popular libraries
   - [UNPKG](https://unpkg.com/#/) - unpkg is a fast, global content delivery network for everything on npm.
   
 - DNS
@@ -130,7 +130,7 @@
   
 - GAME
 
-  - [codingame](https://www.codingame.com/start)
+  - [codingame](https://www.codingame.com/start) - CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics
   - [codewars](www.codewars.com/r/w8cvNQ)
   - [codingfantasy](https://codingfantasy.com/) - Learn Code By Playing Games
 
@@ -140,7 +140,7 @@
   - [Try Redis](http://try.redis.io/)
   - [es6console](https://es6console.com/)
   - [stackblitz](https://stackblitz.com/) - The online IDE for web applications. Powered by Visual Studio Code.
-  - [Flexbox Froggy](http://flexboxfroggy.com/)
+  - [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
   - [leetcode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
   - [freecodecamp](https://freecodecamp.cn/home)
   - [visualgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
@@ -150,13 +150,13 @@
 
   - [Planet PostgreSQL](https://planet.postgresql.org/)
   - [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
-  - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
-  - [PostgreSQL 9.6.0 手册](http://www.postgres.cn/docs/9.6/)
-  - [db<>fiddle](https://dbfiddle.uk/)
+  - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/) - Learn PostgreSQL quickly through a practical PostgreSQL tutorial designed for database administrators and application developers
+  - [PostgreSQL 9.6.0 手册](http://www.postgres.cn/docs/9.6/) - PostgreSQL 手册
+  - [db<>fiddle](https://dbfiddle.uk/) - a free online environment to experiment with SQL
 
 - Machine Learning
 
-  - [AWS Training and Certification - Machine Learning](https://amazonaws-china.com/cn/training/learning-paths/machine-learning/)
+  - [AWS Training and Certification - Machine Learning](https://amazonaws-china.com/cn/training/learning-paths/machine-learning/) - Whether you’re new to artificial intelligence (AI), or an experienced builder, develop your knowledge and skills with training curated by the experts…
 
 - SaaS&Tools
 
@@ -174,21 +174,21 @@
   - [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
   - [Codacy](https://www.codacy.com/) - Automated code reviews & code analytics
   - [codingfont](https://www.codingfont.com/) - Find Your True Love of Coding Fonts
-  - [Unicode Table](http://www.tamasoft.co.jp/en/general-info/unicode.html)
-  - [regex101: build, test, and debug regex](https://regex101.com/)
+  - [Unicode Table](http://www.tamasoft.co.jp/en/general-info/unicode.html) - Lists all Unicode characters
+  - [regex101: build, test, and debug regex](https://regex101.com/) - Build, test and debug regex online with real-time matches and clear explanations
   - [PRISM Break](https://prism-break.org/zh-CN/) - 粉碎棱镜——保护你自己的安全、隐私和自由！让我们逃离所有类似于棱镜计划、XKeyscore 和时代计划的全球信息监控项目。
   - [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming.
   - [RustDesk](https://rustdesk.com/zh/) - 开源虚拟与远程桌面基础架构
 
 - 方法论
 
-  - [12-Factor](https://www.12factor.net/zh_cn/)
+  - [12-Factor](https://www.12factor.net/zh_cn/) - A methodology for building modern, scalable, maintainable software-as-a-service apps
  
 - Books
   
   - [Exploring ES6: Upgrade to the next version of JavaScript](https://exploringjs.com/es6.html)
   - [Patterns](https://www.patterns.dev/) - Stay up to date on the latest design and performance patterns.
-  - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+  - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - Exploring JavaScript: temporarily offline
   - [Go语言101](https://gfw.go101.org/article/101.html) - Go语言在线书籍和工具等
   - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
   - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book for JavaScript developers.
@@ -212,16 +212,16 @@
 - [graphberry](https://www.graphberry.com/) - Free pixel perfect resources, made with love
 - [iconfont](http://www.iconfont.cn/) - 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
 - [icons8](https://icons8.com/) - 84,900 Free Flat Icons
-- [resourcecards](https://resourcecards.com/)
+- [resourcecards](https://resourcecards.com/) - Resource Cards is a growing list of free resources aimed to help creatives with their next project
 - [ONE PAGE LOVE](https://onepagelove.com/) - The ultimate showcase of One Page websites
 - [Httpster](https://httpster.net/2018/oct/) - Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
-- [uisdc](https://www.uisdc.com/)
-- [It's Nice That](https://www.itsnicethat.com/)
-- [Mindsparkle](https://mindsparklemag.com/)
-- [Logo Design Love](https://www.logodesignlove.com/)
-- [Brandnew](https://www.underconsideration.com/brandnew/)
-- [Yatzer](https://www.yatzer.com/)
-- [TOPYS](https://www.topys.cn/)
+- [uisdc](https://www.uisdc.com/) - 优设网 (uisdc.com) 是国内设计师入门到进阶的专业设计网站
+- [It's Nice That](https://www.itsnicethat.com/) - Inspiring Creativity
+- [Mindsparkle](https://mindsparklemag.com/) - Mindsparkle Mag showcases the best of branding, web design, graphic and packaging projects through in-depth case studies and behind-the-scenes with de…
+- [Logo Design Love](https://www.logodesignlove.com/) - On logos, symbols, icons, and marks, with the accompanying book available in thirteen languages
+- [Brandnew](https://www.underconsideration.com/brandnew/) - Opinions on corporate and brand identity work
+- [Yatzer](https://www.yatzer.com/) - Since 2006, Yatzer has explored the many ways design shapes our lives,curating soulful interiors, visionary creatives, and immersive destinations — ce…
+- [TOPYS](https://www.topys.cn/) - 抢先知晓全球最新鲜、最棒的创意资讯，扩充你的灵感库
 - [DrawKit](https://www.drawkit.io/) - DrawKit is a collection of beautiful, customisable MIT licensed illustrations, both free and paid, in two styles, to use on your next website, app, or project.
 - [Vector Logo Zone](https://www.vectorlogo.zone/) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 - [Figma](https://www.figma.com/) - Figma: the collaborative interface design tool.
@@ -233,7 +233,7 @@
 - [Unsplash](https://unsplash.com/) - Beautiful, free photos. Gifted by the world’s most generous community of photographers.
 - [Uplabs](https://www.uplabs.com/) - Uplabs is the leading community of creatives, offering the best digital inspiration and downloads, every day.
 - [Pickupimage](http://pickupimage.com/) - Pickupimage is the largest collections of free photographs. Free download high quality premium free stock images, public domain photos.
-- [無料写真素材](http://freephoto.bizutart.com/)
+- [無料写真素材](http://freephoto.bizutart.com/) - 無料写真素材ブログは、個人・商用で使用可能な、高解像度無料写真素材サイトです
 - [Pixabay](https://pixabay.com/) - 发现我们慷慨的社区分享的 1.5 百万张图片和视频。
 - [hippopx](https://www.hippopx.com/) - free stock photos under CC0 license
 - [pickpik](https://www.pickpik.com/) - Beautiful Royalty-Free Photos Sorted By AI
@@ -257,11 +257,11 @@
 - [mixkit](https://mixkit.co/) - Extraordinary HD videos. For you to use, completely free of charge. 免费可商用！Mixkit 优质高清视频素材 MP4 + 卡通艺术插画设计图片下载网站
 - [徐晓冬北京格斗狂人](https://www.youtube.com/channel/UCIXOIjR2mp8tHz78DE0vj2A)
 - [陈秋实](https://www.youtube.com/channel/UCv361SF6FKznoGPKEFG9Yhw)
-- [BBC News 中文](https://www.youtube.com/channel/UCb3TZ4SD_Ys3j4z0-8o6auA)
-- [1818黄金眼](https://www.youtube.com/channel/UCDePf302Ax0fNRRTyNMJaHw)
-- [李永乐老师](https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw)
+- [BBC News 中文](https://www.youtube.com/channel/UCb3TZ4SD_Ys3j4z0-8o6auA) - This is the official YouTube account of BBC News Chinese
+- [1818黄金眼](https://www.youtube.com/channel/UCDePf302Ax0fNRRTyNMJaHw) - 中国公众知晓度最高、收视率最高民生新闻节目The TV news program with the highest public awareness and the highest ratings in China内容及版权问题 Content and copyright issues尊重所有使用的…
+- [李永乐老师](https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw) - 一个典型的科学爱好者~个人博客：pdsharing.com
 - [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w)
-- [敖厂长](https://www.youtube.com/channel/UCCkMW93Am1pLfk2nZFKAmbQ)
+- [敖厂长](https://www.youtube.com/channel/UCCkMW93Am1pLfk2nZFKAmbQ) - 欢迎来到敖厂长的YouTube视频空间 这里将为大家带来正版的高画质敖厂长作品
 - [老梁](https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ)
 
 ## Cheatsheets
@@ -270,7 +270,7 @@
 - [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Category:Cheatsheets) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific web application security topics.
 - [OWASP Cheat Sheet Series - 2](https://cheatsheetseries.owasp.org/index.html) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
 - [OverAPI](http://overapi.com/) - Collecting all the cheat sheets
-- [devhints](https://devhints.io/)
+- [devhints](https://devhints.io/) - A ridiculous collection of web development cheatsheets
 - [Node.js ES2015/ES6, ES2016 and ES2017 support](https://node.green/)
 
 ## Software&Tools
@@ -305,25 +305,25 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
 - [OldApps](http://www.oldapps.com/) - Download odd apps
 - [Cloudcraft](https://cloudcraft.co/) - Draw AWS diagrams
-- [xclient](http://xclient.info)
+- [xclient](http://xclient.info) - 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务
 - [Google+ featuredphotos](https://plus.google.com/featuredphotos) - 精选照片屏幕保护程序
 - [online-downloader](https://www.online-downloader.com/) - Free Online YouTube Convert and Download
 - [TinyJPG](https://tinyjpg.com/) - Smart JPEG and PNG compression
 - [RIOT](http://luci.criosweb.ro/riot/) - A free program designed to efficiently optimize images for the Web
-- [ImageAlpha](https://pngmini.com/)
+- [ImageAlpha](https://pngmini.com/) - image minifier (like JPEG with transparency!)
 - [Feed43](http://feed43.com/) - Convert web pages into professionally looking RSS feeds.
 - [Let’s Encrypt](https://letsencrypt.org/) - Let’s Encrypt is a free, automated, and open Certificate Authority.
 - [PhpStorm Themes](http://www.phpstorm-themes.com/)
 - [天眼查](https://www.tianyancha.com/) - 都在用的商业安全工具
-- [citrix](https://www.citrix.com/)
-- [Privoxy](http://www.privoxy.org/)
+- [citrix](https://www.citrix.com/) - Discover the new Citrix platform, revolutionizing application delivery with enhanced security, Zero Trust frameworks, and unmatched performance
+- [Privoxy](http://www.privoxy.org/) - Privoxy helps users to protect their privacy
 - [IPSW Downloads](https://ipsw.me/#) - Download current and previous versions of Apple's iOS Firmware and receive notifications when new firmwares are released.
 - [Uptodown](https://cn.uptodown.com/windows) - DownloadDiscoverShare
 - [producthunt](https://www.producthunt.com/)
 - [JWT.IO](https://jwt.io/) - JWT.IO allows you to decode, verify and generate JWT.
 - [SendGrid](https://sendgrid.com/) - Send Email Newsletters Password Resets Promotional Emails Shipping Notifications With Confidence
 - [Clip Converter](https://www.clipconverter.cc/) - YouTube to MP4 & MP3 Converter!
-- [vscodethemes](https://vscodethemes.com/)
+- [vscodethemes](https://vscodethemes.com/) - Search themes for Visual Studio Code
 - [Firefox Send](https://send.firefox.com/) - 简单、私密的文件分享服务
 - [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - easily download chrome extensions
 - [MikuTools](https://miku.tools/) - 一个轻量的工具集合
@@ -331,18 +331,18 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Flag Counter](http://s11.flagcounter.com/index.html) - Flag Counter Management
 - [Firefox Monitor](https://monitor.firefox.com/) - 看看您是否出现在数据外泄事件中
 - [奶牛快传 | CowTransfer](https://fuli.cowtransfer.com/) - 文件传输服务
-- [Squoosh](https://squoosh.app/)
+- [Squoosh](https://squoosh.app/) - Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser
 - [What is my IPv6 Address?](http://ipv4.whatismyv6.com/)
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client
 - [Insomnia](https://insomnia.rest/) - Insomnia REST Client
 - [ExtendsClass](https://extendsclass.com/) - Online developer tools: REST/SOAP Clients, SQLite browser, Regex/XPath/JSONPath Testers, code checkers, encoders and converters.
 - [cmder](http://cmder.net/)
 - [Git Bash](https://git-scm.com/downloads) Git GUI Client 自带
-- [iTerm2 - Mac OS Terminal Replacement](https://www.iterm2.com/)
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-- [LibreOffice](https://www.libreoffice.org/)
+- [iTerm2 - Mac OS Terminal Replacement](https://www.iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration
+- [LibreOffice](https://www.libreoffice.org/) - LibreOffice is a free office suite
 - [Apache OpenOffice](https://www.openoffice.org/zh-cn/) 开放免费的文字处理软件
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features
 - [Foxmail](http://www.foxmail.com/)
 - [Rufus](https://rufus.akeo.ie/?locale=zh_CN) 轻松创建 USB 启动盘
 - [TumblOne](http://www.tumblone.com/) free Tumblr image downloader
@@ -350,61 +350,61 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [f.lux](https://justgetflux.com/) 护眼工具
 - [AutoHotkey](https://www.autohotkey.com/)
 - [LICEcap](http://www.cockos.com/licecap/) GIF 录制工具
-- [Clover 3](http://cn.ejie.me/)
+- [Clover 3](http://cn.ejie.me/) - Clover Brings Chrome-Style Tabs to Windows Explorer
 - [AppCleaner](http://freemacsoft.net/appcleaner/) mac osx 卸载软件及其相关文件
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) 按`command`快速查看当前软件的快捷键
-- [Sublime Text](https://www.sublimetext.com/)
+- [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a sophisticated text editor for code, markup and prose
 - [Notepad++](https://notepad-plus-plus.org/)
-- [Brackets](http://brackets.io/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [WebStorm](https://www.jetbrains.com/webstorm/)
-- [Atom](https://atom.io/)
-- [gedit](https://wiki.gnome.org/Apps/Gedit)
-- [vscode](https://code.visualstudio.com/)
-- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)
-- [Foxit PDF Reader](https://www.foxitsoftware.com/)
+- [Brackets](http://brackets.io/) - Brackets has evolved into Phoenix Code — a free, open-source code editor with live preview for HTML, CSS, and JavaScript
+- [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code is a free, open source AI code editor
+- [WebStorm](https://www.jetbrains.com/webstorm/) - Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies
+- [Atom](https://atom.io/) - We are archiving Atom and all projects under the Atom organization for an official sunset on December 15, 2022
+- [gedit](https://wiki.gnome.org/Apps/Gedit) - GNOME Wiki Archive
+- [vscode](https://code.visualstudio.com/) - Visual Studio Code is a free, open source AI code editor
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - Download Sumatra PDF - a free, fast, lightweight PDF reader for Windows
+- [Foxit PDF Reader](https://www.foxitsoftware.com/) - Fast, secure PDF software trusted by businesses worldwide
 - [Adobe Acrobar Reader DC](https://acrobat.adobe.com/us/en/products/pdf-reader.html)
-- [PDF-XChange Viewer](http://www.tracker-software.com/product/pdf-xchange-viewer)
+- [PDF-XChange Viewer](http://www.tracker-software.com/product/pdf-xchange-viewer) - The product page for PDF-XChange Editor
 - [SoftEther](https://www.softether.org/)
-- [Shadowsocks](https://shadowsocks.org)
-- [Lantern](https://getlantern.org/)
-- [Psiphon](https://psiphon.ca/)
+- [Shadowsocks](https://shadowsocks.org) - A fast tunnel proxy that helps you bypass firewalls
+- [Lantern](https://getlantern.org/) - Nonprofit VPN trusted by 250+ million people
+- [Psiphon](https://psiphon.ca/) - Psiphon is circumvention software for Windows and Mobile platforms that provides uncensored access to Internet content
 - [7-Zip](http://www.7-zip.org/)
-- [WinRAR](http://www.winrar.com/)
+- [WinRAR](http://www.winrar.com/) - WinRAR - the data compression, encryption and archiving tool for Windows that opens RAR and ZIP files
 - [Bandizip](https://www.bandisoft.com/bandizip/cn/) 轻巧、快速、免费的压缩软件
-- [KeePass](http://keepass.info/)
+- [KeePass](http://keepass.info/) - KeePass is a free open source password manager
 - Chrome Inspect (审查元素时，经常 crash，需翻墙)
 - [GapDebug](https://www.genuitec.com/products/gapdebug/)（需翻墙）
-- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN&gl=US)
-- [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
-- [FireShot](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=zh-CN&gl=US)
-- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=zh-CN&gl=US)
-- [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN&gl=US)
-- [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp?hl=zh-CN&gl=US)
+- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN&gl=US) - 在 YouTube 和您浏览的其他网站上去除广告
+- [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - POSTMAN CHROME IS DEPRECATED DOWNLOAD THE UPDATED POSTMAN NATIVE APPS Postman Chrome is deprecated and is missing essential, new
+- [FireShot](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=zh-CN&gl=US) - 捕捉网页截图，编辑并将它们保存为PDF，JPEG，GIF，PNG或BMP；上传，打印，在Photoshop中打开，复制到剪贴板或电子邮件
+- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=zh-CN&gl=US) - Transform your browser into a beautifully designed tab that helps you feel calm, keep focus, and stay energized
+- [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN&gl=US) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展，支持谷歌、DeepL、ChatGPT、百度、有道等 22 个国内外主流翻译服务，且均可用于全文翻译
+- [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp?hl=zh-CN&gl=US) - An extension that allows viewing of locally published Axure RP prototypes (HTML files) from Google Chrome
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN&gl=US)
-- [WEB 前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN&gl=US)
-- [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi)
+- [WEB 前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN&gl=US) - 30+开发者工具集：JSON格式化/BigInt精度/对比、编解码(Base64/URL/Unicode/Gzip/JWT)、时间戳/FILETIME转换、二维码/条形码、UUID/雪花ID生成、代码美化、正则、取色、Postman、进制转换等，按需安装
+- [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/epejoicbhllgiimigokgjdoijnpaphdp)
 - [Sourcetree](https://www.sourcetreeapp.com/)
-- [Git Extensions](https://gitextensions.github.io/)
+- [Git Extensions](https://gitextensions.github.io/) - Git Extensions : Git Extensions is a standalone UI tool for managing Git repositories
 - [PuTTY](http://www.putty.org/) SSH and telnet client
 - [FileZilla](https://filezilla-project.org/) The free FTP solution
 - [Charles](https://www.charlesproxy.com/) Web Debugging Proxy Application for Windows, Mac OS and Linux
 - [Fiddler](http://www.telerik.com/fiddler) free web debugging proxy
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-- [VMware Workstation](http://www.vmware.com/cn)
+- [VMware Workstation](http://www.vmware.com/cn) - Optimize cloud infrastructure with VMware for app platforms, private cloud, edge, networking, and security
 - [Parallels Desktop](http://www.parallelsdesktop.cn/)
 - [I2P Anonymous Network](https://geti2p.net/zh-cn/)
-- [DevDocs API Documentation](http://devdocs.io/)
-- [W3cubDocs API Documentation](http://docs.w3cub.com/)
-- [Imgur: The magic of the Internet](https://imgur.com/)
-- [v2ray](https://www.v2ray.com/)
+- [DevDocs API Documentation](http://devdocs.io/) - Fast, offline, and free documentation browser for developers
+- [W3cubDocs API Documentation](http://docs.w3cub.com/) - W3cubDocs is a based Github Pages service API documentation browser with 300+ docs including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++
+- [Imgur: The magic of the Internet](https://imgur.com/) - Find, rate and share the best memes and images
+- [v2ray](https://www.v2ray.com/) - Project V 官方网站
 - [neatdownloadmanager](https://www.neatdownloadmanager.com/index.php/en/)
 - [draw.io](https://www.draw.io/) - draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 - [Pastebin](https://pastebin.com/) - Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time.
-- [osu!next Signature Generator](https://osusig.lolico.moe/)
-- [射手网(伪) - assrt.net](https://assrt.net/)
-- [免费在线 YouTube 下载器：下载 YouTube 视频、Facebook 等等！](https://zh.savefrom.net/)
+- [osu!next Signature Generator](https://osusig.lolico.moe/) - 一个 osu!next 风格的签名生成器
+- [射手网(伪) - assrt.net](https://assrt.net/) - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕
+- [免费在线 YouTube 下载器：下载 YouTube 视频、Facebook 等等！](https://zh.savefrom.net/) - SaveFrom.net提供最简单、最快速的免费在线视频下载服务
 - [CC Search](https://search.creativecommons.org/) - Search for free content in the public domain and under Creative Commons licenses.
 - [GTmetrix](https://gtmetrix.com/) - Website Speed and Performance Optimization
 - [WebPagetest](http://www.webpagetest.org/) - Website Performance and Optimization Test
@@ -420,13 +420,13 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 ## Blog
 
 - [program-think](https://program-think.blogspot.com/)
-- [John Papa](https://johnpapa.net/)
+- [John Papa](https://johnpapa.net/) - John Papa is a professional Web Developer and storyteller
 - [Tobias Nickel](http://tnickel.de/)
-- [nodejs blog](https://nodejs.org/en/blog/)
+- [nodejs blog](https://nodejs.org/en/blog/) - Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and s…
 - [Todd Motto](https://toddmotto.com/) - JavaScript and Angular articles
-- [The GitHub Blog](https://blog.github.com/)
+- [The GitHub Blog](https://blog.github.com/) - Updates, ideas, and inspiration from GitHub to help developers build and design software
 - [Facebook Code](https://code.fb.com/feed/) - Facebook Engineering Blog
-- [Martin Fowler](https://martinfowler.com/)
+- [Martin Fowler](https://martinfowler.com/) - A website on building software effectively
 - [StrongLoop Blog](https://strongloop.com/strongblog/)
 - [鳥哥的 Linux 私房菜](http://linux.vbird.org) - 學習 Linux 新手的建議
 
@@ -448,33 +448,33 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [EZ2ON](https://arrowgene.net/ez2on/setup)
 - [电玩巴士](http://www.tgbus.com/) - 中国游戏第一门户*电玩巴士*电视游戏*电子游戏*网络游戏*手机游戏*网页游戏
 - [游民星空](http://www.gamersky.com/) - 大型单机游戏媒体 提供最具特色单机游戏资讯、下载
-- [方块游戏](http://www.cubejoy.com/)
+- [方块游戏](http://www.cubejoy.com/) - 中文PC单机游戏平台,致力于为用户提供丰富的游戏内容,不断将全球优秀作品引入中国,玩单机游戏,来方块游戏平台
 - [Inso link](http://inso.link/) - 简洁快速的 osu!下载云
-- [Humble Bundle](https://www.humblebundle.com/)
-- [GOG](https://www.gog.com/#)
+- [Humble Bundle](https://www.humblebundle.com/) - Humble Bundle sells games, books, software, and more
+- [GOG](https://www.gog.com/#) - 在 Windows、Mac 和 Mac 上下载最好的经典游戏和新游戏Linux
 - [fanatical](https://www.fanatical.com/zh-hans/)
-- [stepmaniaonline](http://stepmaniaonline.net/)
+- [stepmaniaonline](http://stepmaniaonline.net/) - Stepmania search engine
 - [Malody](https://m.mugzone.net/) - Cross-platform music game community
 - [epicgames](https://www.epicgames.com/site/zh-CN/home)
 - [sonkwo](https://www.sonkwo.com/) - 中国最大的单机游戏数字商城*海量低价*正版下载 | 杉果游戏
-- [Steam Card Exchange](https://www.steamcardexchange.net/index.php)
+- [Steam Card Exchange](https://www.steamcardexchange.net/index.php) - Steam Trading Cards related website featuring trading cards, badges, emoticons, backgrounds, artworks, pricelists, trading bot and other tools
 - [Steam Sales - Recommended](https://www.steamgifts.com/)
 - [AStats](http://astats.astats.nl/astats/index.php) - AStats Steam User Games Overview
 - [Steam Database](https://steamdb.info/)
-- [steam.tools](https://steam.tools/)
+- [steam.tools](https://steam.tools/) - A set of Steam related WebApps built around trading cards, emoticons and backgrounds
 - [STEAM SIGNATURE GENERATOR](https://steamsignature.com/) - Steam Signature allows you to generate a dynamic signature which shows your Steam status, Steam avatar, current level, XP completion and more using your SteamID
-- [育碧](https://store.ubi.com/cn/home)
-- [鈊象電子](https://www.igs.com.tw/)
-- [Clicker Heroes Ancients Calculator](https://hsoptimizer.github.io/ancient/)
+- [育碧](https://store.ubi.com/cn/home) - Buy from the Official Ubisoft Store, Get into our vast catalog of games, DLC and exclusive Deals now
+- [鈊象電子](https://www.igs.com.tw/) - 鈊象電子正式成立於1991年，有感於市場商機龐大，因此自成立起便堅持自有品牌及關鍵技術自行研發，立志成為華人地區知名的遊戲研發公司
+- [Clicker Heroes Ancients Calculator](https://hsoptimizer.github.io/ancient/) - Clicker Heroes Ancient Calculator
 - [Clicker Heroes 1.0 HS Optimizer](https://superbob.github.io/clicker-heroes-1.0-hsoptimizer/#!/)
-- [A calculator for Clicker Heroes](https://kepow.org/clickerheroes/)
-- [ANCIENT CALCULATOR(Clicker Heroes v1.0e10)](https://graceoflives.github.io/fluffy-garbanzo/)
+- [A calculator for Clicker Heroes](https://kepow.org/clickerheroes/) - Clicker Heroes Optimizer
+- [ANCIENT CALCULATOR(Clicker Heroes v1.0e10)](https://graceoflives.github.io/fluffy-garbanzo/) - Level your Ancients to your heart's content with this tool
 
 ## Job
 
 - [牛马.ICU](https://www.work2icu.org/zh-CN/results) - 这是由 「$Li 社区」与「李老师不是你老师」发起的公益项目，我们希望调查曝光中国国内存在的一切剥削打工人的恶劣行为！拒绝996！拒绝无休止加班！拒绝剥削！拒绝压榨！拒绝压迫！拒绝一切不平等的待遇！
 - [Japan Dev](https://japan-dev.com/) - Software Developer Jobs in Japan
-- [中华人民共和国香港特别行政区政府,劳工处](https://www.labour.gov.hk/chs/service/content.htm)
+- [中华人民共和国香港特别行政区政府,劳工处](https://www.labour.gov.hk/chs/service/content.htm) - 青年就业科 设有青年就业起点，为青年提供择业指导、就业及自雇支援服务，并推行「展翅青年就业计划」，为青年提供职前及在职培训 就业科 提供免费就业及招聘服务，并推行「中高龄就业计划」及「再就业津贴试行计
 - [电鸭社区](https://eleduck.com/) - 电鸭社区是具有8年历史的远程工作招聘社区，也是远程办公互联网工作者们的聚集地。在社区，我们进行有价值的话题讨论，也分享远程、外包、零活、兼职、驻场等非主流工作机会。「只工作，不上班」是我们倡导的工作态度。
 - [Findy](https://findy-code.io/) - ハイクラスエンジニア向け転職・求人サイト。自社開発のWeb企業の求人多数！GitHub登録をすると、IT/Web企業とマッチングします。ユーザーサクセス (キャリア)面談も実施。
 
