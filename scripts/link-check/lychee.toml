@@ -1,0 +1,20 @@
+# lychee 配置 —— README.md 存量链接有效性检查
+# 口径约定（三态判定见仓库 CONTEXT.md「链接检查」）：
+#   失效     = 4xx（403/429 除外）、5xx、DNS 失败、连接拒绝
+#   无法验证 = 403 / 429（反爬嫌疑）、超时、TLS 异常
+# 分类由 scripts/link-check/format-report.mjs 对 JSON 结果后处理完成。
+
+# GET + 浏览器 UA：多数站点对 HEAD 或非常规 UA 返回 403，属反爬而非死链
+method = "get"
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 link-check/1.0"
+
+# 温和并发 + 重试：383 个链接 8 并发约 3~8 分钟，避免触发限流
+max_concurrency = 8
+timeout = 20
+max_retries = 2
+max_redirects = 10
+
+# README 内 TOC 锚点（#AI 等）不做本地锚点校验，不在检查范围
+include_fragments = "none"
+
+# mailto 默认不检查（lychee 0.24 移除了 exclude_mail 键，mail 排除为默认行为）
