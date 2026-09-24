@@ -1,0 +1,45 @@
+name: URL Security Scan
+
+# pull_request_target 在 base 仓库上下文运行:
+# - fork PR 也有写权限，可以更新 PR 评论
+# - checkout 的是 base 分支，脚本/白名单始终来自可信代码，不执行 PR 引入的代码
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: url-scan-pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  # job 无自定义 name，check run 名称即 "scan-urls"，
+  # 分支保护 Required status check 请选择 "scan-urls"
+  scan-urls:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      URL_SCAN_DATA_DIR: ${{ runner.temp }}/url-scan-data
+    steps:
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+
+      - name: Extract URLs added by this PR
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.number }}
+        run: node scripts/url-scan/extract-urls.mjs
+
+      - name: Scan URLs with VirusTotal
+        env:
+          VT_API_KEY: ${{ secrets.VIRUSTOTAL_API_KEY }}
+        run: node scripts/url-scan/scan-urls.mjs
+
+      - name: Report results to PR
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.number }}
+        run: node scripts/url-scan/report.mjs

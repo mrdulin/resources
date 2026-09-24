@@ -5,3 +5,4 @@ public/
 .idea/
 .deploy_git/
 node_modules/
+url-scan-data/

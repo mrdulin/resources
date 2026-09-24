@@ -1,0 +1,6 @@
+# URL 扫描白名单
+# 每行一条规则，# 开头为注释:
+#   域名规则（匹配该域名及其所有子域名）:  example.com
+#   URL 前缀规则（匹配 URL 开头）:        https://github.com/mrdulin/
+# 命中白名单的链接不扫描、不告警。
+virustotal.com
