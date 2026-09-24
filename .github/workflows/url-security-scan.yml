@@ -36,6 +36,8 @@ jobs:
       - name: Scan URLs with VirusTotal
         env:
           VT_API_KEY: ${{ secrets.VIRUSTOTAL_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}   # 扫描期间实时更新进度评论
+          PR_NUMBER: ${{ github.event.number }}
         run: node scripts/url-scan/scan-urls.mjs
 
       - name: Report results to PR

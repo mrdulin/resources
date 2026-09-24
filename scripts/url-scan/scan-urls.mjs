@@ -4,10 +4,19 @@
  * 判定规则: malicious >= 2 -> 恶意; malicious == 1 或 suspicious >= 1 -> 可疑; 其余 -> 安全。
  * 输出: ${URL_SCAN_DATA_DIR:-url-scan-data}/scan-results.json
  *
- * 环境变量: VT_API_KEY（必需，CI 中来自 repo secret VIRUSTOTAL_API_KEY）
+ * 实时进度（grill 决策 Q2d/Q4a/Q5a）:
+ * - 扫描开始即在 PR 上创建"进行中"占位评论，每扫完一个 URL PATCH 更新一次
+ *   （含当前扫描中的 URL，最多 2N+1 次调用，远低于 GITHUB_TOKEN 1000 次/时限流）
+ * - 评论更新失败只告警不中断扫描；job 中途挂掉时评论停留在过期状态并带
+ *   "最后更新时间"，下次 synchronize 整体重写自愈
+ * - 本地调试（无 CI 环境变量）时自动跳过评论更新
+ *
+ * 环境变量: VT_API_KEY（必需）; GITHUB_TOKEN/PR_NUMBER/GITHUB_REPOSITORY（评论用，可选）
  */
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import path from 'node:path';
+import { upsertPrComment } from './lib/pr-comment.mjs';
+import { buildProgressComment } from './lib/progress-comment.mjs';
 
 const DATA_DIR = process.env.URL_SCAN_DATA_DIR || 'url-scan-data';
 const VT = 'https://www.virustotal.com/api/v3';
@@ -103,25 +112,59 @@ async function main() {
   const inPath = path.join(DATA_DIR, 'extracted.json');
   if (!existsSync(inPath)) throw new Error(`找不到 ${inPath}，请先运行 extract-urls.mjs`);
   const extracted = JSON.parse(readFileSync(inPath, 'utf8'));
+  const queue = extracted.scanned || [];
+  const total = queue.length;
 
+  if (total === 0) {
+    mkdirSync(DATA_DIR, { recursive: true });
+    writeFileSync(path.join(DATA_DIR, 'scan-results.json'), JSON.stringify({ results: [] }, null, 2));
+    console.log('没有待扫描的 URL');
+    return;
+  }
+
+  // 进度状态：done 为已完成条目，pending 为尚未开始的，current 为扫描中的
+  const done = [];
+  let pending = queue.map((e) => ({ url: e.url, occurrences: e.occurrences }));
   const results = [];
-  for (const entry of extracted.scanned) {
-    process.stdout.write(`扫描 ${entry.url} ... `);
+
+  const postProgress = async (current = null) => {
+    try {
+      const how = await upsertPrComment(
+        buildProgressComment({ total, done: [...done], pending, current })
+      );
+      if (how === 'created') console.log('  进度评论已创建');
+      else if (how === 'updated') console.log('  进度评论已更新');
+    } catch (err) {
+      console.log(`  进度评论更新失败（不影响扫描）: ${err.message}`);
+    }
+  };
+
+  await postProgress(); // 占位评论：0/N，全部待扫描
+
+  for (const [i, entry] of queue.entries()) {
+    pending = pending.filter((p) => p.url !== entry.url);
+    await postProgress({ url: entry.url, occurrences: entry.occurrences }); // 当前标记为"扫描中"
+
+    process.stdout.write(`[${i + 1}/${total}] ${entry.url} ... `);
     try {
       const r = await scanOne(entry.url);
       results.push({ ...entry, ...r });
-      console.log(r.verdict);
+      done.push({ ...entry, ...r });
+      console.log(`${r.verdict} (${r.malicious} 恶意 / ${r.suspicious} 可疑)`);
     } catch (err) {
       // 单个 URL 失败不阻断整体，标记为未扫描
-      results.push({
+      const rec = {
         ...entry,
         verdict: 'not_scanned',
         reason: err.message,
         engines: [],
         reportLink: reportLinkFor(entry.url),
-      });
+      };
+      results.push(rec);
+      done.push(rec);
       console.log(`未完成: ${err.message}`);
     }
+    await postProgress(); // 本条完成后的最新进度
     await sleep(1500);
   }
 
