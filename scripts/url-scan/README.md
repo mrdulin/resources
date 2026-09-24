@@ -6,9 +6,22 @@ PR 收到或更新时，自动扫描**新增行**中的站点链接，结果以�
 
 - `.github/workflows/url-security-scan.yml` — workflow，`pull_request_target` 触发（opened / synchronize / reopened），job 名 `scan-urls`
 - `scripts/url-scan/extract-urls.mjs` — 拉取 PR diff，提取新增行 URL（支持裸链接、markdown 链接、HTML href），去重、套白名单、单 PR 上限 20 个
-- `scripts/url-scan/scan-urls.mjs` — 调 VirusTotal API v3（先查缓存报告，无则提交扫描并轮询），带 429 限流退避
-- `scripts/url-scan/report.mjs` — 在 PR 上创建/更新报告评论（带隐藏标记 upsert，不刷屏），有恶意链接时 `exit 1`
+- `scripts/url-scan/scan-urls.mjs` — 调 VirusTotal API v3（先查缓存报告，无则提交扫描并轮询），带 429 限流退避；扫描期间实时更新进度评论
+- `scripts/url-scan/report.mjs` — 在 PR 上创建/更新报告评论（覆盖进度占位），有恶意链接时 `exit 1`
+- `scripts/url-scan/lib/pr-comment.mjs` — PR 评论 upsert 共享逻辑（按隐藏标记定位同一条评论）
+- `scripts/url-scan/lib/progress-comment.mjs` — "扫描进行中"进度评论渲染
 - `.github/url-scan-allowlist.txt` — 白名单
+- `CONTEXT.md` — 本模块术语表；`docs/adr/0001-*.md` — 进度承载方式的设计决策
+
+## 实时进度
+
+扫描期间 PR 上只有**一条**评论，形态随扫描演变（marker upsert，不刷屏）：
+
+1. job 启动 -> "URL 安全扫描（进行中）"，表格列出全部链接为"待扫描"
+2. 每扫完一个 URL -> 进度行 `N/20` 更新，完成的行显示判定（安全/可疑/恶意），当前扫描的显示"扫描中"
+3. 扫描完成 -> 同一条评论被最终报告覆盖（结论 + 明细表 + 恶意检出引擎）
+
+Checks tab 的实时日志同步输出 `[i/N] <url> -> 判定` 进度行。job 中途挂掉时评论停留在最后进度（带"最后更新时间"），下次 push 自动重写自愈。
 
 ## 判定规则
 

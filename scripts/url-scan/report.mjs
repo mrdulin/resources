@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 /**
- * 汇总扫描结果，在 PR 上创建/更新扫描报告评论（带隐藏标记，避免每次 push 刷屏）。
+ * 汇总扫描结果，在 PR 上创建/更新扫描报告评论。
+ * 与"扫描进行中"的进度占位评论共用同一条评论（同 marker）：报告生成后整体覆盖进度。
  * 存在恶意链接时以退出码 1 结束 -> job 的 check 失败，
  * 配合分支保护 Required status check（"scan-urls"）即可阻止合并。
  *
@@ -9,10 +10,9 @@
  */
 import { readFileSync, existsSync, appendFileSync } from 'node:fs';
 import path from 'node:path';
+import { REPORT_MARKER, upsertPrComment } from './lib/pr-comment.mjs';
 
 const DATA_DIR = process.env.URL_SCAN_DATA_DIR || 'url-scan-data';
-const API = 'https://api.github.com';
-const MARKER = '<!-- url-scan-bot:v1 -->';
 const MAX_TABLE_ROWS = 50;
 
 const LABEL = {
@@ -36,7 +36,7 @@ function fmtOccurrences(entry) {
 
 function buildComment(extracted, scan) {
   const uniqueCount = extracted?.unique_count || 0;
-  const lines = [MARKER, '## URL 安全扫描报告', ''];
+  const lines = [REPORT_MARKER, '## URL 安全扫描报告', ''];
 
   if (!scan) {
     lines.push(
@@ -119,46 +119,6 @@ function buildComment(extracted, scan) {
   return lines.join('\n');
 }
 
-async function upsertComment(body) {
-  const repo = process.env.GITHUB_REPOSITORY;
-  const pr = process.env.PR_NUMBER;
-  const token = process.env.GITHUB_TOKEN;
-  if (!repo || !pr || !token) throw new Error('缺少 GITHUB_REPOSITORY / PR_NUMBER / GITHUB_TOKEN');
-  const headers = {
-    Authorization: `Bearer ${token}`,
-    Accept: 'application/vnd.github+json',
-    'X-GitHub-Api-Version': '2022-11-28',
-    'User-Agent': 'url-security-scan-bot',
-    'Content-Type': 'application/json',
-  };
-
-  const listRes = await fetch(`${API}/repos/${repo}/issues/${pr}/comments?per_page=100`, { headers });
-  if (!listRes.ok) throw new Error(`获取 PR 评论失败: HTTP ${listRes.status}`);
-  const comments = await listRes.json();
-  const existing = comments.find(
-    (c) => c.body?.includes(MARKER) && c.user?.login === 'github-actions[bot]'
-  );
-
-  const payload = JSON.stringify({ body });
-  if (existing) {
-    const res = await fetch(`${API}/repos/${repo}/issues/comments/${existing.id}`, {
-      method: 'PATCH',
-      headers,
-      body: payload,
-    });
-    if (!res.ok) throw new Error(`更新评论失败: HTTP ${res.status}`);
-    console.log(`已更新既有报告评论`);
-  } else {
-    const res = await fetch(`${API}/repos/${repo}/issues/${pr}/comments`, {
-      method: 'POST',
-      headers,
-      body: payload,
-    });
-    if (!res.ok) throw new Error(`创建评论失败: HTTP ${res.status}`);
-    console.log(`已创建报告评论`);
-  }
-}
-
 async function main() {
   const extracted = load('extracted.json');
   const scan = load('scan-results.json');
@@ -168,11 +128,11 @@ async function main() {
     console.log('--- DRY RUN 评论内容 ---');
     console.log(body);
   } else {
-    await upsertComment(body);
+    await upsertPrComment(body); // 覆盖进度占位评论（同 marker）
   }
 
   if (process.env.GITHUB_STEP_SUMMARY) {
-    appendFileSync(process.env.GITHUB_STEP_SUMMARY, body.replace(MARKER, ''));
+    appendFileSync(process.env.GITHUB_STEP_SUMMARY, body.replace(REPORT_MARKER, ''));
   }
 
   const malicious = scan?.results?.filter((r) => r.verdict === 'malicious').length || 0;
