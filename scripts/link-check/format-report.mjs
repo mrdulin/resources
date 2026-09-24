@@ -30,9 +30,13 @@ function classify(e) {
   const code = statusCode(e);
   const text = statusText(e);
   if (code === 403 || code === 429) return 'unverifiable'; // 反爬
-  if (/timed?\s*out/i.test(text)) return 'unverifiable'; // 超时
+  if (code) return 'broken'; // 其余 4xx/5xx：服务器明确回应资源不存在/故障
+  // 无 HTTP 状态码 = 未能完成 HTTP 校验，结果依赖探测出口（反爬/墙/IP 信誉），站点可能存活：
+  // 超时、TLS 异常、HTTP/2、无效响应、连接被关闭/重置/拒绝/失败 —— 全部不计入失效
+  if (/timed?\s*out/i.test(text)) return 'unverifiable';
   if (/\b(ssl|tls)\b|certificat|http\/2|invalid response/i.test(text)) return 'unverifiable';
-  return 'broken'; // 其余 4xx/5xx、DNS 解析失败、连接拒绝等
+  if (/connection\s+(closed|failed|refused|reset)|aborted/i.test(text)) return 'unverifiable';
+  return 'broken';
 }
 
 // 状态列精简文案
@@ -43,8 +47,8 @@ function label(e) {
   const map = [
     [/timed?\s*out/i, '超时'],
     [/file not found/i, '被当作本地路径解析'],
-    [/connection failed|name.*resolv|no such host/i, '连接失败 / DNS 解析失败'],
-    [/connection closed|reset|aborted/i, '连接被关闭'],
+    [/connection\s+closed|reset|aborted/i, '连接被服务器关闭'],
+    [/connection\s+failed|refused/i, '连接失败（出口或反爬拦截）'],
     [/http\/2/i, 'HTTP/2 协议错误'],
     [/invalid response/i, '无效响应'],
     [/\b(ssl|tls)\b|certificat/i, 'TLS 异常'],
@@ -86,7 +90,7 @@ if (broken.length > 0) {
   lines.push(
     `## 失效链接（${broken.length}）`,
     '',
-    '判定：HTTP 4xx/5xx（403、429 除外）、DNS 解析失败、连接拒绝。按「渐进清理」顺手移除或修复条目。',
+    '判定：服务器明确返回 HTTP 4xx/5xx（403、429 除外），资源不存在或服务端故障的强信号。按「渐进清理」顺手移除或修复条目。',
     '',
     ...table(broken),
   );
@@ -95,7 +99,7 @@ if (unverifiable.length > 0) {
   lines.push(
     `## 无法验证（${unverifiable.length}）`,
     '',
-    '判定：403/429 反爬拦截、超时、TLS 异常。站点可能存活，需人工复核，不计入失效。',
+    '判定：403/429 反爬拦截、超时、TLS 异常、连接被关闭/拒绝等未能完成 HTTP 校验的情况。结果依赖探测出口（数据中心 IP 信誉、反爬、墙），站点可能存活，需人工复核，不计入失效。',
     '',
     ...table(unverifiable),
   );
