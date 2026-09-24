@@ -160,6 +160,7 @@
   - [ScreenToGif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor
   - [LocalSend](https://localsend.org/) - Share files to nearby devices. Free, open-source, cross-platform.
   - [Layoffs.fyi](https://layoffs.fyi/) - Tech Layoff Tracker and Startup Layoff Lists
+  - [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident updates; a personal timer stays in the browser. Free.
   - [monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
   - [ACL4SSR 在线订阅转换](https://acl4ssr-sub.github.io/) - ACL4SSR,ACL4SSR在线订阅转换,Clash在线订阅转换,在线订阅转换
   - [CertificateTools.com](https://certificatetools.com/) - Online x509 Certificate Generator. Create self-signed certificates, certificate signing requests (CSR), or a root certificate authority. Featuring support for multiple subject alternative names, multiple common names, x509 v3 extensions, RSA and elliptic curve cryptography. OpenSSL commands are shown so they can be run securely offline.
@@ -267,6 +268,7 @@
 
 ## Software&Tools
 
+- [Agent QA](https://github.com/vostride/agent-qa) - A source-available QA agent for creating and running natural-language web and mobile tests, retaining execution memory, and adapting flows when interfaces change. Licensed under FSL-1.1-ALv2, with each release converting to Apache-2.0 after two years; model, browser, or device providers configured by users may charge separately.
 - [Bypass-分流抢票](https://www.bypass.cn/) - 软件完全免费,全程自动抢票,自动抢候补,自动识别验证码,多线程秒单、稳定捡漏,支持多天、多车次、多席别、多乘客等功能，更多功能敬请期待。
 - [koreader](https://koreader.rocks/) - KOReader is a document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It’s available for Kindle, Kobo, PocketBook, Android and desktop Linux.
 - [All Online Tools in One Box | 10015 Tools](https://10015.io/) - All online tools you need in one box for free. Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
