@@ -21,20 +21,22 @@ jobs:
   scan-urls:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    env:
-      URL_SCAN_DATA_DIR: ${{ runner.temp }}/url-scan-data
+    # 注意: runner 上下文在 job 级 env 不可用（会导致整个 workflow startup failure，
+    # required check 永远停在 Expected），所以 URL_SCAN_DATA_DIR 必须逐 step 声明
     steps:
       - name: Checkout base branch
         uses: actions/checkout@v4
 
       - name: Extract URLs added by this PR
         env:
+          URL_SCAN_DATA_DIR: ${{ runner.temp }}/url-scan-data
           GITHUB_TOKEN: ${{ github.token }}
           PR_NUMBER: ${{ github.event.number }}
         run: node scripts/url-scan/extract-urls.mjs
 
       - name: Scan URLs with VirusTotal
         env:
+          URL_SCAN_DATA_DIR: ${{ runner.temp }}/url-scan-data
           VT_API_KEY: ${{ secrets.VIRUSTOTAL_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}   # 扫描期间实时更新进度评论
           PR_NUMBER: ${{ github.event.number }}
@@ -42,6 +44,7 @@ jobs:
 
       - name: Report results to PR
         env:
+          URL_SCAN_DATA_DIR: ${{ runner.temp }}/url-scan-data
           GITHUB_TOKEN: ${{ github.token }}
           PR_NUMBER: ${{ github.event.number }}
         run: node scripts/url-scan/report.mjs
