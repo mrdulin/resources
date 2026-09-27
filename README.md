@@ -249,6 +249,7 @@
 - [pakutaso](https://www.pakutaso.com/) - 高解像度の画像を何枚でもダウンロードできる国内最大規模の写真素材サイトです
 - [isorepublic](https://isorepublic.com/) - Thousands of Free High-Resolution CC0 Photos and Videos
 - [The Met Collection](https://www.metmuseum.org/art/collection/) - The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 
 ## Video
 
