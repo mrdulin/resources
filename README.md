@@ -125,7 +125,6 @@
 - GAME
 
   - [codingame](https://www.codingame.com/start) - CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics
-  - [codewars](www.codewars.com/r/w8cvNQ)
   - [codingfantasy](https://codingfantasy.com/) - Learn Code By Playing Games
 
 - ONLINE CODING
@@ -136,6 +135,7 @@
   - [stackblitz](https://stackblitz.com/) - The online IDE for web applications. Powered by Visual Studio Code.
   - [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
   - [leetcode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+  - [codewars](https://www.codewars.com/) - Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
   - [freecodecamp](https://freecodecamp.cn/home)
   - [visualgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
   - [Better Go Playground](https://goplay.tools/) - Better Go Playground with syntax highlight support
