@@ -28,13 +28,13 @@
 
 ## AI
 
+- [AI Gahaku](https://ai-art.tokyo) - The AI artist named “AI Gahaku” generates a masterpiece from your photo.
 - [达尔文.skill 2.0](https://github.com/alchaincyf/darwin-skill) - 像训练模型一样优化你的 Agent Skills。
 - [WorkBuddy蓝皮书](https://workbuddy.homes/) - 系统的 WorkBuddy 中文教程与使用指南，涵盖安装入门、真实案例、Skills、连接器、自动化和多智能体实践。
 - [Cherry Studio AI](https://www.cherry-ai.com/) - Cherry Studio AI 是一款强大的多模型 AI 助手，支持 iOS、macOS 和 Windows 平台。快速切换多个先进的 LLM 模型，提升工作学习效率。
 - [Faraday.dev](https://faraday.dev/) - Chat with AI Characters. Works offline. Zero configuration.
 - [Suno AI](https://www.suno.ai/) - We are building a future where anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [HuggingChat](https://huggingface.co/chat/) - The first open source alternative to ChatGPT. 💪
-- [bard](https://bard.google.com/) - Bard 是为你提供创意启发和实用信息的好帮手。无论是激发想象力、提升工作效率，还是实现创意构想，Bard 都可助你一臂之力。
 - [ChatGPT](https://chat.openai.com/) - A conversational AI system that listens, learns, and challenges
 - [Codeium](https://codeium.com/) - A Free AI-Powered Toolkit for Developers
 - [OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc) - OpenAI-Translator is a Chrome extension that uses the ChatGPT API for translation.
@@ -42,10 +42,8 @@
 - [DALL·E](https://labs.openai.com/) - Experiment with DALL·E, an AI system by OpenAI
 - [Stable Diffusion Online](https://stablediffusionweb.com/) - Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.
 - [AI Copywriter & Chatbot - Copymatic](https://copymatic.ai/) - Use our AI-powered platform to write engaging, conversion-optimized and human-quality copy or content: from social media ads to full landing pages or blog posts in seconds.
-- [Gamma](https://gamma.app/) - A new medium for presenting ideas, powered by AI. Beautiful, engaging content with none of the formatting and design work.
 - [Voice Control for ChatGPT](https://voicecontrol.chat/) - Enhance Your ChatGPT Experience with Voice Input and Read Aloud Capabilities
-- [Midjourney](https://www.midjourney.com/app/)
-- [PromptPerfect](https://promptperfect.jinaai.cn/) - A cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs) and LMOps.
+- [Midjourney](https://www.midjourney.com/explore?tab=top) - View Midjourney AI-generated images and videos created by the Midjourney community.
 - [Prompthero](https://prompthero.com/) - The #1 website for prompt engineering. Search millions of AI art images by models like Stable Diffusion, Midjourney...
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
@@ -70,7 +68,6 @@
   - [ImageOptim API](https://imageoptim.com/api) - ImageOptim API makes pages load faster
   - [TinyPNG - Developer API](https://tinypng.com/developers) - Automate your WebP, JPEG and PNG compression workflow
   - [Inoreader](https://www.inoreader.com/developers/) - Build powerful applications and distribute content with Inoreader's API for developers. Access millions of articles and enhance user experience.
-  - [环境云](http://www.envicloud.cn/pages/index.html) - 环境大数据免费开放平台
   - [聚合数据个人中心](https://www.juhe.cn/) - 聚合数据为天聚地合(股票代码: 2479.HK )旗下品牌,是国内领先的综合数据服务平台,以严选安全数据源为核心优势,为互联网企业提供短信服务,身份核验,银行卡核验,企业信息核验等热门API数据接口
   - [CNode](http://cnodejs.org/api) - Node.js 专业中文社区
   - [Weather API](http://openweathermap.org/api) - Explore OpenWeather's vast range of weather APIs including the versatile One Call API 4.0
@@ -84,21 +81,16 @@
   - [Unsplash API](https://unsplash.com/developers) - Create with the largest open collection of high-quality photos. For free.
   - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API)
   - [和风天气](https://www.heweather.com/) - 全球天气 API 服务
-  - [AC Developer API](https://zh-tw.photo-ac.com/api) - Create with the largest collection of high-quality photo and vector. For free.
   - [osu!api](https://github.com/ppy/osu-api/wiki) - Public API for accessing osu! related data. Contribute to ppy/osu-api development by creating an account on GitHub.
   - [Battle.net Developer Portal](https://dev.battle.net/io-docs) - Blizzard Developer Portal
   - [reddit API](https://www.reddit.com/dev/api/) - Reddit gives you the best of the internet in one place. Get a constantly updating feed of breaking news, fun stories, pics, memes, and videos just for you. Passionate about something niche? Reddit has thousands of vibrant communities with people that share your interests. Alternatively, find out what’s trending across all of Reddit on r/popular. Reddit is also anonymous so you can be yourself, with your Reddit profile and persona disconnected from your real-world identity.
   - [Developers / API | Open Library](https://openlibrary.org/developers/api) - Open Library is an open, editable library catalog, building towards a web page for every book ever published
   - [API - 深蓝阅读 | BlueReader](http://api.bluereader.org/) - 通过调用深蓝阅读提供的接口，可以将深蓝阅读的热门内容、自己的订阅等展现在自己的网站或博客上，丰富网站的内容。
-  - [API 2.0 - Gate.io](https://www.gate.io/api2) - The Gate of Blockchain Assets Exchange
   - [earthquake.usgs.gov](https://earthquake.usgs.gov/fdsnws/event/1/) - USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards
   - [Premium weather API for Developers](https://www.worldweatheronline.com/developer/) - Weather API - Current, Forecast and Historical Weather
   - [Dribbble API](http://developer.dribbble.com/) - Build and integrate tools and applications to help members publish their design work on Dribbble.
   - [TinyJPG Developer API](https://tinyjpg.com/developers) - Hook up your server to optimize all your JPEG and PNG images on the fly.
   - [Codewars API](https://dev.codewars.com/)
-  - [IT Bookstore API (version 1.0)](https://api.itbook.store/) - IT Bookstore API (version 1.0) - api.itbook.store
-  - [Gitter API](https://developer.gitter.im/docs/welcome)
-  - [verystream API](https://verystream.com/api)
   - [Discord Developer](https://discordapp.com/developers/docs/intro) - Build bots and integrations on Discord, or connect your game with rich presence, voice chat, and more
   - [Slack API](https://api.slack.com/) - Welcome to the Slack API docs, the place where ideas turn into interactive apps, workflows get automated, and Slack becomes the platform that powers y…
   - [Workday API](https://community.workday.com/api)
@@ -132,7 +124,6 @@
 - ONLINE CODING
 
   - [SQL Playground](https://sqlplayground.app/) - Explore, learn, and share SQL queries in our free online SQL playground. Support for MySQL and PostgreSQL, perfect for testing and enhancing your SQL skills.
-  - [Try Redis](http://try.redis.io/)
   - [es6console](https://es6console.com/)
   - [stackblitz](https://stackblitz.com/) - The online IDE for web applications. Powered by Visual Studio Code.
   - [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
@@ -198,7 +189,6 @@
 
 ## Design
 
-- [facebook.design](https://facebook.design/) - Collection of articles, videos, and resources made by designers at Facebook.
 - [dribbble](https://dribbble.com/) - Dribbble is where designers get inspired and hired.
 - [Collect UI](http://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 - [The Best Designs](https://www.thebestdesigns.com/) - Web Design Inspiration
@@ -236,7 +226,6 @@
 - [free-paper-texture](http://free-paper-texture.com/) - 商用利用可能な高画質の紙のテクスチャー素材を無料でダウンロードできるサイト
 - [photo-ac](https://zh-tw.photo-ac.com/) - 免費高質量的圖像，您可以用於您的個人和商業項目。
 - [freerangestock](https://freerangestock.com/) - Great photos. Totally free.
-- [placekitten](http://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
 - [Placeholder.com](https://placeholder.com/) - Placeholder.com is a free image placeholder service for web designers, serving 1+ billion images per month.
 - [StockSnap.io](https://stocksnap.io/) - Beautiful free stock photos
 - [picjumbo](https://picjumbo.com/) - Download free stock photos, backgrounds and free high-resolution images for personal and commercial use
@@ -263,7 +252,6 @@
 ## Cheatsheets
 
 - [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!)](https://www.bigocheatsheet.com/)
-- [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/Category:Cheatsheets) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific web application security topics.
 - [OWASP Cheat Sheet Series - 2](https://cheatsheetseries.owasp.org/index.html) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
 - [OverAPI](http://overapi.com/) - Collecting all the cheat sheets
 - [devhints](https://devhints.io/) - A ridiculous collection of web development cheatsheets
@@ -318,7 +306,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [vscodethemes](https://vscodethemes.com/) - Search themes for Visual Studio Code
 - [Firefox Send](https://send.firefox.com/) - 简单、私密的文件分享服务
 - [Chrome Extension Downloader](https://chrome-extension-downloader.com/) - easily download chrome extensions
-- [MikuTools](https://miku.tools/) - 一个轻量的工具集合
 - [crontab.guru](https://crontab.guru/) - the cron schedule expression editor
 - [Flag Counter](http://s11.flagcounter.com/index.html) - Flag Counter Management
 - [Firefox Monitor](https://monitor.firefox.com/) - 看看您是否出现在数据外泄事件中
@@ -399,7 +386,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [WebTorrent](https://webtorrent.io/) - Streaming browser torrent client
 - [Smallpdf](https://smallpdf.com/) - A Free Solution to all your PDF Problems
 - [Convertio](https://convertio.co/) -  File Converter
-- [Cloudflare SSL Test](https://www.cloudflare.com/lp/ssl-test/) - Test your site for common SSL Errors
 - [Fast](https://fast.com/) - Internet Speed Test
 - [imgbox](https://imgbox.com/) - fast, simple image host
 - [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
@@ -429,7 +415,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Cкачать игры на ПК [последние версии 2022] через торрент бесплатно](https://byrut.org/) - Последние (полные) версии ПК игр со всеми обновлениями и дополнениями, с ежедневной публикацией новинок игр
 - [openra](https://www.openra.net/) - Red Alert, Command & Conquer, Dune 2000, Rebuilt for the Modern Era.
 - [minesweeper online](https://minesweeper.online/) - Playing minesweeper is our passion. That's why we strive to make it the greatest game in the world!
-- [EZ2ON](https://arrowgene.net/ez2on/setup)
 - [电玩巴士](http://www.tgbus.com/) - 中国游戏第一门户*电玩巴士*电视游戏*电子游戏*网络游戏*手机游戏*网页游戏
 - [游民星空](http://www.gamersky.com/) - 大型单机游戏媒体 提供最具特色单机游戏资讯、下载
 - [方块游戏](http://www.cubejoy.com/) - 中文PC单机游戏平台,致力于为用户提供丰富的游戏内容,不断将全球优秀作品引入中国,玩单机游戏,来方块游戏平台
@@ -466,10 +451,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 - [Louvre site des collections](https://collections.louvre.fr/en/) - The Collections database consists of entries for more than 480,000 works in the Musée du Louvre and Musée National Eugène-Delacroix. Updated on a daily basis, it is the result of the continuous research and documentation efforts carried out by teams of experts from both museums.
 - [fandom](http://fandom.wikia.com/)
-- [ao3](https://archiveofourown.org/) - A fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic
-- [ao3 mirror](https://archiveofourown.me/)
-- [AI Gahaku](https://ai-art.tokyo) - The AI artist named “AI Gahaku” generates a masterpiece from your photo.
-- [CS-ONLINE.CLUB](https://cs-online.club/zh/servers) - 游戏CS 1.6免费在线玩Сounter-Strike - CS-ONLINE.CLUB
 
 ## Music
 
@@ -481,7 +462,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 ## Forum
 
 - [美卡论坛](https://www.uscardforum.com/) - 美卡论坛 - 在美漂泊的中国人的家园
-- [reddit shell](https://redditshell.com/) - reddit shell is a web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line
 
 ---
 
