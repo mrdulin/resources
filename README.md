@@ -11,21 +11,20 @@
 
 ## Contents
 
-- [AI](#AI)
-- [Programming](#Programming)
-- [Design](#Design)
-- [Picture](#Picture)
-- [Video](#Video)
-- [Music](#Music)
-- [Cheatsheets](#Cheatsheets)
+- [AI](#ai)
+- [Programming](#programming)
+- [Design](#design)
+- [Picture](#picture)
+- [Video](#video)
+- [Music](#music)
+- [Cheatsheets](#cheatsheets)
 - [Software&Tools](#Software&Tools)
-- [Blog](#Blog)
-- [VPN/Proxy](#VPN)
-- [Game](#Game)
-- [Job](#Job)
-- [Entertainment](#Entertainment)
-- [Forum](#Forum)
-
+- [Blog](#blog)
+- [VPN/Proxy](#vpn)
+- [Game](#game)
+- [Job](#job)
+- [Entertainment](#entertainment)
+- [Forum](#forum)
 
 ## AI
 
@@ -33,7 +32,6 @@
 - [Faraday.dev](https://faraday.dev/) - Chat with AI Characters. Works offline. Zero configuration.
 - [Suno AI](https://www.suno.ai/) - We are building a future where anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [HuggingChat](https://huggingface.co/chat/) - The first open source alternative to ChatGPT. 💪
-- [Imagine with Meta AI](https://imagine.meta.com/) - Use Imagine with Meta AI to quickly create high-resolution, AI-generated images for free. Just describe an image and Meta AI will generate it with technology from Emu, our image foundation model.
 - [bard](https://bard.google.com/) - Bard 是为你提供创意启发和实用信息的好帮手。无论是激发想象力、提升工作效率，还是实现创意构想，Bard 都可助你一臂之力。
 - [ChatGPT](https://chat.openai.com/) - A conversational AI system that listens, learns, and challenges
 - [Codeium](https://codeium.com/) - A Free AI-Powered Toolkit for Developers
@@ -49,9 +47,8 @@
 - [Prompthero](https://prompthero.com/) - The #1 website for prompt engineering. Search millions of AI art images by models like Stable Diffusion, Midjourney...
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
-- [Tome](https://tome.app/) - Meet Tome, your new AI storytelling partner. Use video narration, live data, and endlessly flexible pages to build polished presentations in minutes.
 - [ZZZ Code AI](https://zzzcode.ai/) - Free AI-powered website to get any programming question answered or code generated.
-  
+
 ## Programming
 
 - Algorithms
@@ -59,7 +56,6 @@
   - [Sphere Online Judge (SPOJ)](http://www.spoj.com/) - SPOJ (Sphere Online Judge) is an online judge system with over 315,000 registered users and over 20000 problems. The solution to problems can be submitted in over 60 languages including C, C++, Java, Python, C#, Go, Haskell, Ocaml, and F#. SPOJ has a rapidly growing problem set/tasks available for practice 24 hours/day, including many original tasks prepared by the community of expert problem setters associated with the project.
   - [Coderbyte | Technical Assessments & Interviews](https://coderbyte.com/) - Evaluate candidates quickly, affordably, and accurately for assessments, interviews, and take-home projects. Prepare for interviews on the #1 platform for 1M+ developers that want to level up their careers.
   - [CodeChef: Practical coding for everyone](http://www.codechef.com/) - Learn to code for free using our beginner friendly and interactive learning courses. Get all the practical skills required to excel at computer science. Start learning with CodeChef today and unlock your potential as a developer!
-  - [Top Website Designers, Developers, Freelancers for Your Next Project | Topcoder](http://www.topcoder.com/) - 
 
 - OPEN WEB API & WEB SERVICE
   - [Stack Exchange API](https://api.stackexchange.com/)
@@ -71,7 +67,6 @@
   - [disease.sh](https://disease.sh/) - Open Disease Data API
   - [ImageOptim API](https://imageoptim.com/api) - ImageOptim API makes pages load faster
   - [TinyPNG - Developer API](https://tinypng.com/developers) - Automate your WebP, JPEG and PNG compression workflow
-  - [Pocket](https://getpocket.com/developer/) - When you find something you want to view later, put it in Pocket.
   - [Inoreader](https://www.inoreader.com/developers/) - Build powerful applications and distribute content with Inoreader's API for developers. Access millions of articles and enhance user experience.
   - [环境云](http://www.envicloud.cn/pages/index.html) - 环境大数据免费开放平台
   - [聚合数据个人中心](https://www.juhe.cn/) - 聚合数据为天聚地合(股票代码: 2479.HK )旗下品牌,是国内领先的综合数据服务平台,以严选安全数据源为核心优势,为互联网企业提供短信服务,身份核验,银行卡核验,企业信息核验等热门API数据接口
@@ -117,17 +112,16 @@
   - [Staticfile CDN](https://staticfile.org/) - 我们的目标是提供这样一个仓库，让它尽可能面收录尤秀的开源库，并免费为之提供CDN 加速服务，时之有更好的访速度和稳定的环境
   - [cdnjs](https://cdnjs.com/) - cdnjs is the free, open-source CDN for the web's most popular libraries
   - [UNPKG](https://unpkg.com/#/) - unpkg is a fast, global content delivery network for everything on npm.
-  
+
 - DNS
 
-  - [1.1.1.1 ](https://1.1.1.1/zh-Hans/dns/) - the Internet’s Fastest, Privacy-First DNS Resolver
+  - [1.1.1.1](https://1.1.1.1/zh-Hans/dns/) - the Internet’s Fastest, Privacy-First DNS Resolver
   - [Public DNS+](https://www.dnspod.cn/Products/Public.DNS) - DNSPod推出的域名递归解析服务
-  
-  
+
 - Mirrors:
-  
+
   - [USTC Open Source Software Mirror](https://mirrors.ustc.edu.cn/)
-  
+
 - GAME
 
   - [codingame](https://www.codingame.com/start) - CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics
@@ -160,7 +154,7 @@
 
 - SaaS&Tools
 
-  - [PicView ](https://picview.org/) - PicView is a fast, free, and fully customizable image viewer for Windows 10 and 11.
+  - [PicView](https://picview.org/) - PicView is a fast, free, and fully customizable image viewer for Windows 10 and 11.
   - [GRC](https://www.grc.com/default.htm) - Steve Gibson's and Gibson Research Corporation's Homepage.
   - [IT Tools](https://it-tools.tech/) - IT Tools - Handy online tools for developers
   - [HTML5test](https://html5test.co/) - The HTML5 test score is an indication of how well your browser supports the upcoming HTML5 standard and related specifications. How well does your browser support HTML5?
@@ -183,20 +177,19 @@
 - 方法论
 
   - [12-Factor](https://www.12factor.net/zh_cn/) - A methodology for building modern, scalable, maintainable software-as-a-service apps
- 
+
 - Books
-  
-  - [Exploring ES6: Upgrade to the next version of JavaScript](https://exploringjs.com/es6.html)
+
   - [Patterns](https://www.patterns.dev/) - Stay up to date on the latest design and performance patterns.
   - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) - Exploring JavaScript: temporarily offline
   - [Go语言101](https://gfw.go101.org/article/101.html) - Go语言在线书籍和工具等
   - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
   - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book for JavaScript developers.
 
-- Courses 
-  
+- Courses
+
   - [Learn TypeScript](https://learntypescript.dev/) - FREE TypeScript course for JavaScript developers
- 
+
 - Guidance
 
   - [web.dev](https://web.dev/) - Guidance to build modern web experiences that work on any browser.
@@ -282,7 +275,7 @@
 - [carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 Start typing or drop a file into the text area to get started.
 - [GitHub Contribution Chart Generator](https://github-contributions.vercel.app/) - Generates an image of all your GitHub contributions since you have signed up, so you can use it in social media.
-- [GeoGebra ](https://www.geogebra.org/) - GeoGebra 是一款适用于各级教育的动态数学软件, 它将几何, 代数, 表格, 绘图, 统计和微积分整合到一个引擎中. 
+- [GeoGebra](https://www.geogebra.org/) - GeoGebra 是一款适用于各级教育的动态数学软件, 它将几何, 代数, 表格, 绘图, 统计和微积分整合到一个引擎中.
 - [sumatrapdfreader](https://www.sumatrapdfreader.org/free-pdf-reader) - PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows.
 Small, fast, customizable, free.
 - [grep.app](https://grep.app/) - Search across a half million git repos
@@ -303,22 +296,18 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Forticlient](https://www.forticlient.com/) - Next Generation Endpoint Protection
 - [typora](https://www.typora.io/) - a markdown editor, markdown reader.
 - [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
-- [OldApps](http://www.oldapps.com/) - Download odd apps
 - [Cloudcraft](https://cloudcraft.co/) - Draw AWS diagrams
 - [xclient](http://xclient.info) - 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务
 - [Google+ featuredphotos](https://plus.google.com/featuredphotos) - 精选照片屏幕保护程序
 - [online-downloader](https://www.online-downloader.com/) - Free Online YouTube Convert and Download
 - [TinyJPG](https://tinyjpg.com/) - Smart JPEG and PNG compression
-- [RIOT](http://luci.criosweb.ro/riot/) - A free program designed to efficiently optimize images for the Web
 - [ImageAlpha](https://pngmini.com/) - image minifier (like JPEG with transparency!)
 - [Feed43](http://feed43.com/) - Convert web pages into professionally looking RSS feeds.
 - [Let’s Encrypt](https://letsencrypt.org/) - Let’s Encrypt is a free, automated, and open Certificate Authority.
 - [PhpStorm Themes](http://www.phpstorm-themes.com/)
-- [天眼查](https://www.tianyancha.com/) - 都在用的商业安全工具
 - [citrix](https://www.citrix.com/) - Discover the new Citrix platform, revolutionizing application delivery with enhanced security, Zero Trust frameworks, and unmatched performance
 - [Privoxy](http://www.privoxy.org/) - Privoxy helps users to protect their privacy
 - [IPSW Downloads](https://ipsw.me/#) - Download current and previous versions of Apple's iOS Firmware and receive notifications when new firmwares are released.
-- [Uptodown](https://cn.uptodown.com/windows) - DownloadDiscoverShare
 - [producthunt](https://www.producthunt.com/)
 - [JWT.IO](https://jwt.io/) - JWT.IO allows you to decode, verify and generate JWT.
 - [SendGrid](https://sendgrid.com/) - Send Email Newsletters Password Resets Promotional Emails Shipping Notifications With Confidence
@@ -330,7 +319,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [crontab.guru](https://crontab.guru/) - the cron schedule expression editor
 - [Flag Counter](http://s11.flagcounter.com/index.html) - Flag Counter Management
 - [Firefox Monitor](https://monitor.firefox.com/) - 看看您是否出现在数据外泄事件中
-- [奶牛快传 | CowTransfer](https://fuli.cowtransfer.com/) - 文件传输服务
 - [Squoosh](https://squoosh.app/) - Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser
 - [What is my IPv6 Address?](http://ipv4.whatismyv6.com/)
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - a free SSH and Telnet client
@@ -345,7 +333,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features
 - [Foxmail](http://www.foxmail.com/)
 - [Rufus](https://rufus.akeo.ie/?locale=zh_CN) 轻松创建 USB 启动盘
-- [TumblOne](http://www.tumblone.com/) free Tumblr image downloader
 - [Lingoes Translator 灵格斯词霸](http://www.lingoes.cn/) 免费的词典与文本翻译软件
 - [f.lux](https://justgetflux.com/) 护眼工具
 - [AutoHotkey](https://www.autohotkey.com/)
@@ -382,7 +369,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN&gl=US) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展，支持谷歌、DeepL、ChatGPT、百度、有道等 22 个国内外主流翻译服务，且均可用于全文翻译
 - [Axure RP Extension for Chrome](https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp?hl=zh-CN&gl=US) - An extension that allows viewing of locally published Axure RP prototypes (HTML files) from Google Chrome
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN&gl=US)
-- [WEB 前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN&gl=US) - 30+开发者工具集：JSON格式化/BigInt精度/对比、编解码(Base64/URL/Unicode/Gzip/JWT)、时间戳/FILETIME转换、二维码/条形码、UUID/雪花ID生成、代码美化、正则、取色、Postman、进制转换等，按需安装
+- [WEB 前端助手(FeHelper)](https://chromewebstore.google.com/detail/pkgccpejnmalmdinmhkkfafefagiiiad?utm_source=item-share-cb) - 30+开发者工具集：JSON格式化/BigInt精度/对比、编解码(Base64/URL/Unicode/Gzip/JWT)、时间戳/FILETIME转换、二维码/条形码、UUID/雪花ID生成、代码美化、正则、取色、Postman、进制转换等，按需安装
 - [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools
 - [Emmet Re:view](https://chrome.google.com/webstore/detail/epejoicbhllgiimigokgjdoijnpaphdp)
 - [Sourcetree](https://www.sourcetreeapp.com/)
@@ -393,8 +380,6 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [Fiddler](http://www.telerik.com/fiddler) free web debugging proxy
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [VMware Workstation](http://www.vmware.com/cn) - Optimize cloud infrastructure with VMware for app platforms, private cloud, edge, networking, and security
-- [Parallels Desktop](http://www.parallelsdesktop.cn/)
-- [I2P Anonymous Network](https://geti2p.net/zh-cn/)
 - [DevDocs API Documentation](http://devdocs.io/) - Fast, offline, and free documentation browser for developers
 - [W3cubDocs API Documentation](http://docs.w3cub.com/) - W3cubDocs is a based Github Pages service API documentation browser with 300+ docs including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++
 - [Imgur: The magic of the Internet](https://imgur.com/) - Find, rate and share the best memes and images
@@ -421,19 +406,15 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 - [program-think](https://program-think.blogspot.com/)
 - [John Papa](https://johnpapa.net/) - John Papa is a professional Web Developer and storyteller
-- [Tobias Nickel](http://tnickel.de/)
 - [nodejs blog](https://nodejs.org/en/blog/) - Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and s…
-- [Todd Motto](https://toddmotto.com/) - JavaScript and Angular articles
 - [The GitHub Blog](https://blog.github.com/) - Updates, ideas, and inspiration from GitHub to help developers build and design software
 - [Facebook Code](https://code.fb.com/feed/) - Facebook Engineering Blog
 - [Martin Fowler](https://martinfowler.com/) - A website on building software effectively
-- [StrongLoop Blog](https://strongloop.com/strongblog/)
 - [鳥哥的 Linux 私房菜](http://linux.vbird.org) - 學習 Linux 新手的建議
 
 ## VPN
 
 - [VPN Gate](https://www.vpngate.net/cn/) - VPN Gate Academic Experiment Project is an online service as an academic research at Graduate School of University of Tsukuba, Japan. The purpose of this research is to expand the knowledge of "Global Distributed Public VPN Relay Servers" .
-- [Goflyway免费账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [GLaDOS](https://glados.network/) - GLaDOS provides most fast, stable, and secure endpoints for users to access high speed inter-national Internet, Netflix and Privacy with confidence.
 
 ## Game
@@ -484,9 +465,8 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [fandom](http://fandom.wikia.com/)
 - [ao3](https://archiveofourown.org/) - A fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks, like fanfiction, fanart, fan videos, and podfic
 - [ao3 mirror](https://archiveofourown.me/)
-- [AI Gahaku](https://ai-art.tokyo/en/) - The AI artist named “AI Gahaku” generates a masterpiece from your photo.
+- [AI Gahaku](https://ai-art.tokyo) - The AI artist named “AI Gahaku” generates a masterpiece from your photo.
 - [CS-ONLINE.CLUB](https://cs-online.club/zh/servers) - 游戏CS 1.6免费在线玩Сounter-Strike - CS-ONLINE.CLUB
-
 
 ## Music
 
@@ -499,6 +479,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 - [美卡论坛](https://www.uscardforum.com/) - 美卡论坛 - 在美漂泊的中国人的家园
 - [reddit shell](https://redditshell.com/) - reddit shell is a web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line
+
 ---
 
 <a href="https://info.flagcounter.com/ab0j"><img src="https://s11.flagcounter.com/count2/ab0j/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_30/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
