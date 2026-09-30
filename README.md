@@ -13,6 +13,7 @@
 
 - [AI](#ai)
 - [Programming](#programming)
+- - [SummarizAI](https://summarizai.ink) - Chrome extension for on-page YouTube AI summary, chapters, chat, and Study flashcards (free plan for students).
 - [Design](#design)
 - [Picture](#picture)
 - [Video](#video)
