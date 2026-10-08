@@ -48,6 +48,7 @@
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
 - [ZZZ Code AI](https://zzzcode.ai/) - Free AI-powered website to get any programming question answered or code generated.
+- [Tale](https://github.com/tale-project/tale) - MIT-licensed, self-hosted project workspace for AI-agent tasks, shared context and reviewable deliverables; infrastructure and model costs are separate.
 
 ## Programming
 
