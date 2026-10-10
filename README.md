@@ -47,6 +47,7 @@
 - [Prompthero](https://prompthero.com/) - The #1 website for prompt engineering. Search millions of AI art images by models like Stable Diffusion, Midjourney...
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
+- [SummarizAI](https://summarizai.ink) - Chrome extension for on-page YouTube AI summary, chapters, chat, and Study flashcards (free plan for students).
 - [ZZZ Code AI](https://zzzcode.ai/) - Free AI-powered website to get any programming question answered or code generated.
 
 ## Programming
