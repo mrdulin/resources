@@ -99,6 +99,7 @@
   - [Remotive Jobs API](https://remotive.io/api-documentation) - World's largest API feed of remote jobs
   - [pipedream](https://pipedream.com/) - Pipedream is a serverless integration and compute platform that makes it easy to connect apps and develop event-driven workflows.
   - [Mockae](https://mockae.com/) - Fake rest API powered by Lua
+  - [CurlShot](https://curlshot.com/) - Screenshot API: turn any URL into a PNG, JPEG, WebP or PDF with one GET request, free plan of 100 screenshots a month
 
 - CDN
 
