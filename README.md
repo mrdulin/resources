@@ -185,6 +185,7 @@
 - Guidance
 
   - [web.dev](https://web.dev/) - Guidance to build modern web experiences that work on any browser.
+  - [Frontend Framework Interview Preparation Roadmap](https://frontendatlas.com/guides/framework-prep) - Compares JavaScript, React, Angular, and Vue interview preparation paths with 7, 14, and 30-day study plans.
 
 ## Design
 
