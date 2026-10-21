@@ -4,7 +4,7 @@ PR 收到或更新时，自动扫描**新增行**中的站点链接，结果以�
 
 ## 组成
 
-- `.github/workflows/url-security-scan.yml` — workflow，`pull_request_target` 触发（opened / synchronize / reopened），job 名 `scan-urls`
+- `.github/workflows/url-security-scan.yml` — workflow，触发：`pull_request_target`（opened / synchronize / reopened）与 `workflow_dispatch`（手动一键重跑，需填 PR 编号），job 名 `scan-urls`
 - `scripts/url-scan/extract-urls.mjs` — 拉取 PR diff，提取新增行 URL（支持裸链接、markdown 链接、HTML href），去重、套白名单、单 PR 上限 20 个
 - `scripts/url-scan/scan-urls.mjs` — 调 VirusTotal API v3（先查缓存报告，无则提交扫描并轮询），带 429 限流退避；扫描期间实时更新进度评论
 - `scripts/url-scan/report.mjs` — 在 PR 上创建/更新报告评论（覆盖进度占位），有恶意链接时 `exit 1`
@@ -22,6 +22,15 @@ PR 收到或更新时，自动扫描**新增行**中的站点链接，结果以�
 3. 扫描完成 -> 同一条评论被最终报告覆盖（结论 + 明细表 + 恶意检出引擎）
 
 Checks tab 的实时日志同步输出 `[i/N] <url> -> 判定` 进度行。job 中途挂掉时评论停留在最后进度（带"最后更新时间"），下次 push 自动重写自愈。
+
+## 手动重跑（一键重跑）
+
+已生成报告、但内容需刷新的 PR（例如要套用合入 `master` 后的新逻辑），无需改 PR、不必推空 commit：
+
+1. 仓库 **Actions** 页 → 左侧 **URL Security Scan** → 右上 **Run workflow**。
+2. 分支保持默认（脚本只 checkout base 分支，PR 来源由 PR 编号决定），在 **pr_number** 输入框填目标 PR 编号 → **Run workflow**。
+
+> 手动触发同样 checkout base 分支（master），使用的是 `master` 上**当前**的脚本；因此新逻辑（双语报告 / 可疑阻断）需先合进 `master`，重跑才会生效。fork PR 与本地分支同理，均按编号重扫对应 PR 的当前 diff。
 
 ## 判定规则
 
