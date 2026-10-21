@@ -1,6 +1,6 @@
 # URL Security Scan（PR 链接安全扫描）
 
-PR 收到或更新时，自动扫描**新增行**中的站点链接，结果以评论形式回写到 PR 会话；发现恶意链接时 check 失败，配合分支保护可阻止合并。
+PR 收到或更新时，自动扫描**新增行**中的站点链接，结果以评论形式回写到 PR 会话；发现恶意**或可疑**链接时 check 失败，配合分支保护可阻止合并（运行期无人工放行）。
 
 ## 组成
 
@@ -27,14 +27,14 @@ Checks tab 的实时日志同步输出 `[i/N] <url> -> 判定` 进度行。job �
 
 | 结果 | 条件 | 行为 |
 |---|---|---|
-| 恶意 | `malicious >= 2` 个引擎 | check 失败，阻止合并（需分支保护配合） |
-| 可疑 | `malicious == 1` 或 `suspicious >= 1` | 评论警告，不阻止合并 |
+| 恶意 | `malicious >= 2` 个引擎 | check 失败，阻止合并（需分支保护，且禁止绕过） |
+| 可疑 | `malicious == 1` 或 `suspicious >= 1` | check 失败，阻止合并（同恶意，运行期无人工放行） |
 | 安全 / 未扫描 | 其余 | 记录在评论中，不影响合并 |
 
 ## 必要配置
 
 1. **Secret**：仓库 Settings > Secrets and variables > Actions，新建 `VIRUSTOTAL_API_KEY`（免费 key 配额约 4 次/分钟、500 次/天，脚本已做限流退避）。
-2. **分支保护**（在 workflow 合入默认分支后配置）：Settings > Branches > 分支保护规则（`master`）> 勾选 *Require status checks to pass*，搜索并选中 `scan-urls`。
+2. **分支保护**（在 workflow 合入默认分支后配置）：Settings > Branches > 分支保护规则（`master`）> 勾选 *Require status checks to pass*，搜索并选中 `scan-urls`，并勾选 *Do not allow bypassing the above settings*——否则维护者仍可在 GitHub 上绕过 required check 强行合并，使"可疑即阻断、运行期无人工放行"政策落空。
 
 ## 安全说明
 

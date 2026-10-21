@@ -21,8 +21,13 @@ _Avoid_: 扫描进度（check 状态与进度是两层东西，前者平台管�
 _Avoid_: 进度条
 
 **阻断（Block）**:
-required check（`scan-urls`）未通过时 GitHub 禁用合并按钮的机制；仅恶意判定触发，可疑只警告不阻断。
-_Avoid_: 拦截
+required check（`scan-urls`）未通过时 GitHub 禁用合并按钮的机制；恶意（malicious≥2）或可疑（malicious==1 或 suspicious≥1）任一命中即触发，运行期不开放任何人工复核/放行通道。
+_Avoid_: 拦截、人工放行
 
 **白名单（Allowlist）**:
-`.github/url-scan-allowlist.txt` 中的域名/URL 前缀规则，命中的链接不扫描、不告警，用于误报治理。
+`.github/url-scan-allowlist.txt` 中的域名/URL 前缀规则，命中的链接不扫描、不告警；是"可疑即阻断、运行期无人工放行"政策下唯一的放行通道，须预先经 PR 合入配置，运行期不开放临时豁免。
+_Avoid_: 人工放行、临时豁免
+
+**判定标签（Verdict label）**:
+评论中每条链接的判定，中英必须成对且用词固定：恶意 / Malicious、可疑 / Suspicious、安全 / Clean、未扫描 / Not scanned；进度评论另有 待扫描 / Pending、扫描中 / Scanning。报告与进度评论均为"中文块在前、英文块在后"的段落式双语。
+_Avoid_: 单语输出、中英不一致（如 Suspicious 与 suspicious 并存）
