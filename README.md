@@ -123,7 +123,7 @@
 - ONLINE CODING
 
   - [SQL Playground](https://sqlplayground.app/) - Explore, learn, and share SQL queries in our free online SQL playground. Support for MySQL and PostgreSQL, perfect for testing and enhancing your SQL skills.
-  - [es6console](https://es6console.com/)
+  - [Coddy JavaScript Playground](https://coddy.tech/playground/javascript) - Run JavaScript in the browser, no install or sign-up.
   - [stackblitz](https://stackblitz.com/) - The online IDE for web applications. Powered by Visual Studio Code.
   - [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
   - [leetcode](https://leetcode.com/) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
