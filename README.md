@@ -390,6 +390,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [imgbox](https://imgbox.com/) - fast, simple image host
 - [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
 - [Local Guides](https://maps.google.com/localguides/home) - Local Guides is a global community of explorers who write reviews, share photos, answer questions, add or edit places, and check facts on Google Maps. Millions of people rely on contributions like yours to decide where to go and what to do.
+- [YYLO](https://github.com/yylo-dev/yylo) - An open-source command-line orchestrator for AI coding agents, with repeatable workflows, receipt-backed repository changes, and an interactive terminal agent; installable via npm as @yylo/cli. Licensed under MIT.
 
 ## Blog
 
