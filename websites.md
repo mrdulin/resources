@@ -1,5 +1,7 @@
 # 站点推荐
 
+> 🗄️ 历史归档：本清单不再维护，不适用 README 中的收录标准。 / Archived: no longer maintained; README submission criteria do not apply.
+
 1. [敏捷开发指南](http://www.scrumguides.org/)
 2. [I Tell You](http://itellyou.cn/)
 3. [ss64](http://ss64.com/)

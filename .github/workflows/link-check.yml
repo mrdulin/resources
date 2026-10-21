@@ -1,0 +1,65 @@
+name: Link Check
+
+on:
+  schedule:
+    # UTC 01:00 每周一 = 北京时间周一 09:00（GitHub cron 触发有分钟级至半小时延迟）
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get date
+        id: date
+        run: echo "date=$(date +%F)" >> "$GITHUB_OUTPUT"
+
+      # 官方 action：下载 lychee v0.24.2 并执行；args 里不能出现 --output（action 强制
+      # 输出到临时文件再拷贝到 output 指定路径）；format 必须显式 json，否则 action 按
+      # markdown 处理会往 JSON 里追加尾注
+      - name: Check links with lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          args: --config scripts/link-check/lychee.toml README.md
+          fail: false
+          format: json
+          checkbox: false
+          output: lychee/out.json
+          lycheeVersion: v0.24.2
+
+      - name: Build three-state report
+        if: steps.lychee.outputs.exit_code != '0'
+        run: node scripts/link-check/format-report.mjs lychee/out.json README.md > link-check-report.md
+
+      - name: Create report issue
+        if: steps.lychee.outputs.exit_code != '0'
+        id: issue
+        uses: peter-evans/create-issue-from-file@v6.0.0
+        with:
+          title: "Link Check Report - ${{ steps.date.outputs.date }}"
+          content-filepath: link-check-report.md
+          labels: link-check
+
+      # create-issue-from-file 没有 close-previous 能力：按 label 收敛，
+      # 只保留最新一条报告 issue；全绿轮（exit_code=0）关闭全部遗留 issue
+      - name: Close superseded report issues
+        if: steps.lychee.outputs.exit_code != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NEW: ${{ steps.issue.outputs.issue-number }}
+        run: |
+          for n in $(gh issue list --label link-check --state open --json number --jq '.[].number'); do
+            if [ "$n" = "$NEW" ]; then continue; fi
+            if [ -n "$NEW" ]; then
+              gh issue close "$n" --comment "已被新报告取代：#$NEW，自动关闭。"
+            else
+              gh issue close "$n" --comment "本轮链接检查全部通过，自动关闭。"
+            fi
+          done

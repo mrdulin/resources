@@ -1,0 +1,59 @@
+name: URL Security Scan
+
+# pull_request_target 在 base 仓库上下文运行:
+# - fork PR 也有写权限，可以更新 PR 评论
+# - checkout 的是 base 分支，脚本/白名单始终来自可信代码，不执行 PR 引入的代码
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+  # 手动一键重跑：Actions 页 "Run workflow" 填入目标 PR 编号即可。
+  # 注意：手动触发也 checkout base 分支（master），使用 master 上当前的脚本，
+  # 因此新逻辑（如双语报告/可疑阻断）需先合进 master 才能在重跑中生效。
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: '要重新扫描的 PR 编号（Targets an open PR to re-scan）'
+        required: true
+        type: number
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: url-scan-pr-${{ github.event.inputs.pr_number || github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  # job 无自定义 name，check run 名称即 "scan-urls"，
+  # 分支保护 Required status check 请选择 "scan-urls"
+  scan-urls:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    # 注意: runner 上下文在 job 级 env 不可用（会导致整个 workflow startup failure，
+    # required check 永远停在 Expected），所以 URL_SCAN_DATA_DIR 必须逐 step 声明
+    steps:
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+
+      - name: Extract URLs added by this PR
+        env:
+          URL_SCAN_DATA_DIR: ${{ runner.temp }}/url-scan-data
+          GITHUB_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.inputs.pr_number || github.event.number }}
+        run: node scripts/url-scan/extract-urls.mjs
+
+      - name: Scan URLs with VirusTotal
+        env:
+          URL_SCAN_DATA_DIR: ${{ runner.temp }}/url-scan-data
+          VT_API_KEY: ${{ secrets.VIRUSTOTAL_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}   # 扫描期间实时更新进度评论
+          PR_NUMBER: ${{ github.event.inputs.pr_number || github.event.number }}
+        run: node scripts/url-scan/scan-urls.mjs
+
+      - name: Report results to PR
+        env:
+          URL_SCAN_DATA_DIR: ${{ runner.temp }}/url-scan-data
+          GITHUB_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.inputs.pr_number || github.event.number }}
+        run: node scripts/url-scan/report.mjs
