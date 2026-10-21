@@ -39,8 +39,7 @@
 - [Codeium](https://codeium.com/) - A Free AI-Powered Toolkit for Developers
 - [OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc) - OpenAI-Translator is a Chrome extension that uses the ChatGPT API for translation.
 - [Easy-Peasy.AI](https://easy-peasy.ai/) - Best AI Writer, Content Generator & Copywriting Assistant
-- [DALL·E](https://labs.openai.com/) - Experiment with DALL·E, an AI system by OpenAI
-- [Stable Diffusion Online](https://stablediffusionweb.com/) - Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.
+- [DALL·E](https://labs.openai.com/) - Experiment with DALL·E, an AI system by OpenAI autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.
 - [AI Copywriter & Chatbot - Copymatic](https://copymatic.ai/) - Use our AI-powered platform to write engaging, conversion-optimized and human-quality copy or content: from social media ads to full landing pages or blog posts in seconds.
 - [Voice Control for ChatGPT](https://voicecontrol.chat/) - Enhance Your ChatGPT Experience with Voice Input and Read Aloud Capabilities
 - [Midjourney](https://www.midjourney.com/explore?tab=top) - View Midjourney AI-generated images and videos created by the Midjourney community.
@@ -85,7 +84,6 @@
   - [Battle.net Developer Portal](https://dev.battle.net/io-docs) - Blizzard Developer Portal
   - [reddit API](https://www.reddit.com/dev/api/) - Reddit gives you the best of the internet in one place. Get a constantly updating feed of breaking news, fun stories, pics, memes, and videos just for you. Passionate about something niche? Reddit has thousands of vibrant communities with people that share your interests. Alternatively, find out what’s trending across all of Reddit on r/popular. Reddit is also anonymous so you can be yourself, with your Reddit profile and persona disconnected from your real-world identity.
   - [Developers / API | Open Library](https://openlibrary.org/developers/api) - Open Library is an open, editable library catalog, building towards a web page for every book ever published
-  - [API - 深蓝阅读 | BlueReader](http://api.bluereader.org/) - 通过调用深蓝阅读提供的接口，可以将深蓝阅读的热门内容、自己的订阅等展现在自己的网站或博客上，丰富网站的内容。
   - [earthquake.usgs.gov](https://earthquake.usgs.gov/fdsnws/event/1/) - USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards
   - [Premium weather API for Developers](https://www.worldweatheronline.com/developer/) - Weather API - Current, Forecast and Historical Weather
   - [Dribbble API](http://developer.dribbble.com/) - Build and integrate tools and applications to help members publish their design work on Dribbble.
@@ -99,6 +97,7 @@
   - [Remotive Jobs API](https://remotive.io/api-documentation) - World's largest API feed of remote jobs
   - [pipedream](https://pipedream.com/) - Pipedream is a serverless integration and compute platform that makes it easy to connect apps and develop event-driven workflows.
   - [Mockae](https://mockae.com/) - Fake rest API powered by Lua
+  - [CurlShot](https://curlshot.com/) - Screenshot API: turn any URL into a PNG, JPEG, WebP or PDF with one GET request, free plan of 100 screenshots a month
 
 - CDN
 
@@ -197,6 +196,7 @@
 - [graphberry](https://www.graphberry.com/) - Free pixel perfect resources, made with love
 - [iconfont](http://www.iconfont.cn/) - 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
 - [icons8](https://icons8.com/) - 84,900 Free Flat Icons
+- [SVGicons](https://svgicons.com/) - Search and copy SVG icons from open-source icon sets.
 - [resourcecards](https://resourcecards.com/) - Resource Cards is a growing list of free resources aimed to help creatives with their next project
 - [ONE PAGE LOVE](https://onepagelove.com/) - The ultimate showcase of One Page websites
 - [Httpster](https://httpster.net/2018/oct/) - Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
