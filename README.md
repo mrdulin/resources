@@ -197,6 +197,7 @@
 - [iconfont](http://www.iconfont.cn/) - 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
 - [icons8](https://icons8.com/) - 84,900 Free Flat Icons
 - [SVGicons](https://svgicons.com/) - Search and copy SVG icons from open-source icon sets.
+- [Pic2SVG](https://pic2svg.com/) - Convert PNG, JPG, screenshots, and logos into editable SVG paths, with DXF export for production workflows.
 - [resourcecards](https://resourcecards.com/) - Resource Cards is a growing list of free resources aimed to help creatives with their next project
 - [ONE PAGE LOVE](https://onepagelove.com/) - The ultimate showcase of One Page websites
 - [Httpster](https://httpster.net/2018/oct/) - Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
