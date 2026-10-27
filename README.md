@@ -212,6 +212,8 @@
 - [Figma](https://www.figma.com/) - Figma: the collaborative interface design tool.
 - [Font Flipper](https://fontflipper.com/) - Find Free Fonts
 
+- [Design Details](https://designdetails.io/) - Free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
+
 ## Picture
 
 - [National Diet Library](https://ndlsearch.ndl.go.jp/imagebank) - 「NDLイメージバンク」は国立国会図書館所蔵の浮世絵、雑誌、図書などから、選りすぐりのビジュアル資料を紹介するオンライン展示です。
