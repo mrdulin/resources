@@ -237,6 +237,7 @@
 - [The Met Collection](https://www.metmuseum.org/art/collection/) - The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 - [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, watermark 1,000+ images at once. No upload, no account, works offline.
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
+- [Pic2Vector](https://pic2vector.com/) - Free browser-based PNG/JPG/WebP to layered SVG converter. Traces locally with WebAssembly (vtracer); no upload, no account, watermark-free export.
 
 ## Video
 
