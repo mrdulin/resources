@@ -146,6 +146,7 @@
 
 - SaaS&Tools
 
+  - [Bark](https://bark.day.app/#/) - A privacy-focused, secure and controllable custom notification push tool.
   - [PicView](https://picview.org/) - PicView is a fast, free, and fully customizable image viewer for Windows 10 and 11.
   - [GRC](https://www.grc.com/default.htm) - Steve Gibson's and Gibson Research Corporation's Homepage.
   - [IT Tools](https://it-tools.tech/) - IT Tools - Handy online tools for developers
