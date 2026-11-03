@@ -463,6 +463,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [spotify](https://www.spotify.com/)
 - [DI.FM](https://www.di.fm/) - addictive electronic music
 - [soundcloud](https://soundcloud.com/) - Discover the top streamed music and songs online on Soundcloud
+- [Roam Radio](https://roamradios.com/) - Free web player for live radio stations worldwide, by country, genre and language, no sign-up or ads
 
 ## Forum
 
