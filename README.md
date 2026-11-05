@@ -98,6 +98,7 @@
   - [pipedream](https://pipedream.com/) - Pipedream is a serverless integration and compute platform that makes it easy to connect apps and develop event-driven workflows.
   - [Mockae](https://mockae.com/) - Fake rest API powered by Lua
   - [CurlShot](https://curlshot.com/) - Screenshot API: turn any URL into a PNG, JPEG, WebP or PDF with one GET request, free plan of 100 screenshots a month
+  - [deed.page](https://deed.page) - Static hosting API for AI agents and scripts: publish HTML or a folder with one HTTP PUT or through a remote MCP server and get a live https URL, free plan with no signup
 
 - CDN
 
