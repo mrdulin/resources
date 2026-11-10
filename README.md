@@ -47,6 +47,7 @@
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
 - [ZZZ Code AI](https://zzzcode.ai/) - Free AI-powered website to get any programming question answered or code generated.
+- [ChatOutline Pro](https://github.com/SamLu574/chatoutline-pro) - Open-source browser extension (free core + optional Pro presets) adding a collapsible outline sidebar and Obsidian-ready Markdown export for ChatGPT, Claude, Gemini, and DeepSeek.
 
 ## Programming
 
