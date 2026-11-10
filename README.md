@@ -47,6 +47,7 @@
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
 - [ZZZ Code AI](https://zzzcode.ai/) - Free AI-powered website to get any programming question answered or code generated.
+- [StudyArena](https://studyarena.com) - Compare three AI answers to a study question for free, vote, and reveal the models with a free account.
 
 ## Programming
 
