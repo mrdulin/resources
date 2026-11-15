@@ -464,6 +464,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 - [spotify](https://www.spotify.com/)
 - [DI.FM](https://www.di.fm/) - addictive electronic music
 - [soundcloud](https://soundcloud.com/) - Discover the top streamed music and songs online on Soundcloud
+- [No Stairs Please](https://nostairsplease.com/mcp) - Live-music venue booking directory and MCP server for touring musicians across the US and Canada
 
 ## Forum
 
