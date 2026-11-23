@@ -253,6 +253,7 @@
 - [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w)
 - [敖厂长](https://www.youtube.com/channel/UCCkMW93Am1pLfk2nZFKAmbQ) - 欢迎来到敖厂长的YouTube视频空间 这里将为大家带来正版的高画质敖厂长作品
 - [老梁](https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ)
+- [Vidmoat](https://www.vidmoat.com) - Hosted AI video editor: describe the edit in chat, review it on a real timeline, render MP4. Free plan available.
 
 ## Cheatsheets
 
