@@ -456,6 +456,7 @@ macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
 
 ## Entertainment
 
+- [StagePeek](https://stagepeek.live/) - Interactive 2D seating charts and 3D concert stage-view simulator across 201 global venues (free no-login browsing; Pro from $4.99/wk).
 - [Louvre site des collections](https://collections.louvre.fr/en/) - The Collections database consists of entries for more than 480,000 works in the Musée du Louvre and Musée National Eugène-Delacroix. Updated on a daily basis, it is the result of the continuous research and documentation efforts carried out by teams of experts from both museums.
 - [fandom](http://fandom.wikia.com/)
 
