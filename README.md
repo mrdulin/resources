@@ -212,6 +212,7 @@
 - [Vector Logo Zone](https://www.vectorlogo.zone/) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 - [Figma](https://www.figma.com/) - Figma: the collaborative interface design tool.
 - [Font Flipper](https://fontflipper.com/) - Find Free Fonts
+- [Kite (kite.new)](https://kite.new) - Agent-first design tool where humans and AI agents edit the same HTML/CSS file (free plan).
 
 - [Design Details](https://designdetails.io/) - Free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
 - [motion-skills](https://github.com/iart-ai/motion-skills) - Free, MIT-licensed skills that help AI coding agents make motion graphics, kinetic typography and explainer videos.
