@@ -47,6 +47,7 @@
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
 - [ZZZ Code AI](https://zzzcode.ai/) - Free AI-powered website to get any programming question answered or code generated.
+- [AlphaSift](https://github.com/ZhuLinsen/alphasift) - 开源（Apache-2.0）多市场股票筛选 CLI、便携 Agent Skill 与 14 工具只读本地 MCP Server，内置无前瞻 Walk-Forward 形态回放与公开 T+N 跟踪。
 
 ## Programming
 
