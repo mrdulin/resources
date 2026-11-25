@@ -239,6 +239,7 @@
 - [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, watermark 1,000+ images at once. No upload, no account, works offline.
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 - [Cutout.Free](https://cutout.free/) - Free online background remover that exports a transparent PNG or a JPG with a white, blue, red or custom image background; no account needed.
+- [TinyTools ASCII Art Converter](https://tomaserben.com/free-tools/image-to-ascii-art) - Free browser-based image to ASCII art converter (JPG, PNG, GIF, WebP) with adjustable output width; files never uploaded, no signup. (Disclosure: I built this free tool.)
 
 ## Video
 
