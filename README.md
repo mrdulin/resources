@@ -214,6 +214,7 @@
 - [Font Flipper](https://fontflipper.com/) - Find Free Fonts
 
 - [Design Details](https://designdetails.io/) - Free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
+- [Refto Explore](https://refto.one/explore) - A free, hand-curated gallery of real websites, each with full-page screenshots and version history, page sections and a DESIGN.md file describing its colours, type and components.
 
 ## Picture
 
