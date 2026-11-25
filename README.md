@@ -214,6 +214,7 @@
 - [Font Flipper](https://fontflipper.com/) - Find Free Fonts
 
 - [Design Details](https://designdetails.io/) - Free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
+- [motion-skills](https://github.com/iart-ai/motion-skills) - Free, MIT-licensed skills that help AI coding agents make motion graphics, kinetic typography and explainer videos.
 
 ## Picture
 
