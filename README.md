@@ -30,6 +30,7 @@
 
 - [AI Gahaku](https://ai-art.tokyo) - The AI artist named “AI Gahaku” generates a masterpiece from your photo.
 - [达尔文.skill 2.0](https://github.com/alchaincyf/darwin-skill) - 像训练模型一样优化你的 Agent Skills。
+- [OmniForge Skills](https://github.com/zColdWater/omniforge-skills) - Free, MIT-licensed collection of 50 zero-dependency Agent Skills for Claude Code, Cursor, and Codex covering web security headers, Supabase/Firebase RLS checks, and DMARC/SPF email audits.
 - [WorkBuddy蓝皮书](https://workbuddy.homes/) - 系统的 WorkBuddy 中文教程与使用指南，涵盖安装入门、真实案例、Skills、连接器、自动化和多智能体实践。
 - [Cherry Studio AI](https://www.cherry-ai.com/) - Cherry Studio AI 是一款强大的多模型 AI 助手，支持 iOS、macOS 和 Windows 平台。快速切换多个先进的 LLM 模型，提升工作学习效率。
 - [Faraday.dev](https://faraday.dev/) - Chat with AI Characters. Works offline. Zero configuration.
