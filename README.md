@@ -240,6 +240,7 @@
 - [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, watermark 1,000+ images at once. No upload, no account, works offline.
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 - [Cutout.Free](https://cutout.free/) - Free online background remover that exports a transparent PNG or a JPG with a white, blue, red or custom image background; no account needed.
+-  [Dopic](https://dopic.app/) - Privacy-first AI photo studio with 36+ local image tools, AI background remover, and 114+ country passport photo specs.
 
 ## Video
 
