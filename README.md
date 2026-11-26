@@ -47,6 +47,7 @@
 - [AI Prompt Marketplace](https://www.aiprm.com/) - Get the most out of generative AI with the best prompts from our marketplace of prompt engineers.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF
 - [ZZZ Code AI](https://zzzcode.ai/) - Free AI-powered website to get any programming question answered or code generated.
+- [Mode VC LLM Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser calculator for estimating monthly LLM token spend, prompt-cache savings, and gross margin across Claude, GPT, Gemini, DeepSeek, and Grok with no signup.
 
 ## Programming
 
