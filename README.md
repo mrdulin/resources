@@ -285,6 +285,7 @@ Small, fast, customizable, free.
 - [overapi.com](https://overapi.com/) - Collecting All Cheat Sheets
 - [ImageOptim](https://imageoptim.com/mac) - ImageOptim makes images load faster
 - [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG compression
+- [Tinymast](https://tinymast.com/) - Online PDF and image tools: compress, convert, merge and split PDFs; uploads and results are deleted within 24 hours by default.
 - [Firefox Relay](https://relay.firefox.com/) - Firefox Relay makes it easy to create aliases, randomly generated email addresses that forward to your real inbox. Use it to protect your online accounts - and your identity - from hackers. Sign in with your Firefox account to get started.
 - [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/) - Neat Download Manager is a free Internet Download Manager for
 macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)
